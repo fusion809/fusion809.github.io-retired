@@ -7,7 +7,7 @@ Under a monarchy, the head of state&mdash;the monarch&mdash;is an individual who
 
 Under monarchy there are three main basic types:
 
-* **{% include wp.html art="Absolute_monarchy" link="Absolute" %}** (**AM**)&mdash;where the monarch has absolute power over every aspect of government. These were once more commonplace than they are now, as if the monarch abuses this power enough (which usually eventually happens) they are often removed forcibly by a {% include wp.html link="coup d'état" puncr="." %} Saudi Arabia and Oman are two notable examples of absolute monarchies that still exist today.
+* **{% include wp.html art="Absolute_monarchy" link="Absolute" %}** (**AM**)&mdash;where the monarch has absolute power over every aspect of government. These were once more commonplace than they are now, as if the monarch abuses this power enough (which usually eventually happens) they are often removed forcibly by a {% include wp.html link="coup d'état" puncr="" %} and the system of government is often changed, either to a republic or a more limited monarchy. Saudi Arabia and Oman are two notable examples of absolute monarchies that still exist today.
 * **{% include wp.html art="Constitutional_monarchy" link="Parliamentary constitutional" %}** (**PCM**)&mdash;where the monarch has mostly ceremonial powers and most of the country's governance is done via democratic means. Notable examples of this include Commonwealth realms, several other European monarchies (e.g. the Netherlands and Norway), Japan and Malaysia.
 * **Dual system constitutional** (**DSCM**)&mdash;where the monarch retains significant power, but there is still a parliament (often fairly weak) and constitutional limits on the monarch's power. The most notable example of this is Morocco.
 
