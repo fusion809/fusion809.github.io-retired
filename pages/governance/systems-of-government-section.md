@@ -1,27 +1,34 @@
 Systems of government
 =====================
 
-The two main basic types of government in use around the world today are **monarchies** and **republics**. Neither of which have a perfectly all-encompassing definition, as what they are taken to mean can differ quite significantly between countries.
+<h2 id="definition" style="background-color: white; border: none;">Definition</h2>
 
-Under a monarchy, the head of state&mdash;the monarch&mdash;is an individual who usually inherits their role, and usually cannot be forcibly removed from their role, except due to incapacity. This person may also be the head of government and the country's supreme leader, which is the case in an absolute monarchy like Saudi Arabia. Most monarchies present in the world nowadays are constitutional monarchies wherein there are set rules, contained within a legal document called a constitution, that limits the monarch's power and that the monarch usually has little power to change on their own. Some constitutional monarchies of note include Commonwealth realms like Australia, Malaysia, the Netherlands and Japan. Constitutional monarchies are usually also democratic in their governance.
+The two main basic types of government in use around the world today are {% include wp.html link="monarchies" f="b" %} and {% include wp.html link="republics" f="b" puncr="." %} Neither of which have a perfectly all-encompassing definition, as what they are taken to mean can differ quite significantly between countries.
+
+Under a monarchy, the head of state&mdash;the monarch&mdash;is an individual who usually inherits their role, and usually cannot be forcibly removed from their role, except due to incapacity. Historically, it was taken for granted that this monarch would have absolute power to do with whatever they please, but over the centuries this definition has changed radically with many countries adopting greater restrictions on their monarch's power. 
+
+A republic is essentially every other type of government. The word "republic" derives from the Latin meaning "public thing", which means that the governance of the country is meant to be a public matter, not the private concern of the rulers. Despite this, many republics are not as democratic as this definition makes them sound, e.g. North Korea's official name is "Democratic People's Republic of Korea", despite it not being democratic at all.
+
+<h2 id="monarchies" style="background-color: white; border: none;">Monarchies</h2>
 
 Under monarchy there are three main basic types:
 
 * {% include wp.html art="Absolute_monarchy" link="Absolute" f="b" %} (**AM**)&mdash;where the monarch has absolute power over every aspect of government. These were once more commonplace than they are now, as if the monarch abuses this power enough (which usually eventually happens) they are often removed forcibly by a {% include wp.html link="coup d'état" puncr="" %} and the system of government is often changed, either to a republic or a more limited monarchy. Saudi Arabia and Oman are two notable examples of absolute monarchies that still exist today.
+
 * {% include wp.html f="b" art="Constitutional_monarchy" link="Parliamentary constitutional" %} (**PCM**)&mdash;where the monarch has mostly ceremonial powers and most of the country's governance is done via democratic means. Notable examples of this include Commonwealth realms, several other European monarchies (e.g. the Netherlands and Norway), Japan and Malaysia.
 * **Dual system constitutional** (**DSCM**)&mdash;where the monarch retains significant power, but there is still a parliament (often fairly weak) and constitutional limits on the monarch's power. The most notable example of this is Morocco.
 
     If one goes purely by what the constitution of Commonwealth realms says one would also have to consider Commonwealth realms as DSCMs, as they vest complete executive power in the monarch or their representative, along with some legislative powers (e.g. the power to give assent or not to legislation). Despite this, theoretical power, the monarch/their representative almost always acts in accordance with the advice of elected officials, so in practice Commonwealth realms function more as PCMs.
 
-
 {% include wp.html link="Thailand" %} is a PCM that has had its constitutional provisions for governance suspended and is presently under {% include wp.html link="military dictatorship" puncr="." %}
 
-A republic is essentially every other type of government. The word "republic" derives from the Latin meaning "public thing", which means that the governance of the country is meant to be a public matter, not the private concern of the rulers. Despite this, many republics are not as democratic as this definition makes them sound, e.g. North Korea's official name is "Democratic People's Republic of Korea", despite it not being democratic at all.
+<h2 id="republics" style="background-color: white; border: none;">Republics</h2>
 
 {% include_relative governance/image-with-caption.html text="Figure 2: Basic forms of government" subtext="Click map or legend to view the full form, which includes hyperlinks for countries and government types." img="https://fusion809.github.io/images/Maps/Forms of government (shorter desc; more descriptive).svg" width="60%" %}
 
 Republics come in several different flavours (and yes, some republics have multiple different applicable adjectives) including:
 
+<!-- Islamic -->
 * {% include wp.html art="Islamic republic" link="Islamic" f="b" %}&mdash;republics ruled by Islamic laws. There are, at the time of writing, four Islamic republics in the world:
 
     - {% include wp.html link="Afghanistan" %}&mdash;follows a presidential system.
@@ -30,7 +37,6 @@ Republics come in several different flavours (and yes, some republics have multi
     - {% include wp.html link="Pakistan" %}&mdash;otherwise it is governed in a similar way to India, with a parliament vested with executive and legislative power and a separate judiciary.
 
 <!-- Presidential -->
-
 * {% include wp.html f="b" art="Presidential_system" link="Presidential" %}&mdash;systems in which there is a popularly elected president that is both head of state and head of government, and there is a separate, largely independent legislature that is overseen by other elected officials (e.g. senators and congresspersons). The legislature has fairly minimal ability to affect the executive branch and vice versa, except via use of powers that are designed to only be used in exceptional circumstances (e.g. the legislature can often impeach the president, but it is challenging, likewise the president has the ability to veto any legislation that is pending approval). High ranking members of the judiciary are often appointed by the president, with the consent of the senate. The US is the prototypical presidential republic.
 
     They tend to be relatively unstable, rank less well on measures of democracy (e.g. look at Turkey and Zimbabwe) and often end in a coup d'état, because of the difficulty in removing an unruly president and the difficulty in passing legislation when the president's political views differ from those of the legislature.
@@ -56,7 +62,7 @@ Republics come in several different flavours (and yes, some republics have multi
     Usually the executive head of government is called the prime minister and there is a largely ceremonial president (that basically serves the same roles as the Governor/Governor-General does in a PCM), but there are some such countries where the president is the head of government and there is no prime minister (e.g. Botswana, South Africa). When the president is ceremonial usually they are popularly elected (either directly, or by an electoral college), while if they are executive they are usually appointed by, and responsible to, the parliament.
 
 <!-- Directorial -->
-* {% include wp.html f="b" art="Directorial system" link="Directorial" %}&mdash;these are rare systems, of which there are only two modern examples (San Marino, Switzerland), they are somewhat similar to parliamentary systems with an executive presidency in that their executive leadership is named by the parliament. The difference is that their executive leadership is by a group of people (2 for San Marino, 7 for Switzerland) of equal authority that jointly make decisions and that serve for fixed terms and cannot be removed prematurely by the parliament. 
+* {% include wp.html f="b" art="Directorial system" link="Directorial" %}&mdash;these are rare systems, of which there are only two modern examples (San Marino, Switzerland), they are somewhat similar to parliamentary systems with an executive presidency in that their executive leadership is named by the parliament. The difference is that their executive leadership is by more than one person (2 for San Marino, 7 for Switzerland) of equal authority that jointly make decisions and that serve for fixed terms and cannot be removed prematurely by the parliament.
 
 <!-- One-party -->
 * {% include wp.html f="b" art="One-party system" link="One-party" %}&mdash;these are usually Marxist-Leninist states, like what was present in the USSR, and is now in place in China, Vietnam and Laos. They are authoritarian states wherein all, or almost all, authority is vested in a single political party, which is the only party that legally can be in charge. These parties usually hold to a single ideology and if they are {% include wp.html link="Marxist-Leninist" %} their stated goal is to one day achieve Marxist communism. They do this by imposing state capitalism, wherein most businesses are state-owned and operated for the state's profit so that they can develop their capitalist economy and create a state of abundance. Under Marxist thought communism can only be achieved in a state of abundance and this is why they implement state capitalism despite claiming to be socialist. China's economy is presently the second fastest growing in the world after India and has not experienced negative growth (i.e. a recession) since the 1970s and their GDP (PPP) is presently the highest in the world.
