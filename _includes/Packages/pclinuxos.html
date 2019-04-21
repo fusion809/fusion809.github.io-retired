@@ -1,0 +1,2 @@
+{{ include.puncl }}{% if include.no != "1" %}PCLinuxOS (package name{% if include.package2 %}s{% endif %}: <a href='https://pkgs.org/download/{{ include.package }}' link='_blank'><span class="package">{{ include.package }}</span></a>{% if include.package2 %}, <a href='https://pkgs.org/download/{{ include.package2 }}' link='_blank'><span class="package">{{ include.package2 }}</span></a>{% endif %}){% else %}<a href='https://pkgs.org/download/{{ include.package }}' link='_blank'><span class="package">{{ include.package }}</span></a>{% endif %}{{ include.puncr }}
+

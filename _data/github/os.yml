@@ -1,0 +1,17 @@
+# Also de-licensed
+body:
+# arch-setup
+  - repo:
+            "arch-setup"
+    fork:
+            "n"
+    license:
+            "GPLv3"
+    readme:
+            "y"
+    maintained:
+            "n"
+    working:
+            "n"
+    description:
+            "Scripts for automating the installation of Arch Linux on laptops with Broadcom WiFi chips."

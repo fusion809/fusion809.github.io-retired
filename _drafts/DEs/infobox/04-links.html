@@ -1,0 +1,35 @@
+<tr class="green">
+	<td class="title2" colspan="2" style="text-align: center;">External links</td>
+</tr>{% if include.arch %}
+<tr class="green">
+	<td class="title5">ArchWiki</td>
+        <td class="green"><a href="https://wiki.archlinux.org/index.php/{{ include.arch }}" link="_blank">{% if include.arch-pretty %}{{ include.arch-pretty }}{% else %}{{ include.arch }}{% endif %}</a></td>
+</tr>{% endif %}{% if include.gentoo %}
+<tr class="green">
+	<td class="title5">Gentoo Wiki</td>
+        <td class="green"><a href="https://wiki.gentoo.org/wiki/{{ include.gentoo }}" link="_blank">{% if include.gentoo-pretty %}{{ include.gentoo-pretty }}{% else %}{{ include.gentoo }}{% endif %}</a></td>
+</tr>{% endif %}{% if include.github %}
+<tr class="green">
+	<td class="title5">GitHub</td>
+        <td class="green"><a href="https://github.com/{{ include.github }}" link="_blank">{{ include.github }}</a><br/> <a href = "https://github.com/{{ include.github }}/forks" link="_blank"><img src="https://img.shields.io/github/forks/{{ include.github }}.svg" style="float:right;"></a><a href = "https://github.com/{{ include.github }}/stargazers" link="_blank"><img src="https://img.shields.io/github/stars/{{ include.github }}.svg" style="float:right;"></a><a href = "https://github.com/{{ include.github }}/watchers" link="_blank"><img src="https://img.shields.io/github/watchers/{{ include.github }}.svg" style="float:right;"></a></td>
+</tr>{% endif %}{% if include.channel %}
+<tr class="green">
+	<td class="title5">IRC channel</td>
+	<td class="green"><a href="{% if include.server %}https://kiwiirc.com/client/irc://irc.{% if include.server == "oftc" %}oftc.net{% else %}{{ include.server }}{% endif %}/#{{ include.channel }}{% else %}https://kiwiirc.com/client/irc://irc.freenode.net/#{{ include.channel }}{% endif %}" link="_blank">#{{ include.channel }} on {% if include.server == "oftc" %}OFTC{% else %}Freenode{% endif %}</a></td>
+</tr>{% endif %}{% if include.website %}
+<tr class="green">
+	<td class="title5">Official website</td>
+        <td class="green"><a href="{{ include.website }}" link="_blank">{{ include.website-pretty }}</a></td>
+</tr>{% endif %}{% if include.packages %}
+<tr class="green">
+	<td class="title5">Packages (pkgs.org)</td>
+	<td class="green"><a href="https://pkgs.org/download/{% if include.package %}{{ include.package }}{% elsif include.wc %}{{ include.wc }}{% else %}{{ include.wm }}{% endif %}" link="_blank">{% if include.package %}{{ include.package }}{% elsif include.wc %}{{ include.wc }}{% else %}{{ include.wm }}{% endif %}</a></td>
+</tr>{% endif %}{% if include.reddit %}
+<tr class="green">
+	<td class="title5">Reddit</td>
+	<td class="green"><a href="https://www.reddit.com/r/{{ include.reddit }}/" link="_blank">{{ include.reddit }}</a></td>
+</tr>{% endif %}{% if include.wp %}
+<tr class="green">
+	<td class="title5">Wikipedia (en)</td>
+        <td class="green"><a href="https://en.wikipedia.org/wiki/{{ include.wp }}" link="_blank">{% if include.wp-pretty %}{{ include.wp-pretty }}{% else %}{{ include.wp }}{% endif %}</a></td>
+</tr>{% endif %}

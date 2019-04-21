@@ -1,0 +1,529 @@
+table {
+  display:          block;
+}
+
+span.red, table.red, td.red, tr.red {
+  background-color: rgb(255, 0, 0);
+  border:           2px solid #000 !important;
+  border-collapse:  collapse !important;
+  border-radius:    4px;
+  border-top:       1px solid #000;
+  padding:          8px;
+  vertical-align:   middle;
+  a {
+    color: rgb(0, 0, 155);
+  }
+}
+
+span.redc, table.redc, td.redc, tr.redc {
+  background-color: rgb(255, 0, 0);
+  border:           2px solid #000 !important;
+  border-collapse:  collapse !important;
+  border-radius:    4px;
+  border-top:       1px solid #000;
+  padding:          8px;
+  vertical-align:   middle;
+  text-align:       center;
+  a {
+    color: rgb(0, 0, 155);
+  }
+}
+
+span.green, table.green, td.green, tr.green {
+  background-color: rgb(0, 255, 0);
+  border:           2px solid #000 !important;
+  border-collapse:  collapse !important;
+  border-radius:    4px;
+  border-top:       1px solid #000;
+  padding:          8px;
+  vertical-align:   middle;
+  a {
+    color: rgb(0, 0, 155);
+  }
+}
+
+span.greenc, table.greenc, td.greenc, tr.greenc {
+  background-color: rgb(0, 255, 0);
+  border:           2px solid #000 !important;
+  border-collapse:  collapse !important;
+  border-radius:    4px;
+  border-top:       1px solid #000;
+  padding:          8px;
+  vertical-align:   middle;
+  text-align:       center;
+  a {
+    color: rgb(0, 0, 155);
+  }
+}
+
+span.generic, table.generic, td.generic, tr.generic {
+  border:           2px solid #000 !important;
+  border-collapse:  collapse !important;
+  border-radius:    4px;
+  border-top:       1px solid #000;
+  padding:          8px;
+  vertical-align:   middle;
+  a {
+    color: rgb(0, 0, 100);
+  }
+}
+
+span.greend, table.greend, td.greend, tr.greend {
+  background-color: rgb(128, 255, 255);
+  border:           2px solid #000 !important;
+  border-collapse:  collapse !important;
+  border-radius:    4px;
+  border-top:       1px solid #000;
+  padding:          8px;
+  vertical-align:   middle;
+  a {
+    color: rgb(0, 0, 155);
+  }
+}
+
+span.white, table.white, td.white, tr.white {
+  background-color: rgb(255,255,255);
+  border:           2px solid #000 !important;
+  border-collapse:  collapse !important;
+  border-radius:    4px;
+  border-top:       1px solid #000;
+  padding:          8px;
+  vertical-align:   middle;
+  text-align:       center;
+  a {
+    color: rgb(0, 0, 155);
+  }
+}
+
+span.grey, table.grey, td.grey, tr.grey {
+  background-color: rgb(155,155,155);
+  border:           2px solid #000 !important;
+  border-collapse:  collapse !important;
+  border-radius:    4px;
+  border-top:       1px solid #000;
+  padding:          8px;
+  vertical-align:   middle;
+  text-align:       center;
+  a {
+    color: rgb(0, 0, 155);
+  }
+}
+
+span.grey-green, table.grey-green, td.grey-green, tr.grey-green {
+  background-color: rgb(155,255,155);
+  border:           2px solid #000 !important;
+  border-collapse:  collapse !important;
+  border-radius:    4px;
+  border-top:       1px solid #000;
+  padding:          8px;
+  vertical-align:   middle;
+  text-align:       center;
+  a {
+    color: rgb(0, 0, 155);
+  }
+}
+
+span.yellow, table.yellow, td.yellow, tr.yellow {
+  background-color: rgb(255, 255, 0);
+  border:           2px solid #000 !important;
+  border-collapse:  collapse !important;
+  border-radius:    4px;
+  border-top:       1px solid #000;
+  padding:          8px;
+  vertical-align:   middle;
+  a {
+    color: rgb(0, 0, 155);
+  }
+}
+
+span.yellowc, table.yellowc, td.yellowc, tr.yellowc {
+  background-color: rgb(255, 255, 0);
+  border:           2px solid #000 !important;
+  border-collapse:  collapse !important;
+  border-radius:    4px;
+  border-top:       1px solid #000;
+  padding:          8px;
+  vertical-align:   middle;
+  text-align:       center;
+  a {
+    color: rgb(0, 0, 155);
+  }
+}
+
+span.firstl, table.firstl, td.firstl, tr.firstl {
+  background-color: rgb(255,100,100);
+  border:           2px solid #000 !important;
+  border-collapse:  collapse !important;
+  border-radius:    4px;
+  border-top:       1px solid #000;
+  padding:          8px;
+  vertical-align:   middle;
+  font-weight:      bold;
+  a {
+    color: rgb(0, 0, 155);
+  }
+}
+
+span.lightgrey, table.lightgrey, td.lightgrey, tr.lightgrey {
+  background-color: rgb(205,205,205);
+  border:           2px solid #000 !important;
+  border-collapse:  collapse !important;
+  border-radius:    4px;
+  border-top:       1px solid #000;
+  padding:          8px;
+  vertical-align:   middle;
+  text-align:       center;
+  a {
+    color: rgb(0, 0, 155);
+  }
+}
+
+span.lightgreyl, table.lightgreyl, td.lightgreyl, tr.lightgreyl {
+  background-color: rgb(205,205,205);
+  border:           2px solid #000 !important;
+  border-collapse:  collapse !important;
+  border-radius:    4px;
+  border-top:       1px solid #000;
+  padding:          8px;
+  vertical-align:   middle;
+  a {
+    color: rgb(0, 0, 155);
+  }
+}
+
+span.pinkl, table.pinkl, td.pinkl, tr.pinkl {
+  background-color: rgb(255,185,255);
+  border:           2px solid #000 !important;
+  border-collapse:  collapse !important;
+  border-radius:    4px;
+  border-top:       1px solid #000;
+  padding:          8px;
+  vertical-align:   middle;
+  a {
+    color: rgb(0, 0, 155);
+  }
+}
+
+span.cyan, table.cyan, td.cyan, tr.cyan {
+  background-color: #00cccc;
+  border:           2px solid #000 !important;
+  border-collapse:  collapse !important;
+  border-radius:    4px;
+  border-top:       1px solid #000;
+  color:            rgba(0,0,0,100);
+  font-size:        16px;
+  font-weight:      bold;
+  padding:          8px;
+  vertical-align:   middle;
+  a {
+    color: rgb(0, 0, 155);
+  }
+}
+
+span.blue, table.blue, td.blue, tr.blue {
+  background-color: rgb(128,255,255);
+  border:           2px solid #000 !important;
+  border-collapse:  collapse !important;
+  border-radius:    4px;
+  border-top:       1px solid #000;
+  padding:          8px;
+  vertical-align:   middle;
+  a {
+    color: rgb(0, 0, 55);
+  }
+}
+
+span.note, table.note, td.note, tr.note {
+  background-color: #ffa0a0;
+  border:           2px solid #000 !important;
+  border-collapse:  collapse !important;
+  border-radius:    4px;
+  border-top:       1px solid #000;
+  padding:          8px;
+  vertical-align:   middle;
+}
+
+td.title {
+  border-collapse: collapse !important;
+  padding: 8px;
+  vertical-align: middle;
+  border-top: 1px solid #000;
+  border: 2px solid #000 !important;
+  border-radius: 4px;
+  background-color: rgb(128, 255, 128);
+  font-weight: bold;
+}
+
+td.title1 {
+  border-collapse: collapse !important;
+  padding: 8px;
+  vertical-align: middle;
+  border-top: 1px solid #000;
+  border: 2px solid #000 !important;
+  border-radius: 4px;
+  background-color: rgb(255, 50, 50);
+  font-weight: bold;
+  white-space: nowrap;
+}
+
+td.title2 {
+  border-collapse: collapse !important;
+  padding: 8px;
+  vertical-align: middle;
+  border-top: 1px solid #000;
+  border: 2px solid #000 !important;
+  border-radius: 4px;
+  background-color: rgb(128, 128, 255);
+  font-weight: bold;
+  white-space: nowrap;
+  font-size: 20px;
+}
+
+td.title3 {
+  border-collapse: collapse !important;
+  padding: 8px;
+  vertical-align: middle;
+  border-top: 1px solid #000;
+  border: 2px solid #000 !important;
+  border-radius: 4px;
+  background-color: rgb(255, 128, 255);
+  font-weight: bold;
+  white-space: nowrap;
+  font-size: 20px;
+}
+
+td.title4 {
+  border-collapse: collapse !important;
+  padding: 8px;
+  vertical-align: middle;
+  border-top: 1px solid #000;
+  border: 2px solid #000 !important;
+  border-radius: 4px;
+  background-color: rgb(255, 100, 100);
+  font-weight: bold;
+  font-size: 16px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+td.title5 {
+  border-collapse: collapse !important;
+  padding: 8px;
+  vertical-align: middle;
+  border-top: 1px solid #000;
+  border: 2px solid #000 !important;
+  border-radius: 4px;
+  background-color: rgb(255, 100, 100);
+  font-weight: bold;
+  white-space: nowrap;
+}
+
+td.title6 {
+  border-collapse: collapse !important;
+  padding: 8px;
+  vertical-align: middle;
+  border-top: 1px solid #000;
+  border: 2px solid #000 !important;
+  border-radius: 4px;
+  background-color: rgb(255, 128, 255);
+  font-weight: bold;
+  white-space: nowrap;
+}
+
+
+span.no, td.no, td.No {
+  background-color: red;
+  color: white;
+  text-align: center;
+  vertical-align: middle;
+  border-top: 1px solid #000;
+  border: 2px solid #000 !important;
+  border-radius: 4px;
+  padding: 8px;
+  font-size: 14px;
+}
+
+td.Interpreted {
+  background-color: blue;
+  color: white;
+  text-align: center;
+  vertical-align: middle;
+  border-top: 1px solid #000;
+  border: 2px solid #000 !important;
+  border-radius: 4px;
+  padding: 8px;
+}
+
+span.mixed, td.Mixed, td.mixed {
+  background-color: rgb(255,255,0);
+  color: black;
+  text-align: center;
+  vertical-align: middle;
+  border-top: 1px solid #000;
+  border: 2px solid #000 !important;
+  border-radius: 4px;
+  padding: 8px;
+}
+
+span.yes, td.yes, td.Yes, td.Compiled {
+  background-color: #080;
+  color:            #fff;
+  font-size:        14px;
+  text-align:       center;
+  vertical-align:   middle;
+  border-top:       1px solid #000;
+  border:           2px solid #000 !important;
+  border-radius:    4px;
+  padding:          8px;
+}
+
+td.yes a {
+  font-weight: bold;
+  color:       #9ff;
+}
+
+// All Licenses are hyperlinked
+td.GPLv3, td.GPLv2 {
+  background-color: rgb(20,255,20);
+  font-size:        14px;
+  text-align:       center;
+  vertical-align:   middle;
+  border-top:       1px solid #000;
+  border:           2px solid #000 !important;
+  border-radius:    4px;
+  padding:          8px;
+}
+
+td.GPLv3 a, td.GPLv2 a {
+  font-weight:      bold;
+  color:            rgb(0,0,25);
+}
+
+td.ISC, td.MIT {
+  background-color: rgb(255,200,200);
+  font-size:        14px;
+  text-align:       center;
+  vertical-align:   middle;
+  border-top:       1px solid #000;
+  border:           2px solid #000 !important;
+  border-radius:    4px;
+  padding:          8px;
+}
+
+td.ISC a, td.MIT a {
+  font-weight:      bold;
+  color:            rgb(0,0,25);
+}
+
+div.title {
+  font-size: 24px;
+  font-weight: bold;
+  padding: 4px;
+}
+
+td.program, td.Program {
+  background-color: rgb(174,207,0);
+  border:           2px solid #000 !important;
+  border-collapse:  collapse !important;
+  border-radius:    4px;
+  border-top:       1px solid #000;
+  color:            rgba(0,0,0,100);
+  font-size:        14px;
+  font-weight:      bold;
+  padding:          8px;
+  vertical-align:   middle;
+}
+
+td.version, td.Version {
+  background-color: rgb(255,51,255);
+  border:           2px solid #000 !important;
+  border-collapse:  collapse !important;
+  border-radius:    4px;
+  border-top:       1px solid #000;
+  color:            rgba(0,0,0,100);
+  font-size:        14px;
+  font-weight:      bold;
+  padding:          8px;
+  text-align:       right;
+  vertical-align:   middle;
+}
+
+td.developer {
+  background-color: rgb(150,50,150);
+  border:           2px solid #000 !important;
+  border-collapse:  collapse !important;
+  border-radius:    4px;
+  border-top:       1px solid #000;
+  color:            rgba(0,0,0,100);
+  font-size:        14px;
+  font-weight:      bold;
+  padding:          8px;
+  text-align:       center;
+  vertical-align:   middle;
+}
+
+td.languages {
+  background-color: rgb(100,80,200);
+  border:           2px solid #000 !important;
+  border-collapse:  collapse !important;
+  border-radius:    4px;
+  border-top:       1px solid #000;
+  color:            rgba(0,0,0,100);
+  font-size:        14px;
+  padding:          8px;
+  text-align:       left;
+  vertical-align:   middle;
+}
+
+td.license, td.License {
+  background-color: rgb(255,102,0);
+  border:           2px solid #000 !important;
+  border-collapse:  collapse !important;
+  border-radius:    4px;
+  border-top:       1px solid #000;
+  color:            rgba(0,0,0,100);
+  font-size:        14px;
+  font-weight:      bold;
+  padding:          8px;
+  text-align:       center;
+  vertical-align:   middle;
+}
+
+td.subjective, td.Subjective {
+  background-color: rgb(0,255,102);
+  border:           2px solid #000 !important;
+  border-collapse:  collapse !important;
+  border-radius:    4px;
+  border-top:       1px solid #000;
+  color:            rgba(0,0,0,100);
+  font-size:        14px;
+  font-weight:      bold;
+  padding:          8px;
+  vertical-align:   middle;
+}
+
+td.optional, td.Optional {
+  background-color: rgb(255,255,0);
+  border:           2px solid #000 !important;
+  border-collapse:  collapse !important;
+  border-radius:    4px;
+  border-top:       1px solid #000;
+  color:            rgba(0,0,0,100);
+  font-size:        14px;
+  font-weight:      bold;
+  padding:          8px;
+  vertical-align:   middle;
+}
+
+span.partial, td.partial, td.Partial {
+  background-color: rgb(0,255,255);
+  border:           2px solid #000 !important;
+  border-collapse:  collapse !important;
+  border-radius:    4px;
+  border-top:       1px solid #000;
+  color:            rgba(0,0,0,100);
+  font-size:        14px;
+  font-weight:      bold;
+  padding:          8px;
+  vertical-align:   middle;
+}

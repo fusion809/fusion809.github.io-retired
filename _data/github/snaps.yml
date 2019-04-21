@@ -1,0 +1,35 @@
+# This has been de-licensed
+body:
+# emacs-snap
+  - repo:
+            "emacs-snap"
+    category:
+            "snaps"
+    fork:
+            "n"
+    license:
+            "GPLv3"
+    readme:
+            "y"
+    maintained:
+            "n"
+    working:
+            "y"
+    description:
+            "Files for building an emacs snap package."
+
+# snapcraft
+  - repo:
+            "snapcraft"
+    fork:
+            "n"
+    license:
+            "GPLv3"
+    readme:
+            "y"
+    maintained:
+            "n"
+    working:
+            "y"
+    description:
+            "Files for building snap packages for Atom."
