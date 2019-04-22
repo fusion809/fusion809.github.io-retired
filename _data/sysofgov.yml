@@ -11,7 +11,18 @@ body:
     upper-house-art:     Australian_Senate
     upper-house-app:     STV
     upper-house-app-art: Single_transferable_vote
-    house-powers:        LH&#8819;UH
+    house-powers:        LH>UH (LH has exec power;<br/> UH has less money bill power)
+
+  - country:             Brazil
+    legislature:         National Congress
+    legislature-art:     National_Congress_of_Brazil
+    lower-house:         Chamber of Deputies
+    lower-house-art:     Chamber_of_Deputies_(Brazil)
+    lower-house-app:     OLPLPR
+    lower-house-app-art: Open_list
+    upper-house:         Federal Senate
+    upper-house-app:     <a href="https://en.wikipedia.org/wiki/Plurality_voting" link="_blank">PLV</a>&#58; alternating every four years<br/> between <a href="https://en.wikipedia.org/wiki/First-past-the-post" link="_blank">FPTP</a> and <a href="https://en.wikipedia.org/wiki/Plurality-at-large_voting" link="_blank">block voting</a>. 
+    house-powers:        LH<UH (UH approves appointments<br/> by pres; tries pres in trials; <i>etc.</i>)
 
   - country:             Canada
     legislature:         Parliament
@@ -23,7 +34,7 @@ body:
     upper-house:         Senate
     upper-house-art:     Senate_of_Canada
     upper-house-app:     By PM
-    house-powers:        LH&#8811;UH
+    house-powers:        LH>UH (LH has exec power;<br/> UH has less money bill power)
 
   - country:             France
     legislature:         Parliament
@@ -35,16 +46,16 @@ body:
     upper-house:         Senate
     upper-house-art:     Senate_(France)
     upper-house-app:     By elected officials
-    house-powers:        LH>UH
+    house-powers:        LH>UH (LH has exec power;<br/> LH can overrule UH in some cases<br/> of deadlock)
 
   - country:             Germany
     legislature:         Bundestag
     legislature-app:     MMPR
     legislature-app-art: Mixed-member_proportional_representation
     upper-house:         Bundesrat
-    upper-house-art:     Bundesrat
+    upper-house-art:     Bundesrat_of_Germany
     upper-house-app:     By <a href="https://en.wikipedia.org/wiki/States_of_Germany" link="_blank">state</a> officials.
-    house-powers:        LH>UH
+    house-powers:        LH>UH (UH approval only needed<br/> in some cases; LH has exec power)
 
   - country:             Iceland
     legislature:         Althing
@@ -93,7 +104,7 @@ body:
     upper-house:         Federation Council
     upper-house-art:     Federation_Council_(Russia)
     upper-house-app:     By <a href="https://en.wikipedia.org/wiki/Federal_subjects_of_Russia" link="_blank">federal subject</a> officials.
-    house-powers:        LH&approx;UH
+    house-powers:        LH&approx;UH (distinct powers)
 
   - country:             United Kingdom
     legislature:         Parliament
@@ -103,8 +114,8 @@ body:
     lower-house-app:     FPTP
     lower-house-app-art: First-past-the-post
     upper-house:         House of Lords
-    upper-house-app:     Some are appointed by the monarch, some inherit the role, some are church officials, <i>etc.</i>
-    house-powers:        LH&#8811;UH
+    upper-house-app:     Some are appointed by the monarch,<br/> some inherit the role, some<br/> are church officials, <i>etc.</i>
+    house-powers:        LH&#8811;UH (UH only has delaying power)
 
   - country:             United States
     legislature:         Congress
@@ -115,4 +126,4 @@ body:
     upper-house:         Senate
     upper-house-art:     United_States_Senate
     upper-house-app:     By <a href="https://en.wikipedia.org/wiki/States_of_the_United_States" link="_blank">state</a> officials.
-    house-powers:        LH&approx;UH
+    house-powers:        LH&approx;UH (distinct powers for each)
