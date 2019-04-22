@@ -1,0 +1,3 @@
+A {% include wp.html link="head of state" f="b" %} is the person who officially represents a {% include wp.html link="sovereign country" puncr="," %} like at international meetings. They are usually either a {% include wp.html link="monarch" %} or a {% include wp.html link="president" puncr="." %}
+
+A {% include wp.html link="head of government" f="b" %} is the highest ranking official in the executive branch of a government (usually a president, {% include wp.html link="premier" puncr="," %} {% include wp.html link="chancellor" puncr="," %} {% include wp.html link="prime minister" puncr="," %} or monarch), like of a federated state (e.g. Qld) or a sovereign nation.

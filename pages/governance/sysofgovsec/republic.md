@@ -1,30 +1,5 @@
-Systems of government
-=====================
-
-<h2 id="definition" style="background-color: white; border: none;">Definition</h2>
-
-The two main basic types of government in use around the world today are {% include wp.html link="monarchies" f="b" %} and {% include wp.html link="republics" f="b" puncr="." %} Neither of which have a perfectly all-encompassing definition, as what they are taken to mean can differ quite significantly between countries.
-
-Under a monarchy, the head of state&mdash;the monarch&mdash;is an individual who usually inherits their role, and usually cannot be forcibly removed from their role, except due to incapacity. Historically, it was taken for granted that this monarch would have absolute power to do with whatever they please, but over the centuries this definition has changed radically with many countries adopting greater restrictions on their monarch's power. 
-
-A republic is essentially every other type of government. The word "republic" derives from the Latin meaning "public thing", which means that the governance of the country is meant to be a public matter, not the private concern of the rulers. Despite this, many republics are not as democratic as this definition makes them sound, e.g. {% include wp.html link="North Korea" puncr="'s" %} official name is "Democratic People's Republic of Korea", despite it not being democratic at all.
-
-<h2 id="monarchies" style="background-color: white; border: none;">Monarchies</h2>
-
-Under monarchy there are three main basic types:
-
-* {% include wp.html art="Absolute_monarchy" link="Absolute" f="b" %} (**AM**)&mdash;where the monarch has absolute power over every aspect of government. These were once more commonplace than they are now, as if the monarch abuses this power enough (which usually eventually happens) they are often removed forcibly by a {% include wp.html link="coup d'état" puncr="" %} and the system of government is often changed, either to a republic or a more limited monarchy. Saudi Arabia and Oman are two notable examples of absolute monarchies that still exist today.
-
-* {% include wp.html f="b" art="Constitutional_monarchy" link="Parliamentary constitutional" %} (**PCM**)&mdash;where the monarch has mostly ceremonial powers and most of the country's governance is done via democratic means. Notable examples of this include Commonwealth realms, several other European monarchies (e.g. the Netherlands and Norway), Japan and Malaysia.
-* **Dual system constitutional** (**DSCM**)&mdash;where the monarch retains significant power, but there is still a parliament (often fairly weak) and constitutional limits on the monarch's power. The most notable example of this is Morocco.
-
-    If one goes purely by what the constitution of Commonwealth realms says one would also have to consider Commonwealth realms as DSCMs, as they vest complete executive power in the monarch or their representative, along with some legislative powers (e.g. the power to give assent or not to legislation). Despite this, theoretical power, the monarch/their representative almost always acts in accordance with the advice of elected officials, so in practice Commonwealth realms function more as PCMs.
-
-{% include wp.html link="Thailand" %} is a PCM that has had its constitutional provisions for governance suspended and is presently under {% include wp.html link="military dictatorship" puncr="." %}
-
-<h2 id="republics" style="background-color: white; border: none;">Republics</h2>
-
-{% include_relative governance/image-with-caption.html text="Figure 2: Basic forms of government" subtext="Click map or legend to view the full form, which includes hyperlinks for countries and government types." img="https://fusion809.github.io/images/Maps/Forms of government (shorter desc; more descriptive).svg" width="60%" %}
+<!-- Heading, without the box around it-->
+{% include h2.html text="Republics" %}
 
 Republics come in several different flavours (and yes, some republics have multiple different applicable adjectives) including:
 

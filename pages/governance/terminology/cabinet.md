@@ -1,0 +1,1 @@
+A {% include wp.html link="cabinet" dis="government" f="b" %} (often spelt with a capital c) is a body of officials, usually referred to as secretaries or ministers, that are the top leaders of the executive branch of government.
