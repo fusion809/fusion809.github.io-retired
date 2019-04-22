@@ -11,6 +11,7 @@ body:
     upper-house-art:     Australian_Senate
     upper-house-app:     STV
     upper-house-app-art: Single_transferable_vote
+    house-powers:        LH&#8819;UH
 
   - country:             Canada
     legislature:         Parliament
@@ -22,6 +23,7 @@ body:
     upper-house:         Senate
     upper-house-art:     Senate_of_Canada
     upper-house-app:     By PM
+    house-powers:        LH&#8811;UH
 
   - country:             France
     legislature:         Parliament
@@ -33,6 +35,7 @@ body:
     upper-house:         Senate
     upper-house-art:     Senate_(France)
     upper-house-app:     By elected officials
+    house-powers:        LH>UH
 
   - country:             Germany
     legislature:         Bundestag
@@ -41,6 +44,7 @@ body:
     upper-house:         Bundesrat
     upper-house-art:     Bundesrat
     upper-house-app:     By <a href="https://en.wikipedia.org/wiki/States_of_Germany" link="_blank">state</a> officials.
+    house-powers:        LH>UH
 
   - country:             Iceland
     legislature:         Althing
@@ -55,6 +59,7 @@ body:
     lower-house-app-art: First-past-the-post
     upper-house:         Rajya Sabha
     upper-house-app:     233 by <a href="https://en.wikipedia.org/wiki/Single_transferable_vote" link="_blank">STV</a>, 12 by <a href="https://en.wikipedia.org/wiki/President_of_India" link="_blank">president</a>.
+    house-powers:        LH>UH
 
   - country:             Italy
     legislature:         Parliament
@@ -65,6 +70,7 @@ body:
     upper-house:         Senate of the Republic
     upper-house-art:     Italian_Senate
     upper-house-app:     <a href="https://en.wikipedia.org/wiki/Parallel_voting" link="_blank">PV</a>&#58; 37% by <a href="https://en.wikipedia.org/wiki/First-past-the-post" link="_blank">FPTP</a>, 63% by <a href="https://en.wikipedia.org/wiki/Closed_list" link="_blank">CLPLPR</a>.
+    house-powers:        LH=UH
 
   - country:             New Zealand
     legislature:         Parliament
@@ -73,7 +79,7 @@ body:
     lower-house-art:     New_Zealand_House_of_Representatives
     lower-house-app:     MMPR
     lower-house-app-art: Mixed-member_proportional_representation
-  
+
   - country:             Norway
     legislature:         Storting
     legislature-app:     OLPLPR
@@ -87,6 +93,7 @@ body:
     upper-house:         Federation Council
     upper-house-art:     Federation_Council_(Russia)
     upper-house-app:     By <a href="https://en.wikipedia.org/wiki/Federal_subjects_of_Russia" link="_blank">federal subject</a> officials.
+    house-powers:        LH&approx;UH
 
   - country:             United Kingdom
     legislature:         Parliament
@@ -97,6 +104,7 @@ body:
     lower-house-app-art: First-past-the-post
     upper-house:         House of Lords
     upper-house-app:     Some are appointed by the monarch, some inherit the role, some are church officials, <i>etc.</i>
+    house-powers:        LH&#8811;UH
 
   - country:             United States
     legislature:         Congress
@@ -107,3 +115,4 @@ body:
     upper-house:         Senate
     upper-house-art:     United_States_Senate
     upper-house-app:     By <a href="https://en.wikipedia.org/wiki/States_of_the_United_States" link="_blank">state</a> officials.
+    house-powers:        LH&approx;UH
