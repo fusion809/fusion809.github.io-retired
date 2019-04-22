@@ -1,7 +1,7 @@
 Organizational structure
 ========================
 
-{% include_relative governance/orgstr/figure-1.md %}
+{% include_relative governance/orgstr/00-figure-2.md %}
 
 {% include_relative governance/orgstr/01-federation.md %}
 
