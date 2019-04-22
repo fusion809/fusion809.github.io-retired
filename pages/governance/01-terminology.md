@@ -17,4 +17,4 @@ Terminology
 {% include_relative governance/terminology/legislature.md %}
 
 <!-- Legislature table -->
-{% include_relative governance/terminology/legislature-table.html %}
+{% include_relative governance/terminology/legislature-data-table.html %}

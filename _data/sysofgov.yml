@@ -1,0 +1,109 @@
+body:
+
+  - country:             Australia
+    legislature:         Parliament
+    legislature-art:     Parliament_of_Australia
+    lower-house:         House of Representatives
+    lower-house-art:     Australian_House_of_Representatives
+    lower-house-app:     IRV
+    lower-house-app-art: Instant-runoff_voting
+    upper-house:         Senate
+    upper-house-art:     Australian_Senate
+    upper-house-app:     STV
+    upper-house-app-art: Single_transferable_vote
+
+  - country:             Canada
+    legislature:         Parliament
+    legislature-art:     Parliament_of_Canada
+    lower-house:         House of Commons
+    lower-house-art:     House_of_Commons_of_Canada
+    lower-house-app:     FPTP
+    lower-house-app-art: First-past-the-post
+    upper-house:         Senate
+    upper-house-art:     Senate_of_Canada
+    upper-house-app:     By PM
+
+  - country:             France
+    legislature:         Parliament
+    legislature-art:     Parliament_of_France
+    lower-house:         National Assembly
+    lower-house-art:     National_Assembly_(France)
+    lower-house-app:     TRV
+    lower-house-app-art: Two-round_voting
+    upper-house:         Senate
+    upper-house-art:     Senate_(France)
+    upper-house-app:     By elected officials
+
+  - country:             Germany
+    legislature:         Bundestag
+    legislature-app:     MMPR
+    legislature-app-art: Mixed-member_proportional_representation
+    upper-house:         Bundesrat
+    upper-house-art:     Bundesrat
+    upper-house-app:     By <a href="https://en.wikipedia.org/wiki/States_of_Germany" link="_blank">state</a> officials.
+
+  - country:             Iceland
+    legislature:         Althing
+    legislature-app:     OLPLPR
+    legislature-app-art: Open_list
+
+  - country:             India
+    legislature:         Parliament
+    legislature-art:     Parliament_of_India
+    lower-house:         Lok Sabha
+    lower-house-app:     FPTP
+    lower-house-app-art: First-past-the-post
+    upper-house:         Rajya Sabha
+    upper-house-app:     233 by <a href="https://en.wikipedia.org/wiki/Single_transferable_vote" link="_blank">STV</a>, 12 by <a href="https://en.wikipedia.org/wiki/President_of_India" link="_blank">president</a>.
+
+  - country:             Italy
+    legislature:         Parliament
+    legislature-art:     Parliament_of_Italy
+    lower-house:         Chamber of Deputies
+    lower-house-art:     Italian_Chamber_of_Deputies
+    lower-house-app:     <a href="https://en.wikipedia.org/wiki/Parallel_voting" link="_blank">PV</a>&#58; 37% by <a href="https://en.wikipedia.org/wiki/First-past-the-post" link="_blank">FPTP</a>, 63% by <a href="https://en.wikipedia.org/wiki/Closed_list" link="_blank">CLPLPR</a>.
+    upper-house:         Senate of the Republic
+    upper-house-art:     Italian_Senate
+    upper-house-app:     <a href="https://en.wikipedia.org/wiki/Parallel_voting" link="_blank">PV</a>&#58; 37% by <a href="https://en.wikipedia.org/wiki/First-past-the-post" link="_blank">FPTP</a>, 63% by <a href="https://en.wikipedia.org/wiki/Closed_list" link="_blank">CLPLPR</a>.
+
+  - country:             New Zealand
+    legislature:         Parliament
+    legislature-art:     Parliament_of_New_Zealand
+    lower-house:         House of Representatives
+    lower-house-art:     New_Zealand_House_of_Representatives
+    lower-house-app:     MMPR
+    lower-house-app-art: Mixed-member_proportional_representation
+  
+  - country:             Norway
+    legislature:         Storting
+    legislature-app:     OLPLPR
+    legislature-app-art: Open_list
+
+  - country:             Russia
+    legislature:         Federal Assembly
+    legislature-art:     Federal_Assembly_(Russia)
+    lower-house:         State Duma
+    lower-house-app:     <a href="https://en.wikipedia.org/wiki/Parallel_voting" link="_blank">PV</a>&#58; 1/2 by <a href="https://en.wikipedia.org/wiki/First-past-the-post_voting" link="_blank">FPTP</a>, 1/2 by <a href="https://en.wikipedia.org/wiki/Closed_list" link="_blank">CLPLPR</a>.
+    upper-house:         Federation Council
+    upper-house-art:     Federation_Council_(Russia)
+    upper-house-app:     By <a href="https://en.wikipedia.org/wiki/Federal_subjects_of_Russia" link="_blank">federal subject</a> officials.
+
+  - country:             United Kingdom
+    legislature:         Parliament
+    legislature-art:     Parliament_of_the_United_Kingdom
+    lower-house:         House of Commons
+    lower-house-art:     House_of_Commons_of_the_United_Kingdom
+    lower-house-app:     FPTP
+    lower-house-app-art: First-past-the-post
+    upper-house:         House of Lords
+    upper-house-app:     Some are appointed by the monarch, some inherit the role, some are church officials, <i>etc.</i>
+
+  - country:             United States
+    legislature:         Congress
+    legislature-art:     United_States_Congress
+    lower-house:         House of Representatives
+    lower-house-art:     United_States_House_of_Representatives
+    lower-house-app:     Varies by state—PLV, TRV, <i>etc.</i>
+    upper-house:         Senate
+    upper-house-art:     United_States_Senate
+    upper-house-app:     By <a href="https://en.wikipedia.org/wiki/States_of_the_United_States" link="_blank">state</a> officials.

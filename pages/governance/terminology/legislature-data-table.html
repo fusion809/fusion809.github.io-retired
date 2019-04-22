@@ -1,0 +1,193 @@
+<table cellpadding="4" cellspacing="0" style="page-break-after: avoid">
+	<col width="120"/>
+
+	<col width="125"/>
+
+	<col width="180"/>
+
+	<col width="245"/>
+
+	<col width="140"/>
+
+	<!--<col width="400"/>-->
+
+	<tr valign="top">
+		<td style="background: transparent" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.1cm; padding-bottom: 0.1cm; padding-left: 0.1cm; padding-right: 0cm">
+			<p align="left" style="font-style: normal; text-decoration: none">
+				<font color="#000000" size="3" face="Liberation Serif, serif" style="font-size: 13pt;">
+					<b>
+						<span style="text-decoration: none">Country</span>
+					</b>
+				</font>
+			</p>
+		</td>
+		<td style="background: transparent" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.1cm; padding-bottom: 0.1cm; padding-left: 0.1cm; padding-right: 0cm">
+			<p align="left" style="font-style: normal; text-decoration: none">
+				<font color="#000000" size="3" face="Liberation Serif, serif" style="font-size: 13pt;">
+					<b>
+						<span style="text-decoration: none">Legislature</span>
+					</b>
+				</font>
+			</p>
+		</td>
+		<td style="background: transparent" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.1cm; padding-bottom: 0.1cm; padding-left: 0.1cm; padding-right: 0cm">
+			<p align="left" style="font-style: normal; text-decoration: none">
+				<font color="#000000" size="3" face="Liberation Serif, serif" style="font-size: 13pt;">
+					<b>
+						<span style="text-decoration: none">Lower house</span>
+					</b>
+				</font>
+			</p>
+		</td>
+		<td style="background: transparent" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.1cm; padding-bottom: 0.1cm; padding-left: 0.1cm; padding-right: 0cm">
+			<p align="left" style="font-style: normal; text-decoration: none">
+				<font color="#000000" size="3" face="Liberation Serif, serif" style="font-size: 13pt;">
+					<b>
+						<span style="text-decoration: none">Appointment method</span>
+					</b>
+				</font>
+			</p>
+		</td>
+		<td style="background: transparent" style="border: 1px solid #000000; padding: 0.1cm">
+			<p align="left" style="font-style: normal; text-decoration: none">
+				<font color="#000000" size="3" face="Liberation Serif, serif" style="font-size: 13pt;">
+					<b>
+						<span style="text-decoration: none">Upper house</span>
+					</b>
+				</font>
+			</p>
+		</td>
+		<td style="background: transparent" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; padding-top: 0.1cm; padding-bottom: 0.1cm; padding-left: 0.1cm; padding-right: 0cm">
+			<p align="left" style="font-style: normal; text-decoration: none">
+				<font color="#000000" size="3" face="Liberation Serif, serif" style="font-size: 13pt;">
+					<b>
+						<span style="text-decoration: none">Appointment method</span>
+					</b>
+				</font>
+			</p>
+		</td>
+	</tr>
+	
+	{% for row in site.data.sysofgov.body %}
+	<tr>
+		<td valign="top" style="background: transparent" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.1cm; padding-left: 0.1cm; padding-right: 0cm">
+			<p align="left" style="font-style: normal; font-weight: normal; text-decoration: none">
+				<font color="#000000" size="3" face="Liberation Serif, serif" style="font-size: 12pt;">
+					<span style="text-decoration: none">
+						<a href="https://en.wikipedia.org/wiki/{{ row.country }}" link="_blank">
+							{{ row.country }}
+						</a>
+					</span>
+				</font>
+			</p>
+		</td>
+		{% if row.lower-house %}
+		<td valign="top" style="background: transparent" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.1cm; padding-left: 0.1cm; padding-right: 0cm">
+			<p align="left" style="font-style: normal; font-weight: normal; text-decoration: none">
+				<font color="#000000" size="3" face="Liberation Serif, serif" style="font-size: 12pt;">
+					<span style="text-decoration: none">
+						<a href="https://en.wikipedia.org/wiki/{% if row.legislature-art %}{{ row.legislature-art }}{% else %}{{ row.legislature }}{% endif %}" link="_blank">
+							{{ row.legislature }}
+						</a>
+					</span>
+				</font>
+			</p>
+		</td>
+		<td valign="top" style="background: transparent" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.1cm; padding-left: 0.1cm; padding-right: 0cm">
+			<p align="left" style="font-style: normal; font-weight: normal; text-decoration: none">
+				<font color="#000000" size="3" face="Liberation Serif, serif" style="font-size: 12pt;">
+					<span style="text-decoration: none">
+						<a href="https://en.wikipedia.org/wiki/{% if row.lower-house-art %}{{ row.lower-house-art }}{% else %}{{ row.lower-house }}{% endif %}" link="_blank">
+							{{ row.lower-house }}
+						</a>
+					</span>
+				</font>
+			</p>
+		</td>
+		{% else %}
+		<td colspan="2" valign="top" style="background: transparent" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.1cm; padding-left: 0.1cm; padding-right: 0cm">
+			<p align="center" style="font-style: normal; font-weight: normal; text-decoration: none">
+				<font color="#000000" size="3" face="Liberation Serif, serif" style="font-size: 12pt;">
+					<span style="text-decoration: none">
+						<a href="https://en.wikipedia.org/wiki/{% if row.legislature-art %}{{ row.legislature-art }}{% else %}{{ row.legislature }}{% endif %}" link="_blank">
+							{{ row.legislature }}
+						</a>
+					</span>
+				</font>
+			</p>
+		</td>
+		{% endif %}
+		<td valign="top" style="background: transparent" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.1cm; padding-left: 0.1cm; padding-right: 0cm">
+			<p align="left" style="font-style: normal; font-weight: normal; text-decoration: none">
+				<font color="#000000" size="3" face="Liberation Serif, serif" style="font-size: 12pt;">
+					<span style="text-decoration: none">
+						{% if row.lower-house-app %}
+						{% if row.lower-house-app-art %}<a href="https://en.wikipedia.org/wiki/{{ row.lower-house-app-art }}" link="_blank">
+							{{ row.lower-house-app }}
+						</a>{% else %}{{ row.lower-house-app }}{% endif %}
+						{% elsif row.legislature-app %}
+						<a href="https://en.wikipedia.org/wiki/{{ row.legislature-app-art }}" link="_blank">
+							{{ row.legislature-app }}
+						</a>
+						{% endif %}
+					</span>
+				</font>
+			</p>
+		</td>
+		{% if row.upper-house %}
+		<td valign="top" style="background: transparent" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; padding-top: 0cm; padding-bottom: 0.1cm; padding-left: 0.1cm; padding-right: 0.1cm">
+			<p align="left" style="font-style: normal; font-weight: normal; text-decoration: none">
+				<font color="#000000" size="3" face="Liberation Serif, serif" style="font-size: 12pt;">
+					<span style="text-decoration: none">
+						<a href="https://en.wikipedia.org/wiki/{% if row.upper-house-art %}{{ row.upper-house-art }}{% else %}{{ row.upper-house }}{% endif %}" link="_blank">
+							{{ row.upper-house }}
+						</a>
+					</span>
+				</font>
+			</p>
+		</td>
+		<td valign="top" style="background: transparent" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; padding-top: 0cm; padding-bottom: 0.1cm; padding-left: 0.1cm; padding-right: 0cm">
+			<p align="left" style="font-style: normal; font-weight: normal; text-decoration: none">
+				<font color="#000000" size="3" face="Liberation Serif, serif" style="font-size: 12pt;">
+					<span style="text-decoration: none">
+						{% if row.upper-house-app-art %}<a href="https://en.wikipedia.org/wiki/{{ row.upper-house-app-art }}" link="_blank">
+							{{ row.upper-house-app }}
+						</a>{% else %}{{ row.upper-house-app }}{% endif %}
+					</span>
+				</font>
+			</p>
+		</td>
+		{% else %}
+		<td colspan="2" width="140" style="background: transparent" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; padding-top: 0cm; padding-bottom: 0.1cm; padding-left: 0.1cm; padding-right: 0.1cm">
+			<p align="center" style="font-style: normal; font-weight: normal; text-decoration: none">
+				<font color="#000000" size="3" face="Liberation Serif, serif" style="font-size: 12pt;">
+					<span style="text-decoration: none">N/A</span>
+				</font>
+			</p>
+		</td>
+		{% endif %}
+	</tr>
+	{% endfor %}
+	<tr valign="top">
+		<td colspan="6" style="background: transparent; border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; padding-top: 0cm; padding-bottom: 0.1cm; padding-left: 0.1cm; padding-right: 0cm">
+			<p align="left" style="font-style: normal; font-weight: normal; text-decoration: none">
+				<font color="#000000" size="3" face="Liberation Serif, serif" style="font-size: 12pt;">
+					<span style="text-decoration: none"><b>Acronyms:</b><br/>
+						CLPLPR: closed list party-list proportional representation.<br/>
+						FPTP: first-past-the-post.<br/>
+						IRV: instant-runoff voting.<br/>
+						MMPR: mixed-member proportional representation.<br/>
+						OLPLPR: open list party-list proportional representation.<br/>
+						PLV: plurality voting.<br/>
+						PM: prime minister.<br/>
+						PV: parallel voting.<br/>
+						STV: single-transferable vote.<br/>
+						TRV: Two-round voting.
+					</span>
+				</font>
+			</p>
+		</td>
+	</tr>
+</table>
+<p><br/>
+<br/>
