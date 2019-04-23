@@ -1,3 +1,5 @@
+caption:                 Table 1&#58; National legislatures of a several notable countries
+
 body:
 
   - country:             Australia
@@ -115,7 +117,7 @@ body:
     lower-house-app-art: First-past-the-post
     upper-house:         House of Lords
     upper-house-app:     Some are appointed by the monarch,<br/> some inherit the role, some<br/> are church officials, <i>etc.</i>
-    house-powers:        LH&#8811;UH (UH only has delaying power)
+    house-powers:        LH&#8811;UH (UH only has delaying<br/> power)
 
   - country:             United States
     legislature:         Congress
@@ -126,4 +128,4 @@ body:
     upper-house:         Senate
     upper-house-art:     United_States_Senate
     upper-house-app:     By <a href="https://en.wikipedia.org/wiki/States_of_the_United_States" link="_blank">state</a> officials.
-    house-powers:        LH&approx;UH (distinct powers for each)
+    house-powers:        LH&approx;UH (distinct powers)
