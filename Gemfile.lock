@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/jekyll/jekyll.git
-  revision: 36d3aed1f246163a0ea3cd1ccc8da96398fbeb6c
+  revision: ced4404a5e2f320b89c722fa1208dfaa48c2f30e
   specs:
     jekyll (4.0.0.pre.alpha1)
       addressable (~> 2.4)
@@ -38,7 +38,7 @@ GEM
       multipart-post (>= 1.2, < 3)
     ffi (1.10.0)
     forwardable-extended (2.6.0)
-    gemoji (3.0.0)
+    gemoji (3.0.1)
     hen (0.8.3)
       highline (~> 1.6)
       nuggets (~> 1.0)
@@ -81,7 +81,7 @@ GEM
     minitest (5.11.3)
     multi_json (1.13.1)
     multipart-post (2.0.0)
-    nokogiri (1.10.2)
+    nokogiri (1.10.3)
       mini_portile2 (~> 2.4.0)
     nuggets (1.0.0)
     octokit (4.14.0)
