@@ -1,9 +1,0 @@
-{% include h2.html text="Confederation vs. federation" %}
-{% include wp.html link="Confederation" f="b" %} are another organizational structure arrangement wherein sovereign nations voluntarily, usually by means of a treaty, agree to join together for the purpose of achieving common goals (e.g. defence against a common enemy) or for mutual benefit (e.g. for freer trade). The distinction made between a confederation and a federation has evolved over time. Once upon a time the two terms were used interchangeably, but nowadays confederations are usually taken to mean:
-
-* A fully voluntary union between sovereign states; by voluntary, I mean they are fully able to {% include wt.html link="secede" %} from the union, should they choose.
-* The glue that joins the member states together, the confederal government, is usually quite weak and easily dissolved. 
-* The states are given a great degree of autonomy, and only voluntarily give up some powers to the confederal government. 
-* The confederal government is answerable and subordinate to those of the member states.
-
-While in federations the initial choice to form a union is usually voluntary, but once the union is formed usually the member states have minimal ability to secede. If they can secede the procedure is often complicated and requires federal cooperation. In federations, the federal government is usually significantly stronger than a confederal government, with more powers that cannot be unilaterally lessened by the state governments. The federal government is often quite difficult (but not impossible, cf. the USSR) to dissolve. In federations, states usually have no real sovereignty and are generally treated as subordinate (e.g. federal laws usually prevail over state laws, if there are any inconsistencies).

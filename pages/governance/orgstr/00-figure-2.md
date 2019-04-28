@@ -1,1 +1,0 @@
-{% include_relative governance/image-with-caption.html text="Figure 1: Federal and unitary states of the world" img="https://upload.wikimedia.org/wikipedia/commons/4/46/Map_of_unitary_and_federal_states.svg" width="100%" %}

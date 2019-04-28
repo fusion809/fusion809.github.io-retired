@@ -1,1 +1,0 @@
-{% include_relative governance/image-with-caption.html text="Figure 2: Basic forms of government" subtext="Click map or legend to view the full form, which includes hyperlinks for countries and government types." img="https://fusion809.github.io/images/Maps/Forms of government (shorter desc; more descriptive).svg" width="100%" %}
