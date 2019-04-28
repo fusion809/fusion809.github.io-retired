@@ -10,7 +10,6 @@ This article is more for my benefit than anyone else's, it is mostly so that I c
 
 {% include_relative governance/00-table-of-contents.html %}
 
-
 {% capture systemsgovsec %}
 {% include_relative governance/02-systems-of-government-section.md %}
 {% endcapture %}
