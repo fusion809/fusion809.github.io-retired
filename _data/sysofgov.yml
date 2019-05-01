@@ -124,8 +124,8 @@ body:
     legislature-art:     United_States_Congress
     lower-house:         House of Representatives
     lower-house-art:     United_States_House_of_Representatives
-    lower-house-app:     Elected, method varies by state—PLV, TRV, <i>etc.</i>
+    lower-house-app:     Varies by state—PLV, TRV, <i>etc.</i>
     upper-house:         Senate
     upper-house-art:     United_States_Senate
-    upper-house-app:     Elected, method varies by state—PLV, TRV, <i>etc.</i>
+    upper-house-app:     Varies by state—PLV, TRV, <i>etc.</i>
     house-powers:        LH&approx;UH (distinct powers)
