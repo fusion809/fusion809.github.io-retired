@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/jekyll/jekyll.git
-  revision: ced4404a5e2f320b89c722fa1208dfaa48c2f30e
+  revision: 8673cdc4cf161fe21a693e26f608242372832a3c
   specs:
     jekyll (4.0.0.pre.alpha1)
       addressable (~> 2.4)
@@ -20,7 +20,7 @@ GIT
 GEM
   remote: https://rubygems.org/
   specs:
-    addressable (2.5.2)
+    addressable (2.6.0)
       public_suffix (>= 2.0.2, < 4.0)
     colorator (1.1.0)
     concurrent-ruby (1.1.5)
@@ -79,9 +79,9 @@ GEM
       sass-listen (~> 4.0.0)
     sass-listen (4.0.0)
       rb-inotify (>= 0.9.7, >= 0.9)
-    sawyer (0.8.1)
-      addressable (>= 2.3.5, < 2.6)
-      faraday (~> 0.8, < 1.0)
+    sawyer (0.8.2)
+      addressable (>= 2.3.5)
+      faraday (> 0.8, < 2.0)
 
 PLATFORMS
   ruby
