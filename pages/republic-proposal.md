@@ -13,7 +13,7 @@ Appointment method
 
 I was actually in favour of the president being directly elected, but then I realized that if the president is meant to be an independent referee, then what's the point to making it a popularity contest? Like, what are their campaigns going to be based on? Their political attitudes? As, if it is based on their political attitudes, then we'd be electing someone with an inherent bias with regards to the various parties (favouring the party they are either in, or most agree with the policies of), which is precisely what the president is not meant to have.
 
-A president being nominated by the Attorney-General (AG), Prime Minister (PM) or Deputy PM (DPM), based on their legal qualifications (and hence ability to understand their constitutional obligations and what constitutes a constitutional violation they need to remedy) and impartiality, then confirmed by a two-thirds majority vote in Parliament, sounds like a decent method of selecting them. Although, what happens if the Parliament cannot agree on whom to elect? If such a system is implemented I propose using {% include wp.html link="instant-runoff voting" %} (IRV) to decide between candidates nominated by the AG, DPM and PM instead. 
+A president being nominated by the {% include wp.html art="Attorney-General_of_Australia" link="Attorney-General" %} (AG), {% include wp.html art="Prime_Minister_of_Australia" link="Prime Minister" %} (PM) or {% include wp.html art="Deputy_Prime_Minister_of_Australia" link="Deputy PM" %} (DPM), based on their legal qualifications (and hence ability to understand their constitutional obligations and what constitutes a constitutional violation they need to remedy) and impartiality, then confirmed by a two-thirds majority vote in Parliament, sounds like a decent method of selecting them. Although, what happens if the Parliament cannot agree on whom to elect? If such a system is implemented I propose using {% include wp.html link="instant-runoff voting" %} (IRV) to decide between candidates nominated by the AG, DPM and PM instead. 
 
 But, I want the president to have reason for upholding the will of the people more than the will of the Parliament, so I think a directly elected president is still the way to go. I want this accountability to the people because that way the President will be incentivized to call an early election if the Government too happily breaks its pre-election promises (per the [Presidential powers](#presidential-powers) section).
 
@@ -66,7 +66,38 @@ Electoral system
 
 If my electorate meetings proposed change is not made, then the {% include wp.html art="Australian_House_of_Representatives" link="House of Representatives" %} should be elected using {% include wp.html link="mixed-member proportional representation" f="b" %} (**MMPR**), with most candidates elected from single member constituencies using {% include wp.html link="instant-runoff voting" puncr="," %} but some being appointed based on the percentage of votes being cast nationwide in favour of them (if they are an independent) or their party (the amount depends on how many are necessary to achieve roughly proportional representation). If a party/independent does not receive enough votes for them to win a seat their votes will be passed on to second preferences, if that second preference does not get in either, then they will pass to the third preference and so forth. Likewise, if a party receives more votes than necessary to get them the number of seats they end up getting, their excess votes will be transferred to their next preference, if they get an excess the votes will transfer to the next preference and so forth. The {% include wp.html art="Party-list_proportional_representation" link="party list" %} component will be {% include wp.html art="Open_list" link="open" puncr="," %} with each independent listed as a different option on the list. 
 
+{% include wp.html link="Bill of rights" %}
+===============
+
+A bill of rights to be introduced into the federal Constitution. Such a Constitution would safeguard:
+
+* Freedom of speech&mdash;only limits will be on libel (purposeful destruction of someone's reputation using false allegations; burden of proof on the falsity of the claims will be on the plaintiff), speech that endangers citizens (e.g. yelling fire in a crowded theatre, as it can lead to people being trampled) or national security (e.g. revealing military secrets).
+* Freedom of expression&mdash;to prevent any possible banning of symbols like the swastika, hammer and sickle, or even Nazi salutes, regardless of how we feel about them. 
+* Freedom of association&mdash;to forbid any future attempt to ban a political party. 
+* Freedom of information&mdash;to ensure that all government reports that do not touch on matters of national security, or other sensitive matters (e.g. information about private citizens, that have not been convicted of a crime that the report relates to), are made publicly available. For example, if a drug company has applied for drug approval this fact and any decisions by the TGA will be made public.
+* Right of adults to make decisions that only impact on themselves. If you would like to take recreational drugs, that is your right. If you commit a crime while under the influence you will be legally barred from using that as an excuse for your crime. 
+* *Habeus corpus*&mdash;everyone has the right to demand to be brought before a court and argue the legality of their detainment. If it is impossible to bring them before a court within an hour of this demand, the police have to let them go. Maximum detainment without charge will be twenty four hours.
+* One's rights against cruel and unusual punishment. 
+* Right to feel safe, to safeguard prisoners from abuse in prison. If someone is imprisoned the state is responsible (and can be sued for failure to safeguard) for their safety. No one should be raped, or assaulted in prison, regardless of crime. After all, if they are abused in there, how likely is it that they will come out of prison even more dangerous to society, and perhaps even completely useless to it (unable to work, for example)?
+* Right to life. Capital punishment is already illegal nationwide, but we should probably prevent it from ever being legalized. 
+
+Other criminal reforms
+======================
+
+Prison should focus on rehabilitation, and prevention of reoffending, not merely punishment, as the best justice we can give victims is to reduce the odds that such a crime will occur again. By giving longer prison sentences, or not fully rehabilitating them, we are, in essence, punishing society for their crimes as well, as we increase the time they are inside and while they are in prison they are simply a burden on society (we are responsible for their healthcare, food, water, housing, _etc._), but when they are out, they are not necessarily a burden. We should also minimize which jobs they are forever barred from. For example, presently criminals cannot be:
+
+* judges,
+* police officers,
+* lawyers,
+* physicians,
+* surgeons,
+* teachers,
+* jurors,
+* politicians (to some extent)
+
+each of which provide essential services to society, and everyone of them, except for jurors, pay taxes, which is of benefit to society. 
+
 {% include wp.html link="Queensland" %} reforms
 ===================
 
-Any amendment to [Queensland's Constitution](https://www.legislation.qld.gov.au/view/pdf/2002-06-06/act-2001-080) should require a referendum, not only those covered in [section 53 of the original Act](https://www.legislation.qld.gov.au/view/pdf/2002-06-06/act-2001-080#G3.1015016), as it is such a fundamental Act that it should be protected from unpopular, or poorly thought out edits. 
+Any amendment to [Queensland's Constitution](https://www.legislation.qld.gov.au/view/pdf/2002-06-06/act-2001-080) should require a referendum, not only those covered in [section 53 of the original Act](https://www.legislation.qld.gov.au/view/pdf/2002-06-06/act-2001-080#G3.1015016), as it is such a fundamental Act that it should be protected from unpopular, or poorly thought out amendments. 
