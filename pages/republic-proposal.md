@@ -13,9 +13,9 @@ Appointment method
 
 I was actually in favour of the president being directly elected, but then I realized that if the president is meant to be an independent referee, then what's the point to making it a popularity contest? Like, what are their campaigns going to be based on? Their political attitudes? As, if it is based on their political attitudes, then we'd be electing someone with an inherent bias with regards to the various parties (favouring the party they are either in, or most agree with the policies of), which is precisely what the president is not meant to have.
 
-A president being nominated by the {% include wp.html art="Attorney-General_of_Australia" link="Attorney-General" %} (AG), {% include wp.html art="Prime_Minister_of_Australia" link="Prime Minister" %} (PM) or {% include wp.html art="Deputy_Prime_Minister_of_Australia" link="Deputy PM" %} (DPM), based on their legal qualifications (and hence ability to understand their constitutional obligations and what constitutes a constitutional violation they need to remedy) and impartiality, then confirmed by a two-thirds majority vote in Parliament, sounds like a decent method of selecting them. Although, what happens if the Parliament cannot agree on whom to elect? If such a system is implemented I propose using {% include wp.html link="instant-runoff voting" %} (IRV) to decide between candidates nominated by the AG, DPM and PM instead. 
+A president being nominated by the {% include wp.html art="Attorney-General_of_Australia" link="Attorney-General" %} (AG), {% include wp.html art="Prime_Minister_of_Australia" link="Prime Minister" %} (PM) or {% include wp.html art="Deputy_Prime_Minister_of_Australia" link="Deputy PM" %} (DPM), or their shadow counterparts, based on their legal qualifications (and hence ability to understand their constitutional obligations and what constitutes a constitutional violation they need to remedy) and impartiality, then confirmed by a two-thirds majority vote in Parliament, sounds like a decent method of selecting them. Although, what happens if the Parliament cannot agree on whom to elect? If such a system is implemented I propose using {% include wp.html link="instant-runoff voting" %} (IRV) to decide between candidates nominated by the AG, DPM and PM instead. 
 
-But, I want the president to have reason for upholding the will of the people more than the will of the Parliament, so I think a directly elected president is still the way to go. I want this accountability to the people because that way the President will be incentivized to call an early election if the Government too happily breaks its pre-election promises (per the [Presidential powers](#presidential-powers) section).
+Despite this, I want the president to have reason for upholding the will of the people more than the will of the Parliament, so I think a directly elected president, with at least a <abbr title="Bachelor of Laws">L.L.B.</abbr> degree with honours, is still the way to go. I want this accountability to the people because that way the President will be incentivized to call an early election if the Government too happily breaks its pre-election promises (per the [Presidential powers](#presidential-powers) section).
 
 Presidential powers
 ====================
@@ -26,7 +26,7 @@ Powers of such a president:
 
     - The Government failing to meet its constitutional obligations, like securing supply.
 
-    - The Government breaking many of its pre-election promises. Not being able to fulfil their promises due to their bills not being approved by the Parliament is not valid grounds. If they do not even attempt to introduce the bills they promised, or if they start doing things they promised they would not do (e.g. dismantling Medicare, educational services, etc.), then that is valid grounds for the Parliament to be dissolved.
+    - The Government breaking many of its pre-election promises. Not being able to fulfil their promises due to their bills not being approved by the Parliament is not valid grounds. If they do not even attempt to introduce the bills they promised, or if they start doing things they promised they would not do (e.g. dismantling Medicare, educational services, _etc._), then that is valid grounds for the Parliament to be dissolved.
 
     - Evidence of mass corruption in the Parliament, or Government.
 
@@ -34,9 +34,9 @@ Powers of such a president:
 
 * Dismiss the Government and install a caretaker government, if any only if, there is evidence of mass corruption in the Government.  
 
-* Defending the Constitution, via any means necessary. If they intend to do so via an action without precedence, they need to get the HC's approval on the legality of their action and whether the HC believes their action is appropriate. If the HC believes their proposal is inappropriate, then the HC may offer their own. 
+* The power to defend the Constitution, via any means necessary. If they intend to do so via an action without precedence, they need to get the HC's approval on the legality of their action and whether the HC believes their action is appropriate. If the HC believes their proposal is inappropriate, then the HC may offer their own. 
 
-* They can dismiss ministers of state, including the Prime Minister (PM), along with MPs and senators, if and only if, they have been convicted of corruption or misbehaviour. If there is evidence of corruption or misconduct, but they have not been convicted yet, the president will be able to temporarily dismiss them, pending the completion of the investigation, from their ministerial positions, but not their seats in the Parliament. 
+* They can dismiss ministers of state, including the Prime Minister (PM), along with MPs and senators, if they have been convicted of corruption or misbehaviour or if they have wilfully broken pre-election promises. If there is evidence of corruption or misconduct, but they have not been convicted yet, the president will be able to temporarily dismiss them, pending the completion of the investigation, from their ministerial positions, but not their seats in the Parliament. 
 
 * Temporarily vetoing legislation, pending a review of it by the HC, if they feel the legislation is legally invalid (e.g. if it is unconstitutional).
 
@@ -80,6 +80,14 @@ A bill of rights to be introduced into the federal Constitution. Such a Constitu
 * One's rights against cruel and unusual punishment. 
 * Right to feel safe, to safeguard prisoners from abuse in prison. If someone is imprisoned the state is responsible (and can be sued for failure to safeguard) for their safety. No one should be raped, or assaulted in prison, regardless of crime. After all, if they are abused in there, how likely is it that they will come out of prison even more dangerous to society, and perhaps even completely useless to it (unable to work, for example)?
 * Right to life. Capital punishment is already illegal nationwide, but we should probably prevent it from ever being legalized. 
+
+Attorney-General reform
+=======================
+The AG, and Shadow AG, must have at least an <abbr title="Bachelor of Laws">L.L.B.</a> and not be disqualified from a bar (but not necessarily a member of one) due to misbehaviour. By convention the AG and shadow AG are attorneys, but this is not a legal requirement. 
+
+Justices of the High Court
+===========================
+The AG and Shadow AG should be required to meet and reach a consensus on whom to appoint to the HC as justices, when a new position opens up in the court. Why both the AG and Shadow AG have to be involved in this nomination process? Because the HC justices are meant to be impartial and well-qualified for the job, so leaving it to just the AG to nominate candidates sounds imprudent, as they will obviously have their own biases, but if the two are forced to reach a consensus they will probably compromise on someone they both agree are impartial and fit for the job. They should be required to write a list of at least five candidates per justice position available, which will then be presented to the Parliament to debate on, reach a consensus, or if that is not possible, vote using instant-runoff voting. 
 
 Other criminal reforms
 ======================

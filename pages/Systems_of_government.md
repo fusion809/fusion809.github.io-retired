@@ -22,7 +22,7 @@ Systems of government
 <!-- Definitions -->
 {% include h2.html text="Definition" %}
 
-The two main basic types of government in use around the world today are {% include wp.html link="monarchies" f="b" %} and {% include wp.html link="republics" f="b" puncr="." %} Neither of which have a perfect, universally-agreed upon definition. Their definition has evolved significantly over time. The first definition I give will be my own, based on commonalities between all countries that call themselves monarchies or republics. 
+The two main basic types of government in use around the world today are {% include wp.html link="monarchies" f="b" %} and {% include wp.html link="republics" f="b" puncr="." %} Neither of which have a perfect, universally agreed upon definition. Their definition has evolved significantly over time. The first definition I give will be my own, based on commonalities between all countries that call themselves monarchies or republics. 
 
 Under a monarchy, the head of state&mdash;the monarch&mdash;is an individual who usually inherits their role, and usually cannot be forcibly removed from their role, except due to incapacity. Historically, it was taken for granted that this monarch would have absolute power to do with whatever they please, but over the centuries this definition has changed radically with many countries adopting greater restrictions on their monarch's power. 
 
