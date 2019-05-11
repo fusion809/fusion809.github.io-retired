@@ -40,7 +40,7 @@ Powers of such a president:
 
 * Temporarily vetoing legislation, pending a review of it by the HC, if they feel the legislation is legally invalid (e.g. if it is unconstitutional).
 
-***Note**: they will not give assent to legislation, or have the ability to appoint any officials, or be commander-in-chief of the armed forces, or have any additional executive powers. These powers will be firmly vested in the ministers of state and the Parliament. The Governor-General (GG), by convention, almost always follows the advice of ministers of state when the GG exercises their executive powers, but there is no guarantee a future president will follow this convention if we transfer this power and convention to them, so it is prudent to limit what power they do have.*
+***Note**: they will not give assent to legislation, or have the ability to appoint any officials, or be commander-in-chief of the armed forces, or have any additional executive powers. These powers will be firmly vested in the ministers of state and the Parliament. Presently, under the monarchy the Governor-General (GG), by convention, almost always follows the advice of ministers of state when the GG exercises their executive powers, but there is no guarantee a future president will follow this convention if we transfer this power and convention to them, so it is prudent to limit what power they do have.*
 
 Citizen-initiated referenda
 ============================
