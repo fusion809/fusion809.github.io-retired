@@ -83,11 +83,11 @@ A bill of rights to be introduced into the federal Constitution. Such a Constitu
 
 Attorney-General reform
 =======================
-The AG, and Shadow AG, must have at least an <abbr title="Bachelor of Laws">L.L.B.</a> and not be disqualified from a bar (but not necessarily a member of one) due to misbehaviour. By convention the AG and shadow AG are attorneys, but this is not a legal requirement. 
+The AG, and Shadow AG, must have at least an <abbr title="Bachelor of Laws">L.L.B.</abbr> degree and not be disqualified from any bar association (although, they do not need to be a member of one) due to any misbehaviour. By convention the AG and shadow AG are attorneys, but this is not a legal requirement. 
 
 Justices of the High Court
 ===========================
-The AG and Shadow AG should be required to meet and reach a consensus on whom to appoint to the HC as justices, when a new position opens up in the court. Why both the AG and Shadow AG have to be involved in this nomination process? Because the HC justices are meant to be impartial and well-qualified for the job, so leaving it to just the AG to nominate candidates sounds imprudent, as they will obviously have their own biases, but if the two are forced to reach a consensus they will probably compromise on someone they both agree are impartial and fit for the job. They should be required to write a list of at least five candidates per justice position available, which will then be presented to the Parliament to debate on, reach a consensus, or if that is not possible, vote using instant-runoff voting. 
+The AG and Shadow AG should be required to meet and reach a consensus on whom to appoint to the HC as justices, when a new position opens up in the court. Why do both the AG and Shadow AG have to be involved in this nomination process? Because the HC justices are meant to be impartial and well-qualified for the job (having at least an <abbr title="Master of Laws">L.L.M.</abbr> degree and not having been disqualified from any bar association for misconduct), so leaving it to just the AG to nominate candidates sounds imprudent, as they will obviously have their own political biases, but if the two are forced to reach a consensus they will probably compromise on someone they can both agree are impartial and fit for the job. They should be required to write a list of at least five candidates per justice position available, which will then be presented to the Parliament to debate on, reach a consensus, or if that is not possible, vote using single transferable voting or instant-runoff voting (if only one justice needs to be selected). 
 
 Other criminal reforms
 ======================
@@ -108,4 +108,65 @@ each of which provide essential services to society, and everyone of them, excep
 {% include wp.html link="Queensland" %} reforms
 ===================
 
-Any amendment to [Queensland's Constitution](https://www.legislation.qld.gov.au/view/pdf/2002-06-06/act-2001-080) should require a referendum, not only those covered in [section 53 of the original Act](https://www.legislation.qld.gov.au/view/pdf/2002-06-06/act-2001-080#G3.1015016), as it is such a fundamental Act that it should be protected from unpopular, or poorly thought out amendments. 
+Any amendment to [Queensland's Constitution](https://www.legislation.qld.gov.au/view/pdf/2002-06-06/act-2001-080) should require a referendum, not only those covered in [section 53 of the original Act](https://www.legislation.qld.gov.au/view/pdf/2002-06-06/act-2001-080#G3.1015016), as it is such a fundamental Act that it should be protected from unpopular, or poorly thought out amendments.
+
+Republic referendum
+===========
+Best to give the responded multiple two-answer questions, instead of just one with several different answers. 
+
+**Question 1**:
+
+Do you want Australia to become a republic, with the head of state position, that is presently occupied by the British monarch, to be occupied instead by a president?
+
+Regardless of their answer to this they will be allowed to answer the remaining questions too.
+
+**Question 2**:
+
+Do you want this president to be directly elected by the people of Australia?
+
+If the answer is 'Yes', proceed to Q5, otherwise go to Q3-4, skip 5 and go to 6. 
+
+If no:
+
+**Question 3**:
+
+Do you want this president to be elected by a two-thirds majority vote during a joint sitting of the Parliament, or would you prefer one elected by an instant-runoff vote (IRV) during a joint sitting of the Parliament?
+
+If (1):
+
+**Question 4**:
+
+If the Parliament cannot reach a two-thirds majority vote on anyone, do you support them using IRV to decide instead?
+
+**Question 5**
+
+Do you support using instant-runoff voting (IRV) to decide the president?
+
+**Question 6**
+
+Do you want the president to also be head of government, or would you prefer to keep the Prime Minister as head of government instead?
+
+If (2):
+
+**Question 7**:
+
+Do you want the president to have power over the armed forces and foreign policy, or would you rather their role to be largely ceremonial, but still have the following reserve powers:
+
+* The ability to dissolve the Parliament and call a new election, if and only if:
+
+    * There is strong evidence of mass corruption, or other criminal misconduct in the Parliament.
+    * There is strong evidence the election was rigged.
+    * The government has broken its pre-election promises, in a deliberate, wilful way.
+    * The government has failed to meet its constitutional obligations, such as in securing supply.
+
+* The ability to do whatever is needed to defend the Constitution from the government, or Parliament, but if their act is without precedence, they must ask the High Court whether (1) it is legal and (2) whether it is appropriate. If and only if they say yes to both, they may proceed. 
+
+* The ability to dismiss the government and install a caretaker government, after dissolving the Parliament and calling a new election, if and only if:
+
+    * There is strong evidence of mass corruption, or other criminal misconduct among members of the government. 
+    * The government has broken its pre-election promises, in a deliberate, wilful way. 
+    * They have violated the constitution in a deliberate, wilful way. Merely failing to secure supply, as the opposition has blocked it, for example, does not count. 
+
+**Question 8**:
+
+Do you want the president to need to have at least a Bachelor of Laws (LLB), with experience in Constitutional law specifically, so that we can be confident they know the Constitution and law well enough to know when it has been violated by the government or Parliament?
