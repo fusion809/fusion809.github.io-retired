@@ -154,7 +154,7 @@ Do you want the president to have power over the armed forces and foreign policy
 
 * The ability to dissolve the Parliament and call a new election, if and only if:
 
-    * There is strong evidence of mass corruption, or other criminal misconduct in the Parliament.
+    * There is strong evidence of mass corruption, or other criminal misconduct in the Parliament or government.
     * There is strong evidence the election was rigged.
     * The government has broken its pre-election promises, in a deliberate, wilful way.
     * The government has failed to meet its constitutional obligations, such as in securing supply.
