@@ -32,7 +32,7 @@ Powers of such a president:
 
     In this event, the president will have the right to turn any pending appropriation bills into temporary law, that can be reversed by the new Parliament, once it is formed and convened for the first time, if they so desire. If, and only if, an emergency occurs that requires urgent legislation, the president will also have the power to draft a bill, and if after the High Court (HC) has examined it for faults (as there is not a full Parliament to do so, after all) and ruled it valid, the ministers of state vote in favour of it, it can be written into temporary law. This law will be reviewed by the new Parliament on its first sitting; if they agree with the law and vote in favour of it, it will formally become an Act of Parliament, making it no longer temporary. 
 
-* Dismiss the Government and install a caretaker government, if any only if, there is evidence of mass corruption in the Government.  
+* Dismiss the Government and install a caretaker government, if any only if, there is strong evidence of mass corruption in the Government.  
 
 * The power to defend the Constitution, via any means necessary. If they intend to do so via an action without precedence, they need to get the HC's approval on the legality of their action and whether the HC believes their action is appropriate. If the HC believes their proposal is inappropriate, then the HC may offer their own. 
 
