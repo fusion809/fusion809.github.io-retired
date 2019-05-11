@@ -161,6 +161,8 @@ Do you want the president to have power over the armed forces and foreign policy
 
 * The ability to do whatever is needed to defend the Constitution from the government, or Parliament, but if their act is without precedence, they must ask the High Court whether (1) it is legal and (2) whether it is appropriate. If and only if they say yes to both, they may proceed. 
 
+* The ability to temporarily veto legislation&mdash;if they believe the bill is legally invalid&mdash;pending a review by the HC.
+
 * The ability to dismiss the government and install a caretaker government, after dissolving the Parliament and calling a new election, if and only if:
 
     * There is strong evidence of mass corruption, or other criminal misconduct among members of the government. 
