@@ -6,21 +6,21 @@ last_modified_at: 2019-05-11 13:44:00 +1000
 permalink:        /politics/republic-proposal/
 ---
 
-In 1999, Australians voted in a {% include wp.html art="1999_Australian_republic_referendum" link="referendum" %} on whether Australia should become a republic with a president elected by a two-thirds majority vote in Parliament. This proposal was defeated, and one reason given for why was that voters were not in favour of the specific proposal. Some were in favour of a popularly elected president instead.
+In 1999, Australians voted in a {% include wp.html art="1999_Australian_republic_referendum" link="referendum" %} on whether Australia should become a republic with a President elected by a two-thirds majority vote in Parliament. This proposal was defeated, and one reason given for why was that voters were not in favour of the specific proposal. Some were in favour of a popularly elected President instead.
 
 Appointment method
 ===================
 
-I was actually in favour of the president being directly elected, but then I realized that if the president is meant to be an independent referee, then what's the point to making it a popularity contest? Like, what are their campaigns going to be based on? Their political attitudes? As, if it is based on their political attitudes, then we'd be electing someone with an inherent bias with regards to the various parties (favouring the party they are either in, or most agree with the policies of), which is precisely what the president is not meant to have.
+I was actually in favour of the President being directly elected, but then I realized that if the President is meant to be an independent referee, then what's the point to making it a popularity contest? Like, what are their campaigns going to be based on? Their political attitudes? As, if it is based on their political attitudes, then we'd be electing someone with an inherent bias with regards to the various parties (favouring the party they are either in, or most agree with the policies of), which is precisely what the President is not meant to have.
 
-A president being nominated by the {% include wp.html art="Attorney-General_of_Australia" link="Attorney-General" %} (AG), {% include wp.html art="Prime_Minister_of_Australia" link="Prime Minister" %} (PM) or {% include wp.html art="Deputy_Prime_Minister_of_Australia" link="Deputy PM" %} (DPM), or their shadow counterparts, based on their legal qualifications (and hence ability to understand their constitutional obligations and what constitutes a constitutional violation they need to remedy) and impartiality, then confirmed by a two-thirds majority vote in Parliament, sounds like a decent method of selecting them. Although, what happens if the Parliament cannot agree on whom to elect? If such a system is implemented I propose using {% include wp.html link="instant-runoff voting" %} (IRV) to decide between candidates nominated by the AG, DPM and PM instead. 
+A President being nominated by the {% include wp.html art="Attorney-General_of_Australia" link="Attorney-General" %} (AG), {% include wp.html art="Prime_Minister_of_Australia" link="Prime Minister" %} (PM) or {% include wp.html art="Deputy_Prime_Minister_of_Australia" link="Deputy PM" %} (DPM), or their shadow counterparts, based on their legal qualifications (and hence ability to understand their constitutional obligations and what constitutes a constitutional violation they need to remedy) and impartiality, then confirmed by a two-thirds majority vote in Parliament, sounds like a decent method of selecting them. Although, what happens if the Parliament cannot agree on whom to elect? If such a system is implemented I propose using {% include wp.html link="instant-runoff voting" %} (IRV) to decide between candidates nominated by the AG, DPM and PM instead. 
 
-Despite this, I want the president to have reason for upholding the will of the people more than the will of the Parliament, so I think a directly elected president, with at least a <abbr title="Bachelor of Laws">L.L.B.</abbr> degree with honours, is still the way to go. I want this accountability to the people because that way the President will be incentivized to call an early election if the Government too happily breaks its pre-election promises (per the [Presidential powers](#presidential-powers) section).
+Despite this, I want the President to have reason for upholding the will of the people more than the will of the Parliament, so I think a directly elected President, with at least a <abbr title="Bachelor of Laws">L.L.B.</abbr> degree with honours, is still the way to go. I want this accountability to the people because that way the President will be incentivized to call an early election if the Government too happily breaks its pre-election promises (per the [Presidential powers](#Presidential-powers) section).
 
 Presidential powers
 ====================
 
-Powers of such a president:
+Powers of such a President:
 
 * The ability to dissolve the Parliament (either fully or in part) and call a new election (which must be held within a month of this dissolution) in the event of:
 
@@ -30,24 +30,24 @@ Powers of such a president:
 
     - Evidence of mass corruption in the Parliament, or Government.
 
-    In this event, the president will have the right to turn any pending appropriation bills into temporary law, that can be reversed by the new Parliament, once it is formed and convened for the first time, if they so desire. If, and only if, an emergency occurs that requires urgent legislation, the president will also have the power to draft a bill, and if after the High Court (HC) has examined it for faults (as there is not a full Parliament to do so, after all) and ruled it valid, the ministers of state vote in favour of it, it can be written into temporary law. This law will be reviewed by the new Parliament on its first sitting; if they agree with the law and vote in favour of it, it will formally become an Act of Parliament, making it no longer temporary. 
+    In this event, the President will have the right to turn any pending appropriation bills that are desperately needed into temporary law, that can be reversed by the new Parliament, once it is formed and convened for the first time, if they so desire. If, and only if, an emergency occurs that requires urgent legislation, the President will also have the power to draft a bill, and if after the High Court (HC) has examined it for faults (as there is not a full Parliament to do so, after all) and ruled it valid, the ministers of state vote in favour of it, it can be written into temporary law. This law will be reviewed by the new Parliament on its first sitting; if they agree with the law and vote in favour of it, it will formally become an Act of Parliament, making it no longer temporary. 
 
-* Dismiss the Government and install a caretaker government, if any only if, there is strong evidence of mass corruption in the Government.  
+* Dismiss the Government and install a caretaker Government, if any only if, there is strong evidence of mass corruption in the Government.  
 
 * The power to defend the Constitution, via any means necessary. If they intend to do so via an action without precedence, they need to get the HC's approval on the legality of their action and whether the HC believes their action is appropriate. If the HC believes their proposal is inappropriate, then the HC may offer their own. 
 
-* They can dismiss ministers of state, including the Prime Minister (PM), along with MPs and senators, if they have been convicted of corruption or misbehaviour or if they have wilfully broken pre-election promises. If there is evidence of corruption or misconduct, but they have not been convicted yet, the president will be able to temporarily dismiss them, pending the completion of the investigation, from their ministerial positions, but not their seats in the Parliament. 
+* They can dismiss ministers of state, including the Prime Minister (PM), along with MPs and senators, if they have been convicted of corruption or misbehaviour or if they have wilfully broken pre-election promises. If there is evidence of corruption or misconduct, but they have not been convicted yet, the President will be able to temporarily dismiss them, pending the completion of the investigation, from their ministerial positions, but not their seats in the Parliament. 
 
 * Temporarily vetoing legislation, pending a review of it by the HC, if they feel the legislation is legally invalid (e.g. if it is unconstitutional).
 
-***Note**: they will not give assent to legislation, or have the ability to appoint any officials, or be commander-in-chief of the armed forces, or have any additional executive powers. These powers will be firmly vested in the ministers of state and the Parliament. Presently, under the monarchy the Governor-General (GG), by convention, almost always follows the advice of ministers of state when the GG exercises their executive powers, but there is no guarantee a future president will follow this convention if we transfer this power and convention to them, so it is prudent to limit what power they do have.*
+***Note**: they will not give assent to legislation, or have the ability to appoint any officials, or be commander-in-chief of the armed forces, or have any additional executive powers. These powers will be firmly vested in the ministers of state and the Parliament. Presently, under the monarchy the Governor-General (GG), by convention, almost always follows the advice of ministers of state when the GG exercises their executive powers, but there is no guarantee a future President will follow this convention if we transfer this power and convention to them, so it is prudent to limit what power they do have.*
 
 Citizen-initiated referenda
 ============================
 
 I also propose giving citizens the ability to initiate a referendum by starting a petition that receives signatures from at least 10% of eligible voters within a twelve month period. These referenda should be binding on the Government, that is, if they receive 10% of signatures within twelve months the Government has to call the referendum. Likewise, if the referendum passes they have to implement the requested changes. 
 
-The wording of the question to be given to voters will also be set in stone (as if it is edited at the last moment the referendum triggered may be quite different from the one the signatories and originator wanted), and uneditable by the Government before the referendum is called. The question's wording will be vetted by an attorney at the governmental office wherein the petition is picked up and started. The attorney will work with the initiator on the wording; once they agree on the wording, a photocopy of the petition will be sent to the AG's office for their approval, and once the AG approves it, the petition will start circulating. If the AG does not approve the wording, the AG and the initiator of the referendum will discuss the wording until they agree on it.  The purpose of this vetting process is in case the initiator of the referendum proposes a change that cannot be legally implemented, or asks a question that is very vague and due to its ambiguity, cannot be implemented. 
+The wording of the question to be given to voters will also be set in stone (as if it is edited at the last moment the referendum triggered may be quite different from the one the signatories and originator wanted), and uneditable by the Government before the referendum is called. The question's wording will be vetted by an attorney at the Governmental office wherein the petition is picked up and started. The attorney will work with the initiator on the wording; once they agree on the wording, a photocopy of the petition will be sent to the AG's office for their approval, and once the AG approves it, the petition will start circulating. If the AG does not approve the wording, the AG and the initiator of the referendum will discuss the wording until they agree on it.  The purpose of this vetting process is in case the initiator of the referendum proposes a change that cannot be legally implemented, or asks a question that is very vague and due to its ambiguity, cannot be implemented. 
 
 Electorate meetings
 ====================
@@ -74,7 +74,7 @@ A bill of rights to be introduced into the federal Constitution. Such a Constitu
 * Freedom of speech&mdash;only limits will be on libel (purposeful destruction of someone's reputation using false allegations; burden of proof on the falsity of the claims will be on the plaintiff), speech that endangers citizens (e.g. yelling fire in a crowded theatre, as it can lead to people being trampled) or national security (e.g. revealing military secrets).
 * Freedom of expression&mdash;to prevent any possible banning of symbols like the swastika, hammer and sickle, or even Nazi salutes, regardless of how we feel about them. 
 * Freedom of association&mdash;to forbid any future attempt to ban a political party. 
-* Freedom of information&mdash;to ensure that all government reports that do not touch on matters of national security, or other sensitive matters (e.g. information about private citizens, that have not been convicted of a crime that the report relates to), are made publicly available. For example, if a drug company has applied for drug approval this fact and any decisions by the TGA will be made public.
+* Freedom of information&mdash;to ensure that all Government reports that do not touch on matters of national security, or other sensitive matters (e.g. information about private citizens, that have not been convicted of a crime that the report relates to), are made publicly available. For example, if a drug company has applied for drug approval this fact and any decisions by the TGA will be made public.
 * Right of adults to make decisions that only impact on themselves. If you would like to take recreational drugs, that is your right. If you commit a crime while under the influence you will be legally barred from using that as an excuse for your crime. 
 * *Habeus corpus*&mdash;everyone has the right to demand to be brought before a court and argue the legality of their detainment. If it is impossible to bring them before a court within an hour of this demand, the police have to let them go. Maximum detainment without charge will be twenty four hours.
 * One's rights against cruel and unusual punishment. 
@@ -116,59 +116,65 @@ Best to give the responded multiple two-answer questions, instead of just one wi
 
 **Question 1**:
 
-Do you want Australia to become a republic, with the head of state position, that is presently occupied by the British monarch, to be occupied instead by a president?
+Do you want Australia to become a republic, with the head of state position, that is presently occupied by the British monarch, to be occupied instead by a President?
 
 Regardless of their answer to this they will be allowed to answer the remaining questions too.
 
 **Question 2**:
 
-Do you want this president to be directly elected by the people of Australia?
+Do you want this President to be directly elected by the people of Australia?
 
 If the answer is 'Yes', proceed to Q5, otherwise go to Q3-4, skip 5 and go to 6. 
 
-If no:
+**If no**:
 
-**Question 3**:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Question 3**:
 
-Do you want this president to be elected by a two-thirds majority vote during a joint sitting of the Parliament, or would you prefer one elected by an instant-runoff vote (IRV) during a joint sitting of the Parliament?
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Do you want this President to be elected by a two-thirds majority vote during a joint sitting of the Parliament, or would you prefer one elected by an instant-runoff vote (IRV) during a joint sitting of the Parliament?
 
-If (1):
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**If (1)**:
 
-**Question 4**:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Question 4**:
 
-If the Parliament cannot reach a two-thirds majority vote on anyone, do you support them using IRV to decide instead?
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If the Parliament cannot reach a two-thirds majority vote on anyone, do you support them using IRV to decide instead?
 
 **Question 5**
 
-Do you support using instant-runoff voting (IRV) to decide the president?
+Assuming the President is directly popularly elected, do you support using instant-runoff voting (IRV) to decide them?
 
-**Question 6**
+**If no**:
 
-Do you want the president to also be head of government, or would you prefer to keep the Prime Minister as head of government instead?
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Question 6**:
 
-If (2):
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Which alternate method would you prefer to be used to elect the directly, popularly-elected President: first-past-the-post (FPTP), with a single round; or, a two-round system?
 
-**Question 7**:
+**Question 7**
 
-Do you want the president to have power over the armed forces and foreign policy, or would you rather their role to be largely ceremonial, but still have the following reserve powers:
+Do you want the President to also be head of Government, or would you prefer to keep the Prime Minister as head of Government instead?
+
+**If (2)**:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Question 8**:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Do you want the President to have power over the armed forces and foreign policy, or would you rather their role to be largely ceremonial? Regardless, they will still have the following *{% include wp.html link="reserve powers" %}*:
 
 * The ability to dissolve the Parliament and call a new election, if and only if:
 
-    * There is strong evidence of mass corruption, or other criminal misconduct in the Parliament or government.
+    * There is strong evidence of mass corruption, or other criminal misconduct in the Parliament or Government.
     * There is strong evidence the election was rigged.
-    * The government has broken its pre-election promises, in a deliberate, wilful way.
-    * The government has failed to meet its constitutional obligations, such as in securing supply.
+    * The Government has broken its pre-election promises, in a deliberate, wilful way.
+    * The Government has failed to meet its constitutional obligations, such as in securing supply.
 
-* The ability to do whatever is needed to defend the Constitution from the government, or Parliament, but if their act is without precedence, they must ask the High Court whether (1) it is legal and (2) whether it is appropriate. If and only if they say yes to both, they may proceed. 
+* The ability to do whatever is needed to defend the Constitution from the Government, or Parliament, but if their act is without precedence, they must ask the High Court whether (1) it is legal and (2) whether it is appropriate. If and only if they say yes to both, they may proceed. 
 
 * The ability to temporarily veto legislation&mdash;if they believe the bill is legally invalid&mdash;pending a review by the HC.
 
-* The ability to dismiss the government and install a caretaker government, after dissolving the Parliament and calling a new election, if and only if:
+* The ability to dismiss the Government and install a caretaker Government, after dissolving the Parliament and calling a new election, if and only if:
 
-    * There is strong evidence of mass corruption, or other criminal misconduct among members of the government. 
-    * The government has broken its pre-election promises, in a deliberate, wilful way. 
+    * There is strong evidence of mass corruption, or other criminal misconduct among members of the Government. 
+    * The Government has broken its pre-election promises, in a deliberate, wilful way. 
     * They have violated the constitution in a deliberate, wilful way. Merely failing to secure supply, as the opposition has blocked it, for example, does not count. 
 
-**Question 8**:
+**Question 9**:
 
-Do you want the president to need to have at least a Bachelor of Laws (LLB), with experience in Constitutional law specifically, so that we can be confident they know the Constitution and law well enough to know when it has been violated by the government or Parliament?
+Do you want the President to need to have at least a Bachelor of Laws (LLB), with experience in Constitutional law specifically, so that we can be confident they know the Constitution and law well enough to know when it has been violated by the Government or Parliament?
