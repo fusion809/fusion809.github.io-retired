@@ -6,7 +6,7 @@ last_modified_at: 2019-05-11 13:44:00 +1000
 permalink:        /politics/republic-proposal/
 ---
 
-In 1999, Australians voted in a {% include wp.html art="1999_Australian_republic_referendum" link="referendum" %} on whether Australia should become a republic with a President elected by a two-thirds majority vote in Parliament. This proposal was defeated, and one reason given for why was that voters were not in favour of the specific proposal. Some were in favour of a popularly elected President instead.
+{% include_relative republic/00-introduction.md %}
 
 {% include_relative republic/01-appointment-method.md %}
 
