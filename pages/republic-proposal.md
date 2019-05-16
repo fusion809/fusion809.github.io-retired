@@ -12,19 +12,9 @@ In 1999, Australians voted in a {% include wp.html art="1999_Australian_republic
 
 {% include_relative republic/02-presidential-powers.md %}
 
-Citizen-initiated referenda
-============================
+{% include_relative republic/03-citizen-initiated-referenda.md %}
 
-I also propose giving citizens the ability to initiate a referendum by starting a petition that receives signatures from at least 10% of eligible voters within a twelve month period. These referenda should be binding on the Government, that is, if they receive 10% of signatures within twelve months the Government has to call the referendum. Likewise, if the referendum passes they have to implement the requested changes. 
-
-The wording of the question to be given to voters will also be set in stone (as if it is edited at the last moment the referendum triggered may be quite different from the one the signatories and originator wanted), and uneditable by the Government before the referendum is called. The question's wording will be vetted by an attorney at the Governmental office wherein the petition is picked up and started. The attorney will work with the initiator on the wording; once they agree on the wording, a photocopy of the petition will be sent to the AG's office for their approval, and once the AG approves it, the petition will start circulating. If the AG does not approve the wording, the AG and the initiator of the referendum will discuss the wording until they agree on it.  The purpose of this vetting process is in case the initiator of the referendum proposes a change that cannot be legally implemented, or asks a question that is very vague and due to its ambiguity, cannot be implemented. 
-
-Electorate meetings
-====================
-
-Likewise, I propose allowing citizens the ability to call an **electorate meeting**, using a petition that receives signatures from 10% of eligible voters within the electorate within a six month period. In these meetings every eligible voter within the electorate is allowed to join in discussions about whether the MP or senator the meeting is about has been meeting their obligations to them. Whether they have broken any pre-election promises, whether they have behaved in a way contrary to their interests, *etc.* Due to the sizes of some electorates we should allow people to remotely attend using technology as well (e.g. Skype). A weeks notice will be necessary before the meeting, which will be held early during a Saturday night (as it tends to be most convenient to people, from a work point of view). 
-
-At the end everyone will be given the chance to retake the vote that appointed the MP/senator in question in the first place. They will assign preferences, with all the candidates that were running in the original election available as options, and then using IRV or STV the winner(s) will be decided. If the person the meeting is about loses by a significant margin (that will be decided based on the percentage of eligible voters that are present at the meeting), a new election will be called. But, the candidate elected in this possible re-election will only serve out the rest of the term that their predecessor started (i.e. when the next federal election is called their seat will also be up for re-election).
+{% include_relative republic/04-electorate-meetings.md %}
 
 {% include wp.html link="Senate" art="Australian_Senate" %} terms
 =============
