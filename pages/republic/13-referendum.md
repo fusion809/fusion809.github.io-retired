@@ -48,7 +48,7 @@ Do you want the President to also be head of Government, or would you prefer to 
 
 * The ability to dissolve the Parliament and call a new election, if and only if:
 
-    * There is strong evidence of mass corruption, or other criminal misconduct in the Parliament or Government.
+    * There is strong evidence of mass corruption, or other criminal misconduct in the Parliament or Government. This evidence must be strong enough to practically ensure a conviction for at least five members of the Government, or ten members of the Parliament.
     * There is strong evidence the election was rigged.
     * The Government has broken its pre-election promises, in a deliberate, wilful way.
     * The Government has failed to meet its constitutional obligations, such as in securing supply.
@@ -57,7 +57,7 @@ Do you want the President to also be head of Government, or would you prefer to 
 
 * The ability to temporarily veto legislation&mdash;if they believe the bill is legally invalid&mdash;pending a review by the HC.
 
-* The ability to dismiss the Government and install a caretaker Government, after dissolving the Parliament and calling a new election, if and only if:
+* The ability to dismiss the Government and install a caretaker Government&mdash;after dissolving the Parliament and calling a new election&mdash;if and only if:
 
     * There is strong evidence of mass corruption, or other criminal misconduct, among members of the Government. This evidence must be strong enough to practically ensure a conviction for at least three members of the Government, or ten members of the Parliament.
     * The Government has broken its pre-election promises, in a deliberate, wilful way. Note: this does *not* include failing to pass a bill that would have fulfilled a promise, due to too few people voting in favour of it. If the Government tried to pass a bill to a fulfil a promise, but it was defeated, like in the Senate, then that is not to be held against them.

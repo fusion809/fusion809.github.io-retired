@@ -26,8 +26,10 @@ permalink:        /politics/republic-proposal/
 
 {% include_relative republic/09-justices-of-the-high-court.md %}
 
-{% include_relative republic/10-other-criminal-reforms.md %}
+{% include_relative republic/10-corruption-commission.md %}
 
-{% include_relative republic/11-queensland-reforms.md %}
+{% include_relative republic/11-other-criminal-reforms.md %}
 
-{% include_relative republic/12-referendum.md %}
+{% include_relative republic/12-queensland-reforms.md %}
+
+{% include_relative republic/13-referendum.md %}
