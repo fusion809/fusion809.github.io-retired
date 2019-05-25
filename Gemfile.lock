@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/jekyll/jekyll.git
-  revision: 1658a1596eecd94e716dfd4e059807a95b6e784f
+  revision: 08b04aa337cfe3134d3791fd6f63134ba37a7dba
   specs:
     jekyll (4.0.0.pre.alpha1)
       addressable (~> 2.4)
@@ -30,7 +30,7 @@ GEM
     eventmachine (1.2.7)
     faraday (0.15.4)
       multipart-post (>= 1.2, < 3)
-    ffi (1.10.0)
+    ffi (1.11.1)
     forwardable-extended (2.6.0)
     http_parser.rb (0.6.0)
     i18n (1.6.0)

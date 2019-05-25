@@ -4,9 +4,14 @@ title:            "Australian republic proposal"
 date:             2019-05-11 13:44:37 +1000
 last_modified_at: 2019-05-11 13:44:00 +1000
 permalink:        /politics/republic-proposal/
+redirect_from:
+                - /repub/
+                - /republic-proposal/
 ---
 
 {% include_relative republic/00-introduction.md %}
+
+{% include_relative republic/toc.html %}
 
 {% include_relative republic/01-appointment-method.md %}
 
@@ -28,8 +33,10 @@ permalink:        /politics/republic-proposal/
 
 {% include_relative republic/10-corruption-commission.md %}
 
-{% include_relative republic/11-other-criminal-reforms.md %}
+{% include_relative republic/11-expansion.md %}
 
-{% include_relative republic/12-queensland-reforms.md %}
+{% include_relative republic/12-other-criminal-reforms.md %}
 
-{% include_relative republic/13-referendum.md %}
+{% include_relative republic/13-queensland-reforms.md %}
+
+{% include_relative republic/14-referendum.md %}

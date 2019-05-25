@@ -85,6 +85,18 @@ body:
     upper-house-app:     <a href="https://en.wikipedia.org/wiki/Parallel_voting" link="_blank">PV</a>&#58; 37% by <a href="https://en.wikipedia.org/wiki/First-past-the-post" link="_blank">FPTP</a>, 63% by <a href="https://en.wikipedia.org/wiki/Closed_list" link="_blank">CLPLPR</a>.
     house-powers:        LH=UH
 
+  - country:             Netherlands
+    legislature:         States General
+    legislature-art:     States_General_of_the_Netherlands
+    lower-house:         House of Representatives
+    lower-house-art:     House_of_Representatives_(Netherlands)
+    lower-house-app:     Semi-open PLPR
+    lower-house-app-art: Open_list#Netherlands
+    upper-house:         Senate
+    upper-house-art:     Senate_(Netherlands)
+    upper-house-app:     Indirect PLPR
+    house-powers:        UH can only accept/reject legislation
+
   - country:             New Zealand
     legislature:         Parliament
     legislature-art:     Parliament_of_New_Zealand
