@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/jekyll/jekyll.git
-  revision: 08b04aa337cfe3134d3791fd6f63134ba37a7dba
+  revision: 58bc6898298767c8c8bc1127d33252b638e30384
   specs:
     jekyll (4.0.0.pre.alpha1)
       addressable (~> 2.4)
@@ -49,7 +49,7 @@ GEM
     jekyll-watch (2.2.1)
       listen (~> 3.0)
     kramdown (2.1.0)
-    kramdown-parser-gfm (1.0.1)
+    kramdown-parser-gfm (1.1.0)
       kramdown (~> 2.0)
     liquid (4.0.3)
     listen (3.1.5)
@@ -64,7 +64,7 @@ GEM
       sawyer (~> 0.8.0, >= 0.5.3)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
-    public_suffix (3.0.3)
+    public_suffix (3.1.0)
     pygments.rb (1.2.1)
       multi_json (>= 1.0.0)
     rb-fsevent (0.10.3)
