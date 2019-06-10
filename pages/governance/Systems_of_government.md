@@ -15,11 +15,11 @@ This article is more for my benefit than anyone else's, it is mostly so that I c
 {% include_relative 01-terminology.md %}
 
 {% capture systemsgovsec %}
-{% include_relative systemsgovsec.md %}
+{% include_relative 02-systemsgovsec.md %}
 {% endcapture %}
 {{ systemsgovsec | markdownify }}
 
 {% capture orgsstr %}
-{% include_relative orgstr.md %}
+{% include_relative 03-orgstr.md %}
 {% endcapture %}
 {{ orgsstr | markdownify }}

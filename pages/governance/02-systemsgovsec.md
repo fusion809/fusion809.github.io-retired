@@ -4,14 +4,7 @@ Systems of government
 <!-- Systems of gov figure -->
 {% include_relative image-with-caption.html text="Figure 2: Basic forms of government" subtext="Click map or legend to view the full form, which includes hyperlinks for countries and government types." img="https://fusion809.github.io/images/Maps/Forms of government (shorter desc; more descriptive).svg" width="100%" %}
 
-<!-- Definitions -->
-{% include h2.html text="Definition" %}
-
-The two main basic types of government in use around the world today are {% include wp.html link="monarchies" f="b" %} and {% include wp.html link="republics" f="b" puncr="." %} Neither of which have a perfect, universally agreed upon definition. Their definition has evolved significantly over time. The first definition I give will be my own, based on commonalities between all countries that call themselves monarchies or republics. 
-
-Under a monarchy, the head of state&mdash;the monarch&mdash;is an individual who usually inherits their role, and usually cannot be forcibly removed from their role, except due to incapacity. Historically, it was taken for granted that this monarch would have absolute power to do with whatever they please, but over the centuries this definition has changed radically with many countries adopting greater restrictions on their monarch's power. 
-
-A republic is essentially every other type of government. The word "republic" derives from the Latin meaning "public thing", which means that the governance of the country is meant to be a public matter, not the private concern of the rulers. Despite this, many republics are not as democratic as this definition makes them sound, e.g. {% include wp.html link="North Korea" puncr="'s" %} official name is "Democratic People's Republic of Korea", despite it not being democratic at all (although I have read that "mock" elections are held).
+{% include_relative 02a-definitions.md %}
 
 <!-- Monarchy -->
 <!-- Heading, without the box around it-->
