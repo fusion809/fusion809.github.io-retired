@@ -10,16 +10,16 @@ redirect_from:
 
 This article is more for my benefit than anyone else's, it is mostly so that I can write my thoughts and knowledge on the various systems of government. A recent interest of mine has been systems of government. 
 
-{% include_relative governance/00-table-of-contents.html %}
+{% include_relative 00-table-of-contents.html %}
 
-{% include_relative governance/01-terminology.md %}
+{% include_relative 01-terminology.md %}
 
 {% capture systemsgovsec %}
 Systems of government
 =====================
 
 <!-- Systems of gov figure -->
-{% include_relative governance/image-with-caption.html text="Figure 2: Basic forms of government" subtext="Click map or legend to view the full form, which includes hyperlinks for countries and government types." img="https://fusion809.github.io/images/Maps/Forms of government (shorter desc; more descriptive).svg" width="100%" %}
+{% include_relative image-with-caption.html text="Figure 2: Basic forms of government" subtext="Click map or legend to view the full form, which includes hyperlinks for countries and government types." img="https://fusion809.github.io/images/Maps/Forms of government (shorter desc; more descriptive).svg" width="100%" %}
 
 <!-- Definitions -->
 {% include h2.html text="Definition" %}
@@ -56,19 +56,19 @@ Republics come in several different flavours (and yes, some republics have multi
 * {% include wp.html art="Islamic republic" link="Islamic" f="b" %}&mdash;republics ruled by Islamic laws. There are, at the time of writing, four Islamic republics in the world:
 
     - {% include wp.html link="Afghanistan" %}&mdash;follows a presidential system.
-    - {% include wp.html link="Iran" %}&mdash;unique governance system that most closely resembles a presidential system.
+    - {% include wp.html link="Iran" %}&mdash;unique governance system that most closely resembles that of a presidential system.
     - {% include wp.html link="Mauritania" %}&mdash;otherwise government as a semi-presidential republic.
     - {% include wp.html link="Pakistan" %}&mdash;otherwise it is governed in a similar way to India, with a parliament vested with executive and legislative power and a separate judiciary.
 
 <!-- Presidential -->
-* {% include wp.html f="b" art="Presidential_system" link="Presidential" %}&mdash;systems in which there is a popularly elected president that is both head of state and head of government, and there is a separate, largely independent legislature that is overseen by other elected officials (e.g. senators and congresspersons). The legislature has fairly minimal ability to affect the executive branch and vice versa, except via use of powers that are designed to only be used in exceptional circumstances (e.g. the legislature can often impeach the president, but it is challenging, likewise the president has the ability to veto any legislation that is pending approval). High ranking members of the judiciary are often appointed by the president, with the consent of the senate. The US is the prototypical presidential republic.
-
-    They tend to be relatively unstable, rank less well on measures of democracy (e.g. look at Turkey and Zimbabwe) and often end in a coup d'état, because of the difficulty in removing an unruly president and the difficulty in passing legislation when the president's political views differ from those of the legislature.
+* [**Presidential**](/politics/presidential-system/)&mdash;systems in which there is a popularly elected (either directly, or indirectly via an electoral college) president that heads the executive branch, which is separate from the legislative and judicial branches. Each branch has only a limited ability to directly interfere with the business of the others, For example, the President of the US can veto legislation, but the Congress can override this, if they can reach a two-thirds majority vote in both houses. Likewise, the Supreme Court (judicial branch) can invalidate laws passed by the Congress or executive orders issued by the President if they are ruled unconstitutional.
 
 <!-- Semi-presidential -->
-* {% include wp.html f="b" art="Semi-presidential system" link="Semi-presidential" %}&mdash;systems where executive power is vested in both a popularly elected fixed term president and a cabinet (which includes its leader, the prime minister/premier/chancellor, whom I will simply refer to as PM). The president appoints members of the cabinet (ministers), on the advice of the PM (who the president also appoints), but they are responsible to the legislature. The PM is usually a member of the legislature, but is not necessarily. 
+* [**Semi-presidential**](/politics/semi-presidential-system/)&mdash;systems where executive power is vested in both a popularly elected fixed term president and a cabinet (which includes its leader, the prime minister/premier/chancellor, whom I will simply refer to as PM). The president appoints members of the cabinet (ministers), on the advice of the PM (who the president also appoints), but all cabinet members, including the PM, are responsible to the legislature. The PM is usually a member of the lower house of the legislature, but is not necessarily. 
 
-    Whether the president can dismiss the PM or not depends greatly on the specific subtype of semi-presidential system in question&mdash;under the **premier-presidential** system they cannot, while under **president-parliamentary** systems they can. Under this system the president is mostly concerned with foreign policy and defence, while the PM deals largely with domestic policy. France is the prototypical semi-presidential (specifically premier-presidential) republic, while Russia and the Weimar Republic that preceded Nazi Germany are noted examples of president-parliamentary systems. 
+    Whether the president can dismiss the PM or not depends greatly on the specific subtype of semi-presidential system in question&mdash;under the **premier-presidential** system they cannot, while under **president-parliamentary** systems they can. 
+    
+    Under this system the president is mostly concerned with foreign policy and defence, while the PM deals largely with domestic policy. France is the prototypical semi-presidential (specifically premier-presidential) republic, while Russia and the Weimar Republic that preceded Nazi Germany are noted examples of president-parliamentary systems. 
 
     They seem to be particularly easy to abuse and turn into a dictatorship as they are present in countries that rank consistently near the bottom on measures of democracy (e.g. DRC, Russia), and was present in the {% include wp.html link="Weimar Republic" puncr="," %} which preceded {% include wp.html link="Nazi Germany" puncr="." %}
 
@@ -101,7 +101,7 @@ Organizational structure
 ========================
 
 <!-- Federal vs Unitary states map -->
-{% include_relative governance/image-with-caption.html text="Figure 1: Federal and unitary states of the world" img="https://upload.wikimedia.org/wikipedia/commons/4/46/Map_of_unitary_and_federal_states.svg" width="100%" %}
+{% include_relative image-with-caption.html text="Figure 1: Federal and unitary states of the world" img="https://upload.wikimedia.org/wikipedia/commons/4/46/Map_of_unitary_and_federal_states.svg" width="100%" %}
 
 <!-- Federation definition -->
 {% include h2.html text="Federation" %} 

@@ -14,8 +14,11 @@ I propose, to accommodate different cultures and attitudes and reduce what the n
 * {% include wp.html link="Nauru" %}&mdash;much the same benefits that Bougainville Island can gain from joining us. 
 * {% include wp.html link="New Caledonia" %}&mdash;and yes, I do know it is part of France. But, it has a lower GDP per capita than us, and if we grant it a high level of autonomy it makes sense for them join us. 
 * {% include wp.html link="New Zealand" %}&mdash;they refused to join us at the time of federation, but if we give them enticements to join, like a high degree of autonomy, a lower taxation rate than they present have, along with a stronger economy, that has been recession-free for decades. If I have implemented several reforms to strengthen the economy and improve on social security, housing, education and healthcare that should also entice them. We would gain additional land, including some arable land, some beautiful tourism destinations and additional Antarctic territory. 
+* {% include wp.html link="Niue" %}&mdash;their GDP per capita (PPP) is about half that of Fiji. 
 * {% include wp.html link="Samoa" %}&mdash;their GDP per capita is even lower than Fiji, and they have even more to gain by joining us. 
-* {% include wp.html link="Solomon Islands" %}&mdash;their GDP per capita is even lower than Fiji, and they have even more to gain by joining us. 
+* {% include wp.html link="Solomon Islands" %}&mdash;their GDP per capita is even lower than Fiji, and they have even more to gain by joining us.
+* {% include wp.html link="Tokelau" %}&mdash;their GDP per capita is also lower than ours, but roughly on par with Fiji. 
+* {% include wp.html link="Tonga" %}&mdash;their GDP per capita is also lower than ours, but roughly on par with Fiji. 
 * {% include wp.html link="Tuvalu" %}&mdash;their GDP per capita is also lower than ours, but roughly on par with Fiji. 
 * {% include wp.html link="Vanuatu" %}&mdash;their GDP per capita is also far lower, as is their level of human development, so they have much to gain by joining us. 
 * {% include wp.html link="Wallis and Futuna" %}&mdash;their GDP per capita is also far lower, as is their level of human development, so they have much to gain by joining us. 
