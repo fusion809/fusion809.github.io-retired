@@ -1,163 +1,169 @@
-caption:                      Table 1&#58; National legislatures of several notable countries
-country-width:                120
-legislature-width:            220
-lower-house-width:            220
-lower-house-app-method-width: 230
-upper-house-width:            225
-upper-house-app-method-width: 230
-house-powers-width:           250
+caption:                        Table 1&#58; National legislatures of several notable countries
+country-width:                  120
+legislature-width:              220
+lower-house-width:              220
+lower-house-app-method-width:   230
+upper-house-width:              225
+upper-house-app-method-width:   230
+house-powers-width:             250
 
 body:
 
-  - country:             Australia
-    legislature:         Parliament
-    legislature-art:     Parliament_of_Australia
-    lower-house:         House of Representatives
-    lower-house-art:     Australian_House_of_Representatives
-    lower-house-app:     IRV
-    lower-house-app-art: Instant-runoff_voting
-    upper-house:         Senate
-    upper-house-art:     Australian_Senate
-    upper-house-app:     STV
-    upper-house-app-art: Single_transferable_vote
-    house-powers:        LH>UH (LH has exec power;<br/> UH has less money bill power)
+  - country:                    Australia
+    legislature:                Parliament
+    legislature-art:            Parliament_of_Australia
+    lower-house:                House of Representatives
+    lower-house-art:            Australian_House_of_Representatives
+    lower-house-app:            IRV
+    lower-house-app-art:        Instant-runoff_voting
+    upper-house:                Senate
+    upper-house-art:            Australian_Senate
+    upper-house-app:            STV
+    upper-house-app-art:        Single_transferable_vote
+    house-powers:               LH>UH (LH has exec power;<br/> UH has less money bill power)
 
-  - country:             Brazil
-    legislature:         National Congress
-    legislature-art:     National_Congress_of_Brazil
-    lower-house:         Chamber of Deputies
-    lower-house-art:     Chamber_of_Deputies_(Brazil)
-    lower-house-app:     OLPLPR
-    lower-house-app-art: Open_list
-    upper-house:         Federal Senate
+  - country:                    Brazil
+    legislature:                National Congress
+    legislature-art:            National_Congress_of_Brazil
+    lower-house:                Chamber of Deputies
+    lower-house-art:            Chamber_of_Deputies_(Brazil)
+    lower-house-app:            OLPLPR
+    lower-house-app-art:        Open_list
+    upper-house:                Federal Senate
     upper-house-app:     
       <a href="https://en.wikipedia.org/wiki/Plurality_voting" link="_blank">PLV</a>&#58; alternating every 4 years<br/> between <a href="https://en.wikipedia.org/wiki/First-past-the-post" link="_blank">FPTP</a> and <a href="https://en.wikipedia.org/wiki/Plurality-at-large_voting" link="_blank">block voting</a>. 
-    house-powers:        LH<UH (UH approves appointments<br/> by pres; tries pres in trials; <i>etc.</i>)
+    house-powers:               LH<UH (UH approves appointments<br/> by pres; tries pres in trials; <i>etc.</i>)
 
-  - country:             Canada
-    legislature:         Parliament
-    legislature-art:     Parliament_of_Canada
-    lower-house:         House of Commons
-    lower-house-art:     House_of_Commons_of_Canada
-    lower-house-app:     FPTP
-    lower-house-app-art: First-past-the-post
-    upper-house:         Senate
-    upper-house-art:     Senate_of_Canada
-    upper-house-app:     By PM
-    house-powers:        LH>UH (LH has exec power;<br/> UH has less money bill power)
+  - country:                    Canada
+    legislature:                Parliament
+    legislature-art:            Parliament_of_Canada
+    lower-house:                House of Commons
+    lower-house-art:            House_of_Commons_of_Canada
+    lower-house-app:            FPTP
+    lower-house-app-art:        First-past-the-post
+    upper-house:                Senate
+    upper-house-art:            Senate_of_Canada
+    upper-house-app:            By PM
+    house-powers:               LH>UH (LH has exec power;<br/> UH has less money bill power)
 
-  - country:             France
-    legislature:         Parliament
-    legislature-art:     Parliament_of_France
-    lower-house:         National Assembly
-    lower-house-art:     National_Assembly_(France)
-    lower-house-app:     TRV
-    lower-house-app-art: Two-round_voting
-    upper-house:         Senate
-    upper-house-art:     Senate_(France)
-    upper-house-app:     By elected officials
-    house-powers:        LH>UH (LH has exec power;<br/> LH can overrule UH in some cases<br/> of deadlock)
+  - country:                    France
+    legislature:                Parliament
+    legislature-art:            Parliament_of_France
+    lower-house:                National Assembly
+    lower-house-art:            National_Assembly_(France)
+    lower-house-app:            TRV
+    lower-house-app-art:        Two-round_voting
+    upper-house:                Senate
+    upper-house-art:            Senate_(France)
+    upper-house-app:            By elected officials.
+    house-powers:               LH>UH (LH has exec power;<br/> LH can overrule UH in some cases<br/> of deadlock)
 
-  - country:             Germany
-    legislature:         Bundestag
-    legislature-app:     MMPR
-    legislature-app-art: Mixed-member_proportional_representation
-    upper-house:         Bundesrat
-    upper-house-art:     Bundesrat_of_Germany
+  - country:                    Germany
+    legislature:                Bundestag
+    legislature-app:            MMPR
+    legislature-app-art:        Mixed-member_proportional_representation
+    upper-house:                Bundesrat
+    upper-house-art:            Bundesrat_of_Germany
     upper-house-app:     
       By <a href="https://en.wikipedia.org/wiki/States_of_Germany" link="_blank">state</a> officials.
-    house-powers:        LH>UH (UH approval only needed<br/> in some cases; LH has exec power)
+    house-powers:               LH>UH (UH approval only needed<br/> in some cases; LH has exec power)
 
-  - country:             Iceland
-    legislature:         Althing
-    legislature-app:     OLPLPR
-    legislature-app-art: Open_list
+  - country:                    Iceland
+    legislature:                Althing
+    legislature-app:            OLPLPR
+    legislature-app-art:        Open_list
 
-  - country:             India
-    legislature:         Parliament
-    legislature-art:     Parliament_of_India
-    lower-house:         Lok Sabha
-    lower-house-app:     FPTP
-    lower-house-app-art: First-past-the-post
-    upper-house:         Rajya Sabha
-    upper-house-app:     233 by <a href="https://en.wikipedia.org/wiki/Single_transferable_vote" link="_blank">STV</a>, 12 by <a href="https://en.wikipedia.org/wiki/President_of_India" link="_blank">president</a>.
-    house-powers:        LH>UH
+  - country:                    India
+    legislature:                Parliament
+    legislature-art:            Parliament_of_India
+    lower-house:                Lok Sabha
+    lower-house-app:            FPTP
+    lower-house-app-art:        First-past-the-post
+    upper-house:                Rajya Sabha
+    upper-house-app:            
+      233 by <a href="https://en.wikipedia.org/wiki/Single_transferable_vote" link="_blank">STV</a>, 12 by <a href="https://en.wikipedia.org/wiki/President_of_India" link="_blank">president</a>.
+    house-powers:               LH>UH
 
-  - country:             Indonesia
-    legislature:         People's Consultative Assembly
-    lower-house:         People's Representative Council
-    lower-house-app:     OLPLPR
-    lower-house-app-art: Open_list
-    upper-house:         Regional Representative Council
-    upper-house-app:     SNTV
-    upper-house-app-art: Single_non-transferable_vote
-    house-powers:        LH>>UH
+  - country:                    Indonesia
+    legislature:                People's Consultative Assembly
+    lower-house:                People's Representative Council
+    lower-house-app:            OLPLPR
+    lower-house-app-art:        Open_list
+    upper-house:                Regional Representative Council
+    upper-house-app:            SNTV
+    upper-house-app-art:        Single_non-transferable_vote
+    house-powers:               LH>>UH
 
-  - country:             Italy
-    legislature:         Parliament
-    legislature-art:     Parliament_of_Italy
-    lower-house:         Chamber of Deputies
-    lower-house-art:     Italian_Chamber_of_Deputies
-    lower-house-app:     <a href="https://en.wikipedia.org/wiki/Parallel_voting" link="_blank">PV</a>&#58; 37/63 by <a href="https://en.wikipedia.org/wiki/First-past-the-post" link="_blank">FPTP</a> and <a href="https://en.wikipedia.org/wiki/Closed_list" link="_blank">CLPLPR</a>.
-    upper-house:         Senate of the Republic
-    upper-house-art:     Italian_Senate
-    upper-house-app:     <a href="https://en.wikipedia.org/wiki/Parallel_voting" link="_blank">PV</a>&#58; 37/63 by <a href="https://en.wikipedia.org/wiki/First-past-the-post" link="_blank">FPTP</a> and <a href="https://en.wikipedia.org/wiki/Closed_list" link="_blank">CLPLPR</a>.
-    house-powers:        LH=UH
+  - country:                    Italy
+    legislature:                Parliament
+    legislature-art:            Parliament_of_Italy
+    lower-house:                Chamber of Deputies
+    lower-house-art:            Italian_Chamber_of_Deputies
+    lower-house-app:            
+      <a href="https://en.wikipedia.org/wiki/Parallel_voting" link="_blank">PV</a>&#58; 37/63 by <a href="https://en.wikipedia.org/wiki/First-past-the-post" link="_blank">FPTP</a> and <a href="https://en.wikipedia.org/wiki/Closed_list" link="_blank">CLPLPR</a>.
+    upper-house:                Senate of the Republic
+    upper-house-art:            Italian_Senate
+    upper-house-app:            
+      <a href="https://en.wikipedia.org/wiki/Parallel_voting" link="_blank">PV</a>&#58; 37/63 by <a href="https://en.wikipedia.org/wiki/First-past-the-post" link="_blank">FPTP</a> and <a href="https://en.wikipedia.org/wiki/Closed_list" link="_blank">CLPLPR</a>.
+    house-powers:               LH=UH
 
-  - country:             Netherlands
-    legislature:         States General
-    legislature-art:     States_General_of_the_Netherlands
-    lower-house:         House of Representatives
-    lower-house-art:     House_of_Representatives_(Netherlands)
-    lower-house-app:     Semi-open PLPR
-    lower-house-app-art: Open_list#Netherlands
-    upper-house:         Senate
-    upper-house-art:     Senate_(Netherlands)
-    upper-house-app:     Indirect PLPR
-    house-powers:        UH can only accept/reject legislation
+  - country:                    Netherlands
+    legislature:                States General
+    legislature-art:            States_General_of_the_Netherlands
+    lower-house:                House of Representatives
+    lower-house-art:            House_of_Representatives_(Netherlands)
+    lower-house-app:            Semi-open PLPR
+    lower-house-app-art:        Open_list#Netherlands
+    upper-house:                Senate
+    upper-house-art:            Senate_(Netherlands)
+    upper-house-app:            Indirect PLPR
+    house-powers:               UH can only accept/reject legislation
 
-  - country:             New Zealand
-    legislature:         Parliament
-    legislature-art:     Parliament_of_New_Zealand
-    lower-house:         House of Representatives
-    lower-house-art:     New_Zealand_House_of_Representatives
-    lower-house-app:     MMPR
-    lower-house-app-art: Mixed-member_proportional_representation
+  - country:                    New Zealand
+    legislature:                Parliament
+    legislature-art:            Parliament_of_New_Zealand
+    lower-house:                House of Representatives
+    lower-house-art:            New_Zealand_House_of_Representatives
+    lower-house-app:            MMPR
+    lower-house-app-art:        Mixed-member_proportional_representation
+    upper-house-abolition-date: 1951
 
-  - country:             Norway
-    legislature:         Storting
-    legislature-app:     OLPLPR
-    legislature-app-art: Open_list
+  - country:                    Norway
+    legislature:                Storting
+    legislature-app:            OLPLPR
+    legislature-app-art:        Open_list
 
-  - country:             Russia
-    legislature:         Federal Assembly
-    legislature-art:     Federal_Assembly_(Russia)
-    lower-house:         State Duma
-    lower-house-app:     <a href="https://en.wikipedia.org/wiki/Parallel_voting" link="_blank">PV</a>&#58; 50/50 by <a href="https://en.wikipedia.org/wiki/First-past-the-post_voting" link="_blank">FPTP</a> and <a href="https://en.wikipedia.org/wiki/Closed_list" link="_blank">CLPLPR</a>.
-    upper-house:         Federation Council
-    upper-house-art:     Federation_Council_(Russia)
-    upper-house-app:     By <a href="https://en.wikipedia.org/wiki/Federal_subjects_of_Russia" link="_blank">federal subject</a> officials.
-    house-powers:        LH&approx;UH (distinct powers)
+  - country:                    Russia
+    legislature:                Federal Assembly
+    legislature-art:            Federal_Assembly_(Russia)
+    lower-house:                State Duma
+    lower-house-app:            
+      <a href="https://en.wikipedia.org/wiki/Parallel_voting" link="_blank">PV</a>&#58; 50/50 by <a href="https://en.wikipedia.org/wiki/First-past-the-post_voting" link="_blank">FPTP</a> and <a href="https://en.wikipedia.org/wiki/Closed_list" link="_blank">CLPLPR</a>.
+    upper-house:                Federation Council
+    upper-house-art:            Federation_Council_(Russia)
+    upper-house-app:            
+      By <a href="https://en.wikipedia.org/wiki/Federal_subjects_of_Russia" link="_blank">federal subject</a> officials.
+    house-powers:               LH&approx;UH (distinct powers)
 
-  - country:             United Kingdom
-    legislature:         Parliament
-    legislature-art:     Parliament_of_the_United_Kingdom
-    lower-house:         House of Commons
-    lower-house-art:     House_of_Commons_of_the_United_Kingdom
-    lower-house-app:     FPTP
-    lower-house-app-art: First-past-the-post
-    upper-house:         House of Lords
+  - country:                    United Kingdom
+    legislature:                Parliament
+    legislature-art:            Parliament_of_the_United_Kingdom
+    lower-house:                House of Commons
+    lower-house-art:            House_of_Commons_of_the_United_Kingdom
+    lower-house-app:            FPTP
+    lower-house-app-art:        First-past-the-post
+    upper-house:                House of Lords
     upper-house-app:     
       Appointed by varying methods.<sup>1</sup>
-    house-powers:        LH&#8811;UH (UH can only delay)
+    house-powers:               LH&#8811;UH (UH can only delay)
 
-  - country:             United States
-    legislature:         Congress
-    legislature-art:     United_States_Congress
-    lower-house:         House of Representatives
-    lower-house-art:     United_States_House_of_Representatives
-    lower-house-app:     Varies by state—PLV, TRV, <i>etc.</i>
-    upper-house:         Senate
-    upper-house-art:     United_States_Senate
-    upper-house-app:     Varies by state—PLV, TRV, <i>etc.</i>
-    house-powers:        LH&approx;UH (distinct powers)
+  - country:                    United States
+    legislature:                Congress
+    legislature-art:            United_States_Congress
+    lower-house:                House of Representatives
+    lower-house-art:            United_States_House_of_Representatives
+    lower-house-app:            Varies by state—PLV, TRV, <i>etc.</i>
+    upper-house:                Senate
+    upper-house-art:            United_States_Senate
+    upper-house-app:            Varies by state—PLV, TRV, <i>etc.</i>
+    house-powers:               LH&approx;UH (distinct powers)
