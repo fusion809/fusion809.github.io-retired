@@ -74,6 +74,16 @@ body:
     upper-house-app:     233 by <a href="https://en.wikipedia.org/wiki/Single_transferable_vote" link="_blank">STV</a>, 12 by <a href="https://en.wikipedia.org/wiki/President_of_India" link="_blank">president</a>.
     house-powers:        LH>UH
 
+  - country:             Indonesia
+    legislature:         People's Consultative Assembly
+    lower-house:         People's Representative Council
+    lower-house-app:     OLPLPR
+    lower-house-app-art: Open_list
+    upper-house:         Regional Representative Council
+    upper-house-app:     SNTV
+    upper-house-app-art: Single_non-transferable_vote
+    house-powers:        LH>>UH
+
   - country:             Italy
     legislature:         Parliament
     legislature-art:     Parliament_of_Italy
