@@ -1,13 +1,23 @@
 <table id = "table1" cellpadding="4" cellspacing="0" style="page-break-after: avoid">
-	<col width="120"/>
+	<!--120-->
+	<col width="{{ site.data.sysofgov.country-width }}"/>
 
-	<col width="300"/>
+	<!--400-->
+	<col width="{{ site.data.sysofgov.legislature-width }}"/>
 
-	<col width="180"/>
+	<!--180-->
+	<col width="{{ site.data.sysofgov.lower-house-width }}"/>
 
-	<col width="245"/>
+	<!--245-->
+	<col width="{{ site.data.sysofgov.lower-house-app-method-width }}"/>
 
-	<col width="180"/>
+	<!--140-->
+	<col width="{{ site.data.sysofgov.upper-house-width }}"/>
+
+	<col width="{{ site.data.sysofgov.upper-house-app-method-width }}"/>
+
+	<col width="{{ site.data.sysofgov.house-powers-width }}"/>
+
 
 	<!--<col width="400"/>-->
 
@@ -97,7 +107,7 @@
 		<td valign="top" style="background: transparent" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.1cm; padding-left: 0.1cm; padding-right: 0cm">
 			<p align="left" style="font-style: normal; font-weight: normal; text-decoration: none">
 				<font color="#000000" size="3" face="Liberation Serif, serif" style="font-size: 12pt;">
-					<span style="text-decoration: none">
+					<span style="text-decoration: none;;">
 						<a href="https://en.wikipedia.org/wiki/{{ row.country }}" link="_blank">
 							{{ row.country }}
 						</a>
@@ -106,7 +116,7 @@
 			</p>
 		</td>
 		{% if row.lower-house %}
-		<td valign="top" style="background: transparent" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.1cm; padding-left: 0.1cm; padding-right: 0cm">
+		<td valign="top" style="background: transparent;" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.1cm; padding-left: 0.1cm; padding-right: 0cm">
 			<p align="left" style="font-style: normal; font-weight: normal; text-decoration: none">
 				<font color="#000000" size="3" face="Liberation Serif, serif" style="font-size: 12pt;">
 					<span style="text-decoration: none">
@@ -205,6 +215,9 @@
 		<td colspan="7" style="background: transparent; border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; padding-top: 0cm; padding-bottom: 0.1cm; padding-left: 0.1cm; padding-right: 0cm">
 			<p align="left" style="font-style: normal; font-weight: normal; text-decoration: none">
 				<font color="#000000" size="3" face="Liberation Serif, serif" style="font-size: 12pt;">
+					<span style="text-decoration: none"><b>Footnotes</b></span><br/>
+						1. Some are appointed by the monarch, some inherit the role, some are church officials, <i>etc.</i>
+					<br/>
 					<span style="text-decoration: none"><b>Acronyms:</b><br/>
 						CLPLPR: closed list party-list proportional representation.<br/>
 						FPTP: first-past-the-post.<br/>

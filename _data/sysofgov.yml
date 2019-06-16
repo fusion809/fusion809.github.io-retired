@@ -1,4 +1,11 @@
-caption:                 Table 1&#58; National legislatures of a several notable countries
+caption:                      Table 1&#58; National legislatures of several notable countries
+country-width:                120
+legislature-width:            220
+lower-house-width:            220
+lower-house-app-method-width: 230
+upper-house-width:            225
+upper-house-app-method-width: 230
+house-powers-width:           250
 
 body:
 
@@ -23,7 +30,8 @@ body:
     lower-house-app:     OLPLPR
     lower-house-app-art: Open_list
     upper-house:         Federal Senate
-    upper-house-app:     <a href="https://en.wikipedia.org/wiki/Plurality_voting" link="_blank">PLV</a>&#58; alternating every four years<br/> between <a href="https://en.wikipedia.org/wiki/First-past-the-post" link="_blank">FPTP</a> and <a href="https://en.wikipedia.org/wiki/Plurality-at-large_voting" link="_blank">block voting</a>. 
+    upper-house-app:     
+      <a href="https://en.wikipedia.org/wiki/Plurality_voting" link="_blank">PLV</a>&#58; alternating every 4 years<br/> between <a href="https://en.wikipedia.org/wiki/First-past-the-post" link="_blank">FPTP</a> and <a href="https://en.wikipedia.org/wiki/Plurality-at-large_voting" link="_blank">block voting</a>. 
     house-powers:        LH<UH (UH approves appointments<br/> by pres; tries pres in trials; <i>etc.</i>)
 
   - country:             Canada
@@ -56,7 +64,8 @@ body:
     legislature-app-art: Mixed-member_proportional_representation
     upper-house:         Bundesrat
     upper-house-art:     Bundesrat_of_Germany
-    upper-house-app:     By <a href="https://en.wikipedia.org/wiki/States_of_Germany" link="_blank">state</a> officials.
+    upper-house-app:     
+      By <a href="https://en.wikipedia.org/wiki/States_of_Germany" link="_blank">state</a> officials.
     house-powers:        LH>UH (UH approval only needed<br/> in some cases; LH has exec power)
 
   - country:             Iceland
@@ -89,10 +98,10 @@ body:
     legislature-art:     Parliament_of_Italy
     lower-house:         Chamber of Deputies
     lower-house-art:     Italian_Chamber_of_Deputies
-    lower-house-app:     <a href="https://en.wikipedia.org/wiki/Parallel_voting" link="_blank">PV</a>&#58; 37% by <a href="https://en.wikipedia.org/wiki/First-past-the-post" link="_blank">FPTP</a>, 63% by <a href="https://en.wikipedia.org/wiki/Closed_list" link="_blank">CLPLPR</a>.
+    lower-house-app:     <a href="https://en.wikipedia.org/wiki/Parallel_voting" link="_blank">PV</a>&#58; 37/63 by <a href="https://en.wikipedia.org/wiki/First-past-the-post" link="_blank">FPTP</a> and <a href="https://en.wikipedia.org/wiki/Closed_list" link="_blank">CLPLPR</a>.
     upper-house:         Senate of the Republic
     upper-house-art:     Italian_Senate
-    upper-house-app:     <a href="https://en.wikipedia.org/wiki/Parallel_voting" link="_blank">PV</a>&#58; 37% by <a href="https://en.wikipedia.org/wiki/First-past-the-post" link="_blank">FPTP</a>, 63% by <a href="https://en.wikipedia.org/wiki/Closed_list" link="_blank">CLPLPR</a>.
+    upper-house-app:     <a href="https://en.wikipedia.org/wiki/Parallel_voting" link="_blank">PV</a>&#58; 37/63 by <a href="https://en.wikipedia.org/wiki/First-past-the-post" link="_blank">FPTP</a> and <a href="https://en.wikipedia.org/wiki/Closed_list" link="_blank">CLPLPR</a>.
     house-powers:        LH=UH
 
   - country:             Netherlands
@@ -124,7 +133,7 @@ body:
     legislature:         Federal Assembly
     legislature-art:     Federal_Assembly_(Russia)
     lower-house:         State Duma
-    lower-house-app:     <a href="https://en.wikipedia.org/wiki/Parallel_voting" link="_blank">PV</a>&#58; 1/2 by <a href="https://en.wikipedia.org/wiki/First-past-the-post_voting" link="_blank">FPTP</a>, 1/2 by <a href="https://en.wikipedia.org/wiki/Closed_list" link="_blank">CLPLPR</a>.
+    lower-house-app:     <a href="https://en.wikipedia.org/wiki/Parallel_voting" link="_blank">PV</a>&#58; 50/50 by <a href="https://en.wikipedia.org/wiki/First-past-the-post_voting" link="_blank">FPTP</a> and <a href="https://en.wikipedia.org/wiki/Closed_list" link="_blank">CLPLPR</a>.
     upper-house:         Federation Council
     upper-house-art:     Federation_Council_(Russia)
     upper-house-app:     By <a href="https://en.wikipedia.org/wiki/Federal_subjects_of_Russia" link="_blank">federal subject</a> officials.
@@ -138,8 +147,9 @@ body:
     lower-house-app:     FPTP
     lower-house-app-art: First-past-the-post
     upper-house:         House of Lords
-    upper-house-app:     Some are appointed by the monarch,<br/> some inherit the role, some<br/> are church officials, <i>etc.</i>
-    house-powers:        LH&#8811;UH (UH only has delaying<br/> power)
+    upper-house-app:     
+      Appointed by varying methods.<sup>1</sup>
+    house-powers:        LH&#8811;UH (UH can only delay)
 
   - country:             United States
     legislature:         Congress
