@@ -20,15 +20,17 @@ Westminster characteristics incorporated in the Australian system and in the sys
 6. An official {% include wp.html link="parliamentary opposition" art="Opposition_(parliamentary)" %} that is either the party or coalition that has the most seats in the lower house of the parliament of any party or coalition that is not in government. This is assuming the system is multi-party, which most Westminster systems are, but some of the smaller countries with such a system are non-partisan, so do not meet this requirement. 
 7. {% include wp.html link="Parliamentary privilege" %}&mdash;which allows for free and open speech in the parliament without any potential for legal reprisals.
 8. Cabinet decisions are either reached by consensus or by voting; it is not a simple matter of what the HoG wants is what they get (unlike in the US).
-9. {% include wp.html link="Hansard" %}&mdash;a transcript of parliamentary meetings. 
+9. Once the cabinet reaches a decision all ministers are expected to adhere to it and respect it. 
+10. Ministers are also expected not to publicly criticize the actions of other members of the cabinet and the exercise of their powers over their own respective portfolio. There was at least once situation where a minister broke this rule in Australia (namely [Barnaby Joyce did so in 2015](https://theconversation.com/joyce-breaks-cabinet-rules-but-his-fate-is-pms-call-44557)).
+11. {% include wp.html link="Hansard" %}&mdash;a transcript of parliamentary meetings. 
 
 While the American aspects of our system include:
 
-* An elected upper house, or {% include wp.html link="Senate" art="Australian_Senate" puncr="," %} that represents each of the original states equally. By contrast, the British and Canadian systems have appointed, and not elected upper houses. 
+* An elected upper house, or {% include wp.html link="Senate" art="Australian_Senate" puncr="," %} that represents each of the original states equally. At the time of federation some but not all US Senators were directly popular elected, with the remaining senators elected by state legislatures. By contrast, the British and Canadian systems have appointed, and not elected upper houses. 
 * An upper house with almost equal legislative powers to the lower house, with the main exception being that they cannot introduce or amend {% include wp.html link="money bills" art="Money_bill" %}. To be fair, at the time of federation, this was also a characteristic of the British system. 
 * The Constitution specifies only the powers that belong to the federal government and that all other powers belong to the states. This is as opposed to the Canadian system, for example, wherein the Constitution only specifies powers that belong to the states, with all other powers vested in the federal government. 
 * The names of our legislature's lower and upper houses&mdash;the House of Representatives and the Senate, respectively.
 
-The principle Swiss feature present in the Australian system is that any amendments must be made with the direct consent of the people, that is to be obtained by referendum. 
+The principle Swiss feature present in the Australian system is that any amendments to the Constitution must be made with the direct consent of the people, that is to be obtained by referendum. 
 
-Unlike Canada and the US there are no restrictions placed on the age of members of the legislative and executive branches, except that they are old enough to vote and be considered an adult in the eyes of the law. Also, unlike the US, there are no requirements regarding how their citizenship was obtained; according to the US Constitution the President has to have been born in the US or otherwise granted citizenship upon birth, like due to being descended from a person with US citizenship.
+Unlike Canada and the US there are no restrictions placed on the age of members of the legislative and executive branches, except that they are old enough to vote and be considered an adult in the eyes of the law. Also, unlike the US, there are no requirements regarding how their citizenship was obtained; according to the US Constitution the President has to have been born in the US or otherwise eligible for citizenship upon birth, like due to being descended from a person with US citizenship.
