@@ -25,7 +25,7 @@ The {% include wp.html link="Commonwealth of Australia" art="Australia" f="b" %}
 11. Cabinet decisions are either reached by consensus or by voting; it is not a simple matter of what the HoG wants is what they get (unlike in the US).
 12. Cabinet solidarity&mdash;once the cabinet reaches a decision all ministers are expected to adhere to it and respect it; they are also expected not to publicly criticize the actions of other members of the Cabinet and the exercise of their powers over their own respective portfolio.
 13. {% include wp.html link="Hansard" %}&mdash;a transcript of parliamentary meetings.
-14. Strong {% include wp.html link="party discipline" %}; members of a given party nearly always vote the same way. The ALP even has formal rules against crossing party lines. 
+14. Strong {% include wp.html link="party discipline" %}&mdash;members of a given party nearly always vote the same way on a bill. The ALP even has formal rules to discourage parliamentary members from voting in a way contrary to the way the rest of the party votes. 
 
 While the **American aspects of our system** include:
 
