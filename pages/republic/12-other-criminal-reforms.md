@@ -9,7 +9,6 @@ Prison should focus on rehabilitation, and prevention of reoffending, not merely
 * physicians,
 * surgeons,
 * teachers,
-* jurors,
-* politicians (to some extent)
+* jurors
 
 each of which provide essential services to society, and everyone of them, except for jurors, pay taxes, which is of benefit to society. 
