@@ -23,10 +23,9 @@ The {% include wp.html link="Commonwealth of Australia" art="Australia" f="b" %}
 9. An official {% include wp.html link="parliamentary opposition" art="Opposition_(parliamentary)" %} that is either the party or coalition that has the most seats in the lower house of the parliament of any party or coalition that is not in government. This is assuming the system is multi-party, which most Westminster systems are, but some of the smaller countries with such a system are non-partisan, so do not meet this requirement. 
 10. {% include wp.html link="Parliamentary privilege" %}&mdash;which allows for free and open speech in the parliament without any potential for legal repercussions. 
 11. Cabinet decisions are either reached by consensus or by voting; it is not a simple matter of what the HoG wants is what they get (unlike in the US).
-12. Once the cabinet reaches a decision all ministers are expected to adhere to it and respect it. 
-13. Ministers are also expected not to publicly criticize the actions of other members of the cabinet and the exercise of their powers over their own respective portfolio. There was at least once situation where a minister broke this rule in Australia (namely, [Barnaby Joyce did so in 2015](https://theconversation.com/joyce-breaks-cabinet-rules-but-his-fate-is-pms-call-44557)).
-14. {% include wp.html link="Hansard" %}&mdash;a transcript of parliamentary meetings.
-15. Strong {% include wp.html link="party discipline" %}; members of a given party nearly always vote the same way. The ALP even has formal rules against crossing party lines. 
+12. Cabinet solidarity&mdash;once the cabinet reaches a decision all ministers are expected to adhere to it and respect it; they are also expected not to publicly criticize the actions of other members of the Cabinet and the exercise of their powers over their own respective portfolio.
+13. {% include wp.html link="Hansard" %}&mdash;a transcript of parliamentary meetings.
+14. Strong {% include wp.html link="party discipline" %}; members of a given party nearly always vote the same way. The ALP even has formal rules against crossing party lines. 
 
 While the **American aspects of our system** include:
 
