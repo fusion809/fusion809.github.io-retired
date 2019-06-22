@@ -26,7 +26,7 @@ The {% include wp.html link="Commonwealth of Australia" art="Australia" f="b" %}
 12. Once the cabinet reaches a decision all ministers are expected to adhere to it and respect it. 
 13. Ministers are also expected not to publicly criticize the actions of other members of the cabinet and the exercise of their powers over their own respective portfolio. There was at least once situation where a minister broke this rule in Australia (namely, [Barnaby Joyce did so in 2015](https://theconversation.com/joyce-breaks-cabinet-rules-but-his-fate-is-pms-call-44557)).
 14. {% include wp.html link="Hansard" %}&mdash;a transcript of parliamentary meetings.
-15. Strong {% include wp.html link="party discipline" %}; members of a given party nearly always vote the same way.
+15. Strong {% include wp.html link="party discipline" %}; members of a given party nearly always vote the same way. The ALP even has formal rules against crossing party lines. 
 
 While the **American aspects of our system** include:
 
@@ -39,8 +39,4 @@ The **principle Swiss feature** present in the Australian system is that any ame
 
 Unlike Canada and the US there are no restrictions placed on the age of members of the legislative and executive branches, except that they are old enough to vote and be considered an adult in the eyes of the law. Also, unlike the US, there are no requirements regarding how their citizenship was obtained; according to the US Constitution, the President has to have been born in the US or otherwise eligible for citizenship upon birth, like having a parent with US citizenship.
 
-References
-===========
-<ol>
-<li id="f1">{% include ref.html url="https://www.aph.gov.au/About%20Parliament/House%20of%20Representatives/Powers%20practice%20and%20procedure/Practice7/HTML/Chapter2/7chap02_2_3.html" chapter="2" title="The Ministry" date="2017" accessdate="22 June 2019" website="aph.gov.au" author="Parliament of Australia" location="Canberra, Australia" publisher="Parliament of Australia" work="House of Representatives Practice (7th Edition)" work_url="https://www.aph.gov.au/About_Parliament/House_of_Representatives/Powers_practice_and_procedure/Practice7" %}</li>
-</ol>
+{% include_relative australia/references.html %}
