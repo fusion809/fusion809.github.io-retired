@@ -11,16 +11,10 @@ Terminology
 {% include_relative terminology/03-de.md %}
 
 <!-- Cabinet -->
-{% include h2.html text="Executive branch" %}
-A {% include wp.html link="cabinet" dis="government" f="b" %} (often spelt with a capital c) is a body of officials, usually referred to as secretaries or ministers, that are the top leaders of the executive branch of government. In {% include wp.html link="Switzerland" puncr="," %} the equivalent body is a seven-member, legislature-appointed {% include wp.html link="Federal Council" puncr="," %} which is a democratic executive body. All members of this council are equivalent in executive power and they all collectively serve as both head of state and government. 
+{% include_relative terminology/04-cabinet.md %}
 
 <!-- Legislature -->
-{% include h2.html text="Legislative branch" %}
-A proposed law is called a {% include wp.html link="bill" dis="law" f="b" %} until it is passed by the legislature and written into law. Legislatures may comprise a single chamber wherein members vote on a bill as a single unit, or they may comprise multiple chambers (sometimes referred to as *houses*) that debate and vote separately and have different roles. Legislatures with a single chamber are usually referred to as {% include wp.html art="Unicameralism" link="unicameral" f="b" puncr="," %} while those with two chambers are called {% include wp.html art="Bicameralism" link="bicameral" f="b" puncr="." %} Historically, legislatures with more chambers have existed (e.g. a {% include wp.html art="Tricameralism" link="three-chamber legislature" f="b" %} existed for a time during late apartheid {% include wp.html puncr=")," link="South Africa" %} but presently there are none in existence.
-
-In bicameral legislatures one chamber is often called the {% include wp.html f="b" link="lower house" %} and the other, the {% include wp.html f="b" link="upper house" puncr="." %} Legislatures modelled after that of the UK usually have a far stronger lower house than upper house, while in others both have approximately equal power (e.g. the {% include wp.html link="Australian Senate" puncr=")" %} and in others the upper house has some unique powers the lower house does not have (e.g. the {% include wp.html link="United States Senate" puncr=")." %} Lower houses are nearly always directly popularly elected, while the upper house is often not. 
-
-In unicameral legislatures the sole chamber is almost always directly popularly elected by the people.
+{% include_relative terminology/05-legislature.md %}
 
 <!-- Legislature table -->
 {% include_relative terminology/06-legislature-data-table.html %}
