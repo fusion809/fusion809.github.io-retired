@@ -1,5 +1,6 @@
 caption:                        Table 1&#58; National legislatures of several notable countries
 country-width:                  120
+sysofgov-width:                 120
 legislature-width:              220
 lower-house-width:              220
 lower-house-app-method-width:   230
@@ -9,7 +10,24 @@ house-legislative-powers-width: 220
 
 body:
 
+  - country:                    Argentina
+    sysofgov:                   Federal <abbr title="presidential republic">PR</abbr>
+    legislature:                Congress
+    legislature-art:            National_Congress_of_Argentina
+    lower-house:                Chamber of Deputies
+    lower-house-art:            Argentine_Chamber_of_Deputies
+    lower-house-app:            CLPLPR
+    lower-house-app-art:        Closed_list
+    upper-house:                Senate
+    upper-house-art:            Argentine_Senate
+    upper-house-app:            Limited voting
+    upper-house-app-art:        Limited_voting
+    house-powers:               LH&approx;UH (distinct powers)
+
+    # House powers source is http://d-scholarship.pitt.edu/16492/1/Kikuchi_etd.pdf
+
   - country:                    Australia
+    sysofgov:                   Federal <abbr title="parliamentary constitutional monarchy">PCM</abbr>
     legislature:                Parliament
     legislature-art:            Parliament_of_Australia
     lower-house:                House of Representatives
@@ -24,6 +42,7 @@ body:
     house-legislative-powers:   2
 
   - country:                    Brazil
+    sysofgov:                   Federal <abbr title="presidential republic">PR</abbr>
     legislature:                National Congress
     legislature-art:            National_Congress_of_Brazil
     lower-house:                Chamber of Deputies
@@ -37,6 +56,7 @@ body:
     house-legislative-powers:   1
 
   - country:                    Canada
+    sysofgov:                   Federal <abbr title="parliamentary constitutional monarchy">PCM</abbr>
     legislature:                Parliament
     legislature-art:            Parliament_of_Canada
     lower-house:                House of Commons
@@ -50,6 +70,7 @@ body:
     house-legislative-powers:   2
 
   - country:                    France
+    sysofgov:                   Devolved <abbr title="premier-presidential republic">PPR</abbr>
     legislature:                Parliament
     legislature-art:            Parliament_of_France
     lower-house:                National Assembly
@@ -63,6 +84,7 @@ body:
     house-legislative-powers:   3
 
   - country:                    Germany
+    sysofgov:                   Federal <abbr title="parliamentary republic with a ceremonial presidency">PRCP</abbr>
     legislature:                Bundestag
     legislature-app:            MMPR
     legislature-app-art:        Mixed-member_proportional_representation
@@ -74,11 +96,13 @@ body:
     house-legislative-powers:   5
 
   - country:                    Iceland
+    sysofgov:                   Unitary <abbr title="parliamentary republic with a ceremonial presidency">PRCP</abbr>
     legislature:                Althing
     legislature-app:            OLPLPR
     legislature-app-art:        Open_list
 
   - country:                    India
+    sysofgov:                   Federal <abbr title="parliamentary republic with a ceremonial presidency">PRCP</abbr>
     legislature:                Parliament
     legislature-art:            Parliament_of_India
     lower-house:                Lok Sabha
@@ -91,6 +115,7 @@ body:
     house-legislative-powers:   2
 
   - country:                    Indonesia
+    sysofgov:                   Devolved <abbr title="presidential republic">PR</abbr>
     legislature:                People's Consultative Assembly
     lower-house:                People's Representative Council
     lower-house-app:            OLPLPR
@@ -102,6 +127,7 @@ body:
     house-legislative-powers:   5
 
   - country:                    Italy
+    sysofgov:                   Devolved <abbr title="parliamentary republic with a ceremonial presidency">PRCP</abbr>
     legislature:                Parliament
     legislature-art:            Parliament_of_Italy
     lower-house:                Chamber of Deputies
@@ -116,6 +142,7 @@ body:
     house-legislative-powers:   1
 
   - country:                    Netherlands
+    sysofgov:                   Unitary <abbr title="parliamentary constitutional monarchy">PCM</abbr>
     legislature:                States General
     legislature-art:            States_General_of_the_Netherlands
     lower-house:                House of Representatives
@@ -129,6 +156,7 @@ body:
     house-legislative-powers:   4
 
   - country:                    New Zealand
+    sysofgov:                   Unitary <abbr title="parliamentary constitutional monarchy">PCM</abbr>
     legislature:                Parliament
     legislature-art:            Parliament_of_New_Zealand
     lower-house:                House of Representatives
@@ -138,11 +166,13 @@ body:
     upper-house-abolition-date: 1951
 
   - country:                    Norway
+    sysofgov:                   Unitary <abbr title="parliamentary constitutional monarchy">PCM</abbr>
     legislature:                Storting
     legislature-app:            OLPLPR
     legislature-app-art:        Open_list
 
   - country:                    Russia
+    sysofgov:                   Federal <abbr title="president-parliamentary republic">PPMR</abbr>
     legislature:                Federal Assembly
     legislature-art:            Federal_Assembly_(Russia)
     lower-house:                State Duma
@@ -155,7 +185,21 @@ body:
     house-powers:               LH&approx;UH (distinct powers)
     house-legislative-powers:   6
 
+  - country:                    South Africa
+    sysofgov:                   Devolved <abbr title="parliamentary republic with an executive presidency">PREP</abbr>
+    legislature:                Parliament
+    legislature-art:            Parliament_of_South_Africa
+    lower-house:                National Assembly
+    lower-house-art:            National_Assembly_of_South_Africa
+    lower-house-app:            CLPLPR
+    lower-house-app-art:        Closed_list
+    upper-house:                National Council
+    upper-house-art:            National_Council_of_Provinces
+    upper-house-app:            By provincial legislatures.
+    house-powers:               LH&gt;UH (mostly equal, UH can only<br/> initiate certain legislation)
+
   - country:                    United Kingdom
+    sysofgov:                   Devolved <abbr title="parliamentary constitutional monarchy">PCM</abbr>
     legislature:                Parliament
     legislature-art:            Parliament_of_the_United_Kingdom
     lower-house:                House of Commons
@@ -169,6 +213,7 @@ body:
     house-legislative-powers:   7
 
   - country:                    United States
+    sysofgov:                   Federal <abbr title="presidential republic">PR</abbr>
     legislature:                Congress
     legislature-art:            United_States_Congress
     lower-house:                House of Representatives
