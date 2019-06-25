@@ -2,18 +2,13 @@ Terminology
 ===========
 
 <!-- Branches -->
-<h2 id="#branches" style="background-color: white; border: none;">Branches of government</h2>
-There are **three branches**, or powers of government: the {% include wp.html art="Legislature" link="legislative" f="b" %} branch (legislature), that creates, modifies and repeals laws; the {% include wp.html art="Judiciary" link="judicial" f="b" %} branch (judiciary/judicature), that interprets and applies the law; and, the {% include wp.html art="Executive_(government)" link="executive" f="b" %} branch that executes and enforces the law. In the presidential system of the {% include wp.html art="United_States" link="US" %} there is a fairly clean separation of these three branches, in an attempt to reduce the potential for a dictatorship to take hold.
+{% include_relative terminology/01-branches.md %}
 
 <!-- Head of government/state -->
-<h2 id="head of state and government" style="background-color: white; border: none;">Heads of state/government</h2>
-A {% include wp.html link="head of state" f="b" %} is the person who officially represents a {% include wp.html link="sovereign country" puncr="," %} like at international meetings. They are usually either a {% include wp.html link="monarch" %} or a {% include wp.html link="president" puncr="." %}
-
-A {% include wp.html link="head of government" f="b" %} is the highest ranking official in the executive branch of a government (usually a president, {% include wp.html link="premier" puncr="," %} {% include wp.html link="chancellor" puncr="," %} {% include wp.html link="prime minister" puncr="," %} or monarch), like of a federated state (e.g. Qld) or a sovereign nation.
+{% include_relative terminology/02-head-of.md %}
 
 <!-- de facto/jure -->
-<h2 id="de facto jure" style="background-color: white; border: none;"><i>de facto/jure</i></h2>
-{% include wp.html link="de facto" f="bi" %} literally means "in fact" and is generally meant to mean not legally recognized to be so, but in reality is so. This is as opposed to {% include wp.html link="de jure" f="bi" %} which means "in law". For example, a country wherein the *de facto* language is English, such as Australia, is one wherein there is no law explicitly giving English official status as the language of the land, but given it is the dominant language and the language used in official government communication it may as well be the official language. In fact, countries wherein English is given *de jure* status like {% include wp.html link="India" %} and {% include wp.html link="South Africa" %} often have lower levels of English fluency than countries wherein it merely has a *de facto* official status.
+{% include_relative terminology/03-de.md %}
 
 <!-- Cabinet -->
 {% include h2.html text="Executive branch" %}
