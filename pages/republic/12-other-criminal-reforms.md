@@ -6,7 +6,6 @@ Prison should focus on rehabilitation, and prevention of reoffending, not merely
 * judges,
 * police officers,
 * lawyers,
-* physicians,
 * surgeons,
 * teachers,
 * jurors
