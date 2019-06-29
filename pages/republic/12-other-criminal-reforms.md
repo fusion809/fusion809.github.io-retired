@@ -1,13 +1,6 @@
 Other criminal reforms
 ======================
 
-Prison should focus on rehabilitation, and prevention of reoffending, not merely punishment, as the best justice we can give victims is to reduce the odds that such a crime will occur again. By giving longer prison sentences, or not fully rehabilitating them, we are, in essence, punishing society for their crimes as well, as we increase the time they are inside and while they are in prison they are simply a burden on society (we are responsible for their healthcare, food, water, housing, _etc._), but when they are out, they are not necessarily a burden. We should also minimize which jobs they are forever barred from. For example, presently criminals cannot be (correct me if I am wrong):
+Prison should focus on rehabilitation, and prevention of reoffending, not merely punishment, as the best justice we can give victims is to reduce the odds that such a crime will occur again. By giving longer prison sentences, or not fully rehabilitating them, we are, in essence, punishing society for their crimes as well, as we increase the time they are inside and while they are in prison they are simply a burden on society (we are responsible for their healthcare, food, water, housing, _etc._), but when they are out, they are not necessarily a burden. We should also minimize which jobs they are forever barred from and introduce legislation banning unreasonable discrimination against convicted criminals in the workplace. As the less discriminated against in the workplace they are, the more likely they are to get a good high-paying job and hence also more likely they are to pay taxes, which can be spent on delivering essential services to all Australians.
 
-* judges,
-* police officers,
-* lawyers,
-* surgeons,
-* teachers,
-* jurors
-
-each of which provide essential services to society, and everyone of them, except for jurors, pay taxes, which is of benefit to society. 
+Their tax rate should also be higher, with the additional tax revenue spent on repaying the victim(s) of their crimes (if the crime was murder or manslaughter or negligent homicide then the relatives of the victims would be the ones recompensed), that is if their assets before conviction were not enough to cover the damages their criminal activities caused to society, including the cost of their trial and the money that was spent by the police in catching them and collecting evidence used in their trial. 
