@@ -5,14 +5,17 @@
     <!--120-->
 	<col width="{{ site.data.states-and-territories.type-width }}"/>
 
+	<!--120-->
+	<col width="{{ site.data.states-and-territories.const-width }}"/>
+
+    <!--120-->
+	<col width="{{ site.data.states-and-territories.time-zone-width }}"/>
+
     <!--120-->
     <col width="{{ site.data.states-and-territories.area-width }}"/>
 
     <!--120-->
     <col width="{{ site.data.states-and-territories.population-width }}"/>
-    
-	<!--120-->
-	<col width="{{ site.data.states-and-territories.const-width }}"/>
 
 	<!--300-->
 	<col width="{{ site.data.states-and-territories.refrequirement-width }}"/>
@@ -48,7 +51,7 @@
 	<!--<col width="400"/>-->
 
 	<tr valign="top">
-		<td colspan="16" style="background: transparent; border-bottom: none; border-top: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; padding-top: 0.1cm; padding-bottom: 0.0cm; padding-left: 0.5cm; padding-right: 0cm">
+		<td colspan="17" style="background: transparent; border-bottom: none; border-top: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; padding-top: 0.1cm; padding-bottom: 0.0cm; padding-left: 0.5cm; padding-right: 0cm">
 			<p align="left" style="font-style: normal; font-weight: normal; text-decoration: none">
 				<font color="#000000" size="3" face="Liberation Serif, serif" style="font-size: 20pt;">
 					<b>
@@ -85,6 +88,15 @@
                     </b>
                 </font>
             </p>
+        </td>
+		<td style="background: transparent" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.1cm; padding-bottom: 0.1cm; padding-left: 0.1cm; padding-right: 0cm">
+			<p align="left" style="font-style: normal; text-decoration: none">
+				<font color="#000000" size="3" face="Liberation Serif, serif" style="font-size: 13pt;">
+					<b>
+						<span style="text-decoration: none">Time zone</span>
+					</b>
+				</font>
+			</p>
         </td>
         <td style="background: transparent" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.1cm; padding-bottom: 0.1cm; padding-left: 0.1cm; padding-right: 0cm">
              <p align="left" style="font-style: normal; text-decoration: none">
@@ -242,23 +254,32 @@
                 </font>
             </p>
         </td>
+		<td valign="top" style="background: transparent" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.1cm; padding-left: 0.1cm; padding-right: 0cm">
+			<p align="left" style="font-style: normal; font-weight: normal; text-decoration: none">
+				<font color="#000000" size="3" face="Liberation Serif, serif" style="font-size: 12pt;">
+					<span style="text-decoration: none;;">
+						{{ row.time-zone }}
+					</span>
+				</font>
+			</p>
+        </td>
         <td valign="top" style="background: transparent" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.1cm; padding-left: 0.1cm; padding-right: 0cm">
-                <p align="left" style="font-style: normal; font-weight: normal; text-decoration: none">
-                    <font color="#000000" size="3" face="Liberation Serif, serif" style="font-size: 12pt;">
-                        <span style="text-decoration: none;;">
-                            {{ row.area }}
-                        </span>
-                    </font>
-                </p>
+            <p align="left" style="font-style: normal; font-weight: normal; text-decoration: none">
+                <font color="#000000" size="3" face="Liberation Serif, serif" style="font-size: 12pt;">
+                    <span style="text-decoration: none;;">
+                        {{ row.area }}
+                    </span>
+                </font>
+            </p>
         </td>
         <td valign="top" style="background: transparent" style="border-top: none; border-bottom: 1px solid #000000;border-left: 1px solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.1cm; padding-left: 0.1cm; padding-right: 0cm">
-                <p align="left" style="font-style: normal; font-weight: normal; text-decoration: none">
-                    <font color="#000000" size="3" face="Liberation Serif, serif" style="font-size: 12pt;">
-                         <span style="text-decoration: none;;">
-                             {{ row.population }}
-                        </span>
-                    </font>
-                </p>
+            <p align="left" style="font-style: normal; font-weight: normal; text-decoration: none">
+                <font color="#000000" size="3" face="Liberation Serif, serif" style="font-size: 12pt;">
+                    <span style="text-decoration: none;;">
+                         {{ row.population }}
+                    </span>
+                </font>
+            </p>
         </td>
         {% if row.refrequirement=="Yes" %}
 		<td valign="top" style="background: transparent" style="background-color: green; border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.1cm; padding-left: 0.1cm; padding-right: 0cm; vertical-align: middle;">
@@ -404,7 +425,7 @@
     {% endif %}
 	{% endfor %}
 	<tr valign="top">
-		<td colspan="16" style="background: transparent; border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; padding-top: 0cm; padding-bottom: 0.1cm; padding-left: 0.1cm; padding-right: 0cm">
+		<td colspan="17" style="background: transparent; border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; padding-top: 0cm; padding-bottom: 0.1cm; padding-left: 0.1cm; padding-right: 0cm">
 			<p align="left" style="font-style: normal; font-weight: normal; text-decoration: none">
 				<font color="#000000" size="3" face="Liberation Serif, serif" style="font-size: 12pt;">
 					<span style="font-size: 20px;"><b>Abbreviations</b></span><br/>
@@ -421,6 +442,7 @@
                         <li>{% include ref.html url="https://www.parliament.nsw.gov.au/la/proceduralpublications/Documents/Fact%20Sheet%202%20-%20What%20does%20the%20Legislative%20Assembly%20do.PDF" accessdate="30 June 2019" website="www.parliamentary.nsw.gov.au" title="Factsheet No. 2 –What does the Legislative Assembly do?" publisher="Legislative Assembly" %}</li>
                         <li>{% include ref.html url="https://ntec.nt.gov.au/elections/NT-Legislative-Assembly-elections/voting-and-counting" date="24 September 2018" accessdate="30 June 2019" author="Northern Territory Electoral Commission" website="ntec.nt.gov.au" title="Voting and counting" %}</li>
                         <li>{% include ref.html url="https://www.ecq.qld.gov.au/voters-and-voting/voting-system/full-preferential-voting" title="Full Preferential Voting" website="ecq.qld.gov.au" publisher="Electoral Commission Queensland" date="29 June 2019" accessdate="30 June 2019" %}</li>
+						<li>{% include ref.html url="https://www.elections.wa.gov.au/vote/voting-systems-wa" accessdate="1 July 2019" website="www.elections.wa.gov.au" publisher="Western Australian Electoral Commission" title="Voting Systems in WA" %}</li>
                     </ol>
 				</font>
 			</p>

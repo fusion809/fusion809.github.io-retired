@@ -2,8 +2,9 @@ caption:
   "Table 1&#58; State and territorial basics in Australia"
 entity-width:                   200
 # Relates to referenda requirement for const. amendment
-const-width:                    50
+const-width:                    30
 type-width:                     120
+time-zone-width:                200
 area-width:                     100
 population-width:               100
 refrequirement-width:           40
@@ -23,24 +24,29 @@ body:
   - entity:                     Australian Capital Territory
     acronym:                    ACT
     type:                       Self-governing territory
+    time-zone:                  UTC+10, UTC+11 (DST)
     area:                       "2,358"
     population:                 "397,397"
     constitution:               https://www.legislation.gov.au/Details/C2016C00802
     refrequirement:             "No"
     legislature:                Parliament
+    legislature-art:            Parliament_of_the_Australian_Capital_Territory
     lower-house:                Legislative Assembly
+    lower-house-art:            Australian_Capital_Territory_Legislative_Assembly
     lower-house-members-no:     "25"
     lower-house-app:            <a href='https://en.wikipedia.org/wiki/Single-transferable_vote' link='_blank'>STV</a> from 5 electorates
     lower-house-term-length:    4 years
 
   - entity:                     New South Wales
     type:                       State
+    time-zone:                  <b>Near the SA border</b>&#58; UTC+9:30.<br/>UTC+10:30 (DST).<br/> <b>Elsewhere</b>&#58; UTC+10.<br/>UTC+11 (DST).
     area:                       "809,444"
     population:                 "7,480,228"
     acronym:                    NSW
     constitution:               https://legislation.nsw.gov.au/#/view/act/1902/32/whole
     refrequirement:             Some
     legislature:                Parliament
+    legislature-art:            Parliament_of_New_South_Wales
     lower-house:                Legislative Assembly
     lower-house-members-no:     "93"
     lower-house-app:            <a href='https://en.wikipedia.org/wiki/Optional_preferential_voting' link='_blank'>OPV</a><sup>1</sup>
@@ -53,12 +59,14 @@ body:
 
   - entity:                     Northern Territory
     type:                       Self-governing territory
+    time-zone:                  UTC+9:30
     area:                       "1,420,970"
     population:                 "228,833"
     acronym:                    NT
     constitution:               https://www.legislation.gov.au/Details/C2014C00573
     refrequirement:             "No"
     legislature:                Parliament
+    legislature-art:            Parliament_of_the_Northern_Territory
     lower-house:                Legislative Assembly
     lower-house-members-no:     "25"
     lower-house-app:            OPV<sup>2</sup>
@@ -66,14 +74,104 @@ body:
 
   - entity:                     Queensland
     type:                       State
+    time-zone:                  UTC+10
     area:                       "1,852,642"
     population:                 "4,703,193"
     acronym:                    Qld
     constitution:               https://www.legislation.qld.gov.au/view/whole/html/inforce/current/act-2001-080
     refrequirement:             Some
     legislature:                Parliament
+    legislature-art:            Parliament_of_Queensland
     lower-house:                Legislative Assembly
     lower-house-members-no:     "93"
     lower-house-app:            <a href='https://en.wikipedia.org/wiki/Instant-runoff_voting' link='_blank'>FPV</a><sup>3</sup>
     lower-house-term-length:    4 years
     upper-house-abolition-date: 1922
+
+  - entity:                     South Australia
+    type:                       State
+    time-zone:                  <b>Near the WA border</b>&#58; UTC+8:45.<br/>UTC+9:45 (DST).<br/> <b>Elsewhere</b>&#58; UTC+9:30.<br/>UTC+10:30 (DST)
+    area:                       "1,043,514"
+    population:                 "1,716,966"
+    acronym:                    SA
+    constitution:               https://www.legislation.sa.gov.au/LZ/C/A/Constitution%20Act%201934.aspx
+    refrequirement:             Some
+    legislature:                Parliament
+    legislature-art:            Parliament_of_South_Australia
+    lower-house:                House of Assembly
+    lower-house-art:            South_Australian_House_of_Assembly
+    lower-house-members-no:     "47"
+    lower-house-app:            <a href='https://en.wikipedia.org/wiki/Instant-runoff_voting' link='_blank'>FPV</a>
+    lower-house-term-length:    4 years
+    upper-house:                Legislative Council
+    upper-house-art:            South_Australian_Legislative_Council
+    upper-house-app:            <a href='https://en.wikipedia.org/wiki/Single-transferable_vote' link='_blank'>STV</a> at-large
+    upper-house-term-length:    8 years
+    upper-house-members-no:     "22"
+    house-powers:               Same as federal
+
+  - entity:                     Tasmania
+    type:                       State
+    time-zone:                  UTC+10, UTC+11 (DST)
+    area:                       "68,401"
+    population:                 "509,965"
+    acronym:                    Tas
+    constitution:               https://www.legislation.tas.gov.au/view/whole/html/inforce/current/act-1934-094
+    refrequirement:             "No"
+    legislature:                Parliament
+    legislature-art:            Parliament_of_Tasmania
+    lower-house:                House of Assembly
+    lower-house-art:            Tasmanian_House_of_Assembly
+    lower-house-members-no:     "25"
+    lower-house-app:            <a href='https://en.wikipedia.org/wiki/Single-transferable_vote' link='_blank'>STV</a> from five constituencies
+    lower-house-term-length:    4 years
+    upper-house:                Legislative Council
+    upper-house-art:            Tasmanian_Legislative_Council
+    upper-house-members-no:     "15"
+    upper-house-app:            <a href='https://en.wikipedia.org/wiki/Instant-runoff_voting' link='_blank'>FPV</a>
+    upper-house-term-length:    6 years
+    house-powers:               Seemingly the same as federal (see sec 42 of Const.)
+
+  - entity:                     Victoria
+    type:                       State
+    time-zone:                  UTC+10, UTC+11 (DST)
+    area:                       "237,659"
+    population:                 "5,926,624"
+    acronym:                    Vic
+    constitution:               http://www.legislation.vic.gov.au/domino/Web_Notes/LDMS/LTObject_Store/LTObjSt1.nsf/DDE300B846EED9C7CA257616000A3571/E9AF39B1A5312645CA257761001C82E7/$FILE/75-8750a195.pdf
+    refrequirement:             "Some"
+    legislature:                Parliament
+    legislature-art:            Parliament_of_Victoria
+    lower-house:                Legislative Assembly
+    lower-house-art:            Victorian_Legislative_Assembly
+    lower-house-members-no:     "88"
+    lower-house-app:            <a href='https://en.wikipedia.org/wiki/Instant-runoff_voting' link='_blank'>FPV</a>
+    lower-house-term-length:    4 years
+    upper-house:                Legislative Council
+    upper-house-art:            Victorian_Legislative_Council
+    upper-house-app:            <a href='https://en.wikipedia.org/wiki/Single-transferable_vote' link='_blank'>STV</a>, with <a href='https://en.wikipedia.org/wiki/Group_voting_ticket' link='_blank'>group voting tickets</a> from eight constituencies
+    upper-house-members-no:     "40"
+    upper-house-term-length:    4 years
+    house-powers:               Same as federal
+
+  - entity:                     Western Australia
+    type:                       State
+    time-zone:                  <b>Near the SA border</b>&#58; UTC+8:45.<br/><b>Elsewhere</b>&#58; UTC+8.
+    area:                       "2,645,615"
+    population:                 "2,474,410"
+    acronym:                    WA
+    constitution:               https://www.legislation.wa.gov.au/legislation/statutes.nsf/main_mrtitle_185_homepage.html
+    refrequirement:             "No"
+    legislature:                Parliament
+    legislature-art:            Parliament_of_Western_Australia
+    lower-house:                Legislative Assembly
+    lower-house-art:            Western_Australian_Legislative_Assembly
+    lower-house-app:            <a href='https://en.wikipedia.org/wiki/Instant-runoff_voting' link='_blank'>FPV</a><sup>4</sup>
+    lower-house-members-no:     "59"
+    lower-house-term-length:    "4 years"
+    upper-house:                Legislative Council
+    upper-house-art:            Western_Australian_Legislative_Council
+    upper-house-app:            <a href='https://en.wikipedia.org/wiki/Single-transferable_vote' link='_blank'>STV</a> from six constituencies
+    upper-house-term-length:    4 years
+    upper-house-members-no:     "36"
+    house-powers:               Equal (no relevant mention of money bills in Const.)
