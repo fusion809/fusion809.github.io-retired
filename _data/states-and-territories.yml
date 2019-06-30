@@ -1,0 +1,79 @@
+caption:
+  "Table 1&#58; State and territorial basics in Australia"
+entity-width:                   200
+# Relates to referenda requirement for const. amendment
+const-width:                    50
+type-width:                     120
+area-width:                     100
+population-width:               100
+refrequirement-width:           40
+legislature-width:              90
+lower-house-width:              100
+lower-house-members-no-width:   20
+lower-house-term-length-width:  90
+lower-house-app-method-width:   100
+upper-house-width:              100
+upper-house-members-no-width:   20
+upper-house-term-length-width:  90
+upper-house-app-method-width:   100
+house-powers-width:             300
+
+body:
+
+  - entity:                     Australian Capital Territory
+    acronym:                    ACT
+    type:                       Self-governing territory
+    area:                       "2,358"
+    population:                 "397,397"
+    constitution:               https://www.legislation.gov.au/Details/C2016C00802
+    refrequirement:             "No"
+    legislature:                Parliament
+    lower-house:                Legislative Assembly
+    lower-house-members-no:     "25"
+    lower-house-app:            <a href='https://en.wikipedia.org/wiki/Single-transferable_vote' link='_blank'>STV</a> from 5 electorates
+    lower-house-term-length:    4 years
+
+  - entity:                     New South Wales
+    type:                       State
+    area:                       "809,444"
+    population:                 "7,480,228"
+    acronym:                    NSW
+    constitution:               https://legislation.nsw.gov.au/#/view/act/1902/32/whole
+    refrequirement:             Some
+    legislature:                Parliament
+    lower-house:                Legislative Assembly
+    lower-house-members-no:     "93"
+    lower-house-app:            <a href='https://en.wikipedia.org/wiki/Optional_preferential_voting' link='_blank'>OPV</a><sup>1</sup>
+    lower-house-term-length:    4 years
+    upper-house:                Legislative Council
+    upper-house-members-no:     "42"
+    upper-house-app:            STV at-large
+    upper-house-term-length:    8 years
+    house-powers:               Same as federal
+
+  - entity:                     Northern Territory
+    type:                       Self-governing territory
+    area:                       "1,420,970"
+    population:                 "228,833"
+    acronym:                    NT
+    constitution:               https://www.legislation.gov.au/Details/C2014C00573
+    refrequirement:             "No"
+    legislature:                Parliament
+    lower-house:                Legislative Assembly
+    lower-house-members-no:     "25"
+    lower-house-app:            OPV<sup>2</sup>
+    lower-house-term-length:    4 years
+
+  - entity:                     Queensland
+    type:                       State
+    area:                       "1,852,642"
+    population:                 "4,703,193"
+    acronym:                    Qld
+    constitution:               https://www.legislation.qld.gov.au/view/whole/html/inforce/current/act-2001-080
+    refrequirement:             Some
+    legislature:                Parliament
+    lower-house:                Legislative Assembly
+    lower-house-members-no:     "93"
+    lower-house-app:            <a href='https://en.wikipedia.org/wiki/Instant-runoff_voting' link='_blank'>FPV</a><sup>3</sup>
+    lower-house-term-length:    4 years
+    upper-house-abolition-date: 1922

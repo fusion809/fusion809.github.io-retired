@@ -14,9 +14,9 @@ The {% include wp.html link="Commonwealth of Australia" art="Australia" f="b" %}
 
 1. A {% include wp.html link="head of state" f=b %} that either holds {% include wt.html link="de jure" f="i" word-class="Adjective" %} supreme executive power or has a representative that holds such power and the power to promulgate (or not) laws, but that by convention only acts on the advice of the {% include wp.html link="cabinet" art="cabinet_(government)" %} {% include wp.html link="ministers" puncr="," art="Minister_(government)" %} except in exceptional circumstances when they utilize their {% include wp.html link="reserve powers" puncr="." %} They are meant to act as an independent, non-partisan referee that can only use their reserve powers when necessary in order to defend the constitution.
 2. A separate {% include wt.html link="de facto" f="i" word-class="Adjective" %} {% include wp.html link="head of government" %} (HoG) that by convention is appointed by the head of state or their representative, and is the "first among equals" with the other cabinet ministers. The HoG is, by convention, the parliamentary leader of the party that occupies the most seats in the lower house of the parliament, or is the leader of the largest party within the coalition that occupies more seats than the other parties or coalitions in the lower house of the parliament. This HoG, by convention, also occupies a seat in this lower house.
-3. Cabinet ministers that are elected parliamentary members of the party or coalition who's members occupy a majority of seats in the lower house of the parliament. In the case of a hung parliament, where no party or coalition occupies a majority of seats, whichever party or coalition occupies more seats than the rest normally gets to form government.
-4. A treasurer that occupies a seat in the lower house.
-5. An attorney-general that is a member of the cabinet and an attorney by trade. 
+3. Cabinet ministers that are elected parliamentary members of the party or coalition who's members occupy a majority of seats in the lower house of the parliament. In the case of a hung parliament, where no party or coalition occupies a majority of seats, whichever party or coalition occupies more seats than the rest normally gets to form government. Ministerial roles that have existed in Australia ever since Federation include: Attorney-General, Minister for Defence, Prime Minister and Treasurer. 
+4. A Treasurer that occupies a seat in the lower house.
+5. An Attorney-General that is a member of the cabinet and an attorney by trade. 
 6. A lower house comprised solely of members elected from single member electorates, such as using {% include wp.html link="first-past-the-post" %} (FPTP; the chief method used historically) or {% include wp.html link="instant-runoff voting" %} (IRV). This is where New Zealand's system, for example, breaks with tradition, as does Tasmania, as they use proportional representation for their lower house.
 7. A lower house that can dismiss the government with a motion of no confidence. This is unlikely to pass if the majority of members of this lower house belong to the governing party or coalition. 
 8. A constitutional or by convention requirement that the governing party or coalition must secure supply by passing the required appropriation bills through the parliament; failing this, they nay be dismissed by the head of state or their representative. This is what happened in Australia during the {% include wp.html link="1975 constitutional crisis" puncr="," %} when the Governor-General dismissed the Prime Minister.
@@ -38,4 +38,14 @@ The **principle Swiss feature** present in the Australian system is that any ame
 
 Unlike Canada and the US there are no restrictions placed on the age of members of the legislative and executive branches, except that they are old enough to vote and be considered an adult in the eyes of the law. Also, unlike the US, there are no requirements regarding how their citizenship was obtained; according to the US Constitution, the President has to have been born in the US or otherwise eligible for citizenship upon birth, like having a parent with US citizenship.
 
-{% include_relative australia/references.html %}
+States and territories
+=======================
+{% include Links/image.html float="center" image="Maps/Australia_states_and_territories_labelled.svg" %}
+<div class="separator" style="padding: 5px; clear: both; text-align: left; width: 500px; background-color: #55ff55ff;">
+<caption>Figure 1: States and territories of Australia (see <a href='https://github.com/fusion809/images/blob/gh-pages/Maps/Australia_states_and_territories_labelled.svg.md' link='_blank'>here</a> for copyright details)</caption>
+</div>
+<div class="separator" style="clear: both; text-align: center;"> </div> 
+<br/><br/>
+{% include_relative table1-states-and-territories.html %}
+
+{% include_relative references.html %}

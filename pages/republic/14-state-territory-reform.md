@@ -1,0 +1,4 @@
+Reforms to other states and territory
+=====================================
+
+I would like to see the proportionally representative houses of the parliaments of Tasmania, Victoria and Western Australia use a STV at-large system, with their whole respective states treated as a single electorate for the purpose of electing said houses. Why? To maximize their proportionality, although this may require Tasmania to switch from having their lower house proportionally representative to their upper house, so as to prevent the difficulty in governing that is seen in some countries with a proportionally representative lower house. These proportionally representative houses should have at least the same powers over their respective other house as the Senate has over the House of Representatives (so the ability to accept or reject any legislation, and the ability to introduce or amend any legislation other than those pertaining to money). 

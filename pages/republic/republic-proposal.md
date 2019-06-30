@@ -39,4 +39,6 @@ redirect_from:
 
 {% include_relative 13-queensland-reforms.md %}
 
-{% include_relative 14-referendum.md %}
+{% include_relative 14-state-territory-reform.md %}
+
+{% include_relative 15-referendum.md %}
