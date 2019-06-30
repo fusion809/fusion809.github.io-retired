@@ -296,18 +296,18 @@
 				</font>
 			</p>
 		</td>
+		{% if row.legislature %}
 		<td valign="top" style="background: transparent;" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.1cm; padding-left: 0.1cm; padding-right: 0cm">
 			<p align="left" style="font-style: normal; font-weight: normal; text-decoration: none">
 				<font color="#000000" size="3" face="Liberation Serif, serif" style="font-size: 12pt;">
 					<span style="text-decoration: none">
-						<a href="https://en.wikipedia.org/wiki/{% if row.legislature-art %}{{ row.legislature-art }}{% else %}{{ row.legislature }}{% endif %}" link="_blank">
+						{% if row.legislature-art %}<a href="https://en.wikipedia.org/wiki/{{ row.legislature-art }}" link="_blank">
 							{{ row.legislature }}
-						</a>
+						</a>{% endif %}
 					</span>
 				</font>
 			</p>
 		</td>
-        {% if row.lower-house %}
 		<td valign="top" style="background: transparent" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.1cm; padding-left: 0.1cm; padding-right: 0cm">
 			<p align="left" style="font-style: normal; font-weight: normal; text-decoration: none">
 				<font color="#000000" size="3" face="Liberation Serif, serif" style="font-size: 12pt;">
@@ -415,13 +415,14 @@
 		{% endif %}
 	</tr>
     {% else %}
-    <td colspan="9" style="background: transparent" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; padding-top: 0cm; padding-bottom: 0.1cm; padding-left: 0.1cm; padding-right: 0.1cm">
+    <td colspan="10" style="background: transparent" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; padding-top: 0cm; padding-bottom: 0.1cm; padding-left: 0.1cm; padding-right: 0.1cm">
         <p align="center" style="font-style: normal; font-weight: normal; text-decoration: none">
             <font color="#000000" size="3" face="Liberation Serif, serif" style="font-size: 12pt;">
-                <span style="text-decoration: none">No parliament: {% if row.legislature %}regional council of {{ row.no-of-councillors }} appointed by STV at-large serves the local government needs of the territory.{% else %}under direct and sole Commonwealth control.{% endif %}</span>
+                <span style="text-decoration: none">{{ row.governance }}</span>
             </font>
         </p>
     </td>
+	</tr>
     {% endif %}
 	{% endfor %}
 	<tr valign="top">

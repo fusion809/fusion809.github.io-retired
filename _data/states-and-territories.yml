@@ -37,6 +37,26 @@ body:
     lower-house-app:            <a href='https://en.wikipedia.org/wiki/Single-transferable_vote' link='_blank'>STV</a> from 5 electorates
     lower-house-term-length:    4 years
 
+  - entity:                     Christmas Island
+    acronym:                    CX
+    type:                       Dependent external territory
+    time-zone:                  "UTC+7"
+    area:                       "135"
+    population:                 "1,843"
+    constitution:               https://www.legislation.gov.au/Details/C2016C01091
+    refrequirement:             "No"
+    governance:                 No parliament&#58; under WA laws, utilizes WA courts and has a regional council of 9 people appointed by <a href='https://en.wikipedia.org/wiki/Single-transferable_vote' link='_blank'>STV</a> that serves its local government needs.
+
+  - entity:                     Cocos (Keeling) Islands
+    acronym:                    CC
+    type:                       Dependent external territory
+    time-zone:                  "UTC+6:30"
+    area:                       "14"
+    population:                 "544"
+    constitution:               "https://www.legislation.gov.au/Details/C2016C01088"
+    refrequirement:             "No"
+    governance:                 No parliament&#58; under WA laws, utilizes WA courts and has a regional council of 7 people appointed by <a href='https://en.wikipedia.org/wiki/Single-transferable_vote' link='_blank'>STV</a> that serves its local government needs.
+
   - entity:                     New South Wales
     type:                       State
     time-zone:                  <b>Near the SA border</b>&#58; UTC+9:30.<br/>UTC+10:30 (DST).<br/> <b>Elsewhere</b>&#58; UTC+10.<br/>UTC+11 (DST).
@@ -56,6 +76,16 @@ body:
     upper-house-app:            STV at-large
     upper-house-term-length:    8 years
     house-powers:               Same as federal
+
+  - entity:                     Norfolk Island
+    acronym:                    NI
+    type:                       External dependent territory
+    time-zone:                  UTC+11
+    area:                       "34.6"
+    population:                 "1,748"
+    constitution:               "https://www.legislation.gov.au/Details/C2018C00196"
+    refrequirement:             "No"
+    governance:                 "Parliament abolished in 2016&#58; some laws of NSW and others from the old NI Parliament are in effect. Local council consisting of five members elected using <a href='https://en.wikipedia.org/wiki/Single-transferable_vote' link='_blank'>STV</a> serves its local government needs."
 
   - entity:                     Northern Territory
     type:                       Self-governing territory
@@ -86,7 +116,7 @@ body:
     lower-house-members-no:     "93"
     lower-house-app:            <a href='https://en.wikipedia.org/wiki/Instant-runoff_voting' link='_blank'>FPV</a><sup>3</sup>
     lower-house-term-length:    4 years
-    upper-house-abolition-date: 1922
+    upper-house-abolition-date: "1922"
 
   - entity:                     South Australia
     type:                       State
@@ -123,14 +153,14 @@ body:
     lower-house:                House of Assembly
     lower-house-art:            Tasmanian_House_of_Assembly
     lower-house-members-no:     "25"
-    lower-house-app:            <a href='https://en.wikipedia.org/wiki/Single-transferable_vote' link='_blank'>STV</a> from five constituencies
+    lower-house-app:            <a href='https://en.wikipedia.org/wiki/Single-transferable_vote' link='_blank'>STV</a> from 5 electorates
     lower-house-term-length:    4 years
     upper-house:                Legislative Council
     upper-house-art:            Tasmanian_Legislative_Council
     upper-house-members-no:     "15"
     upper-house-app:            <a href='https://en.wikipedia.org/wiki/Instant-runoff_voting' link='_blank'>FPV</a>
     upper-house-term-length:    6 years
-    house-powers:               Seemingly the same as federal (see sec 42 of Const.)
+    house-powers:               Seemingly much the same as federal (see <a href='https://www.legislation.tas.gov.au/view/html/inforce/current/act-1934-094#GS42@EN' link='_blank'>sec 42 of the Const.</a>)
 
   - entity:                     Victoria
     type:                       State
@@ -149,7 +179,7 @@ body:
     lower-house-term-length:    4 years
     upper-house:                Legislative Council
     upper-house-art:            Victorian_Legislative_Council
-    upper-house-app:            <a href='https://en.wikipedia.org/wiki/Single-transferable_vote' link='_blank'>STV</a>, with <a href='https://en.wikipedia.org/wiki/Group_voting_ticket' link='_blank'>group voting tickets</a> from eight constituencies
+    upper-house-app:            <a href='https://en.wikipedia.org/wiki/Single-transferable_vote' link='_blank'>STV</a>, with <a href='https://en.wikipedia.org/wiki/Group_voting_ticket' link='_blank'>group voting tickets</a> from 8 electorates
     upper-house-members-no:     "40"
     upper-house-term-length:    4 years
     house-powers:               Same as federal
@@ -171,7 +201,7 @@ body:
     lower-house-term-length:    "4 years"
     upper-house:                Legislative Council
     upper-house-art:            Western_Australian_Legislative_Council
-    upper-house-app:            <a href='https://en.wikipedia.org/wiki/Single-transferable_vote' link='_blank'>STV</a> from six constituencies
+    upper-house-app:            <a href='https://en.wikipedia.org/wiki/Single-transferable_vote' link='_blank'>STV</a> from 6 electorates
     upper-house-term-length:    4 years
     upper-house-members-no:     "36"
     house-powers:               Equal (no relevant mention of money bills in Const.)
