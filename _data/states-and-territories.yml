@@ -117,7 +117,7 @@ body:
     legislature-art:            Parliament_of_New_South_Wales
     lower-house:                Legislative Assembly
     lower-house-members-no:     "93"
-    lower-house-app:            <a href='https://en.wikipedia.org/wiki/Optional_preferential_voting' link='_blank'>OPV</a><sup>2</sup>
+    lower-house-app:            <a href='https://en.wikipedia.org/wiki/Optional_preferential_voting' link='_blank'>OPV</a><sup>3</sup>
     lower-house-term-length:    4 years
     upper-house:                Legislative Council
     upper-house-members-no:     "42"
@@ -147,7 +147,7 @@ body:
     legislature-art:            Parliament_of_the_Northern_Territory
     lower-house:                Legislative Assembly
     lower-house-members-no:     "25"
-    lower-house-app:            OPV<sup>3</sup>
+    lower-house-app:            OPV<sup>4</sup>
     lower-house-term-length:    4 years
 
   - entity:                     Queensland
@@ -162,7 +162,7 @@ body:
     legislature-art:            Parliament_of_Queensland
     lower-house:                Legislative Assembly
     lower-house-members-no:     "93"
-    lower-house-app:            <a href='https://en.wikipedia.org/wiki/Instant-runoff_voting' link='_blank'>FPV</a><sup>4</sup>
+    lower-house-app:            <a href='https://en.wikipedia.org/wiki/Instant-runoff_voting' link='_blank'>FPV</a><sup>5</sup>
     lower-house-term-length:    4 years
     upper-house-abolition-date: "1922"
 
@@ -244,7 +244,7 @@ body:
     legislature-art:            Parliament_of_Western_Australia
     lower-house:                Legislative Assembly
     lower-house-art:            Western_Australian_Legislative_Assembly
-    lower-house-app:            <a href='https://en.wikipedia.org/wiki/Instant-runoff_voting' link='_blank'>FPV</a><sup>5</sup>
+    lower-house-app:            <a href='https://en.wikipedia.org/wiki/Instant-runoff_voting' link='_blank'>FPV</a><sup>6</sup>
     lower-house-members-no:     "59"
     lower-house-term-length:    "4 years"
     upper-house:                Legislative Council
