@@ -95,6 +95,16 @@ body:
     refrequirement:             "No"
     governance:                 "Under Commonwealth laws and under the administration of the Department of the Environment and Energy."
 
+  - entity:                     Jervis Bay Territory
+    type:                       Internal territory
+    acronym:                    JBT
+    time-zone:                  UTC+10, UTC+11 (DST)
+    area:                       "67.8"
+    population:                 "391"
+    constitution:               https://www.legislation.gov.au/Details/C2004C00038
+    refrequirement:             "No"
+    governance:                 "Under ACT laws and the ordinances of the Acceptance Act"
+
   - entity:                     New South Wales
     type:                       State
     time-zone:                  <b>Near the SA border</b>&#58; UTC+9:30.<br/>UTC+10:30 (DST).<br/> <b>Elsewhere</b>&#58; UTC+10.<br/>UTC+11 (DST).
