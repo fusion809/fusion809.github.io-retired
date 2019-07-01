@@ -204,6 +204,17 @@ body:
     upper-house-app:            By provincial legislatures.
     house-powers:               LH&gt;UH (mostly equal, UH can only<br/> initiate certain legislation)
 
+  - country:                    Spain
+    sysofgov:                   Devolved <abbr title="parliamentary constitutional monarchy">PCM</abbr>
+    legislature:                Cortes Generales
+    lower-house:                Chamber of Deputies
+    lower-house-art:            Chamber_of_Deputies_(Spain)
+    lower-house-app:            CLPLPR
+    upper-house:                Senate
+    upper-house-art:            Senate_of_Spain
+    upper-house-app:            Limited voting
+    house-powers:               LH>>UH
+
   - country:                    Switzerland
     sysofgov:                   Federal <abbr title="directorial republic">DR</abbr>
     legislature:                Federal Assembly
