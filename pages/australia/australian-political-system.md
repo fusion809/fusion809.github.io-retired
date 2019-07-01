@@ -49,4 +49,6 @@ States and territories
 <br/>
 {% include_relative table1-states-and-territories.html %}
 
+The total area this adds up to is 14,757,853.6 km<sup>2</sup>.
+
 {% include_relative references.html %}

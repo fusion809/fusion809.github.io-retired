@@ -76,6 +76,15 @@ body:
     refrequirement:             "No"
     governance:                 No parliament&#58; under WA laws, utilizes WA courts and has a regional council of 7 people appointed by <a href='https://en.wikipedia.org/wiki/Single-transferable_vote' link='_blank'>STV</a> that serves its local government needs.
 
+  - entity:                     Coral Sea Islands
+    acronym:                    CSI
+    type:                       Dependent external territory
+    time-zone:                  UTC+10
+    area:                       "780,000"
+    population:                 "4"
+    constitution:               http://www.comlaw.gov.au/Series/C1969A00058
+    governance:                 Under ACT laws, with the Supreme Court of Norfolk Island to adjudicate its criminal laws.
+
   - entity:                     Heard Island and McDonald Islands
     acronym:                    HIMI
     type:                       Dependent external territory
