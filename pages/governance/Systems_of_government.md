@@ -23,3 +23,8 @@ This article is more for my benefit than anyone else's, it is mostly so that I c
 {% include_relative 03-orgstr.md %}
 {% endcapture %}
 {{ orgsstr | markdownify }}
+
+{% capture electoral_systems %}
+{% include_relative 04-electoral-systems.md %}
+{% endcapture %}
+{{ electoral_systems | markdownify }}
