@@ -76,6 +76,16 @@ body:
     refrequirement:             "No"
     governance:                 No parliament&#58; under WA laws, utilizes WA courts and has a regional council of 7 people appointed by <a href='https://en.wikipedia.org/wiki/Single-transferable_vote' link='_blank'>STV</a> that serves its local government needs.
 
+  - entity:                     Heard Island and McDonald Islands
+    acronym:                    HIMI
+    type:                       Dependent external territory
+    time-zone:                  UTC+5
+    area:                       "368"
+    population:                 "0"
+    constitution:               https://www.legislation.gov.au/Details/C2008C00326
+    refrequirement:             "No"
+    governance:                 "Under Commonwealth laws and under the administration of the Department of the Environment and Energy."
+
   - entity:                     New South Wales
     type:                       State
     time-zone:                  <b>Near the SA border</b>&#58; UTC+9:30.<br/>UTC+10:30 (DST).<br/> <b>Elsewhere</b>&#58; UTC+10.<br/>UTC+11 (DST).
@@ -104,7 +114,7 @@ body:
     population:                 "1,748"
     constitution:               "https://www.legislation.gov.au/Details/C2018C00196"
     refrequirement:             "No"
-    governance:                 "Parliament abolished in 2016&#58; some laws of NSW and others from the old NI Parliament are in effect. Local council consisting of five members elected using <a href='https://en.wikipedia.org/wiki/Single-transferable_vote' link='_blank'>STV</a> serves its local government needs."
+    governance:                 "Parliament abolished in 2016; some laws of NSW and others from the old NI Parliament are in effect. Local council consisting of five members elected using <a href='https://en.wikipedia.org/wiki/Single-transferable_vote' link='_blank'>STV</a> serves its local government needs."
 
   - entity:                     Northern Territory
     type:                       Self-governing territory
