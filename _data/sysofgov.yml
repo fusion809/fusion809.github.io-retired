@@ -171,6 +171,12 @@ body:
     legislature-app:            OLPLPR
     legislature-app-art:        Open_list
 
+  - country:                    Papua New Guinea
+    sysofgov:                   Devolved <abbr title="parliamentary constitutional monarchy">PCM</abbr>
+    legislature:                National Parliament
+    legislature-art:            National_Parliament_of_Papua_New_Guinea
+    legislature-app:            Instant-runoff voting
+
   - country:                    Russia
     sysofgov:                   Federal <abbr title="president-parliamentary republic">PPMR</abbr>
     legislature:                Federal Assembly
@@ -198,6 +204,18 @@ body:
     upper-house-app:            By provincial legislatures.
     house-powers:               LH&gt;UH (mostly equal, UH can only<br/> initiate certain legislation)
 
+  - country:                    Switzerland
+    sysofgov:                   Federal <abbr title="directorial republic">DR</abbr>
+    legislature:                Federal Assembly
+    legislature-art:            Federal_Assembly_(Switzerland)
+    lower-house:                National Council
+    lower-house-art:            National_Council_(Switzerland)
+    lower-house-app:            <a href='https://en.wikipedia.org/wiki/Panachage' link='_blank'>FLPLPR</a>
+    upper-house:                Council of States
+    upper-house-art:            Council_of_States_(Switzerland)
+    upper-house-app:            FPTP (24/26 cantons), <abbr title="proportional representation">PR</abbr> (2 cantons)<sup>1</sup>
+    house-powers:               LH=UH
+
   - country:                    United Kingdom
     sysofgov:                   Devolved <abbr title="parliamentary constitutional monarchy">PCM</abbr>
     legislature:                Parliament
@@ -208,7 +226,7 @@ body:
     lower-house-app-art:        First-past-the-post
     upper-house:                House of Lords
     upper-house-app:     
-      Appointed by varying methods.<sup>1</sup>
+      Appointed by varying methods.<sup>2</sup>
     house-powers:               LH&#8811;UH (UH can only delay)
     house-legislative-powers:   7
 
