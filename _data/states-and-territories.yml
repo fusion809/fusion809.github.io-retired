@@ -83,6 +83,7 @@ body:
     area:                       "780,000"
     population:                 "4"
     constitution:               http://www.comlaw.gov.au/Series/C1969A00058
+    refrequirement:             "No"
     governance:                 Under ACT laws, with the Supreme Court of Norfolk Island to adjudicate its criminal laws.
 
   - entity:                     Heard Island and McDonald Islands
