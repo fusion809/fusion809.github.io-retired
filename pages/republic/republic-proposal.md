@@ -33,7 +33,7 @@ redirect_from:
 
 {% include_relative 10-corruption-commission.md %}
 
-<!--{% include_relative 11-expansion.md %}-->
+{% include_relative 11-primus-inter-pares.md %}
 
 {% include_relative 12-other-criminal-reforms.md %}
 
