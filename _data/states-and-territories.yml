@@ -38,7 +38,7 @@ body:
     population:                 "&lt;1,000"
     constitution:               https://www.legislation.gov.au/Details/C2012C00725
     refrequirement:             "No"
-    governance:                 "Commonwealth laws, NT laws and ordinances made by the GG make up the laws applicable to the territory.<sup>1</sup>"
+    governance:                 "Commonwealth laws, NT laws and ordinances made by the GG make up the laws applicable to the territory.<sup id='sup1'><a href='#ref1'>1</a></sup>"
 
   - entity:                     Australian Capital Territory
     acronym:                    ACT
@@ -104,7 +104,7 @@ body:
     population:                 "391"
     constitution:               https://www.legislation.gov.au/Details/C2004C00038
     refrequirement:             "No"
-    governance:                 "Under ACT laws and the ordinances of the Acceptance Act; the Department of Infrastructure, Transport, Cities & Regional Development provides local and state government-type services."
+    governance:                 "Under ACT laws and the ordinances of the Acceptance Act; the Department of Infrastructure, Transport, Cities & Regional Development provides local and state government-type services.<sup id='sup2'><a href='#ref2'>2</a></sup>"
 
   - entity:                     New South Wales
     type:                       State
@@ -118,7 +118,7 @@ body:
     legislature-art:            Parliament_of_New_South_Wales
     lower-house:                Legislative Assembly
     lower-house-members-no:     "93"
-    lower-house-app:            <a href='https://en.wikipedia.org/wiki/Optional_preferential_voting' link='_blank'>OPV</a><sup>3</sup>
+    lower-house-app:            <a href='https://en.wikipedia.org/wiki/Optional_preferential_voting' link='_blank'>OPV</a><sup id="sup3"><a href='#ref3'>3</a></sup>
     lower-house-term-length:    4 years
     upper-house:                Legislative Council
     upper-house-members-no:     "42"
@@ -148,7 +148,7 @@ body:
     legislature-art:            Parliament_of_the_Northern_Territory
     lower-house:                Legislative Assembly
     lower-house-members-no:     "25"
-    lower-house-app:            OPV<sup>4</sup>
+    lower-house-app:            OPV<sup id="sup4"><a href="#ref4">4</a></sup>
     lower-house-term-length:    4 years
 
   - entity:                     Queensland
@@ -163,7 +163,7 @@ body:
     legislature-art:            Parliament_of_Queensland
     lower-house:                Legislative Assembly
     lower-house-members-no:     "93"
-    lower-house-app:            <a href='https://en.wikipedia.org/wiki/Instant-runoff_voting' link='_blank'>FPV</a><sup>5</sup>
+    lower-house-app:            <a href='https://en.wikipedia.org/wiki/Instant-runoff_voting' link='_blank'>FPV</a><sup id='sup5'><a href="#ref5">5</a></sup>
     lower-house-term-length:    4 years
     upper-house-abolition-date: "1922"
 
@@ -245,7 +245,7 @@ body:
     legislature-art:            Parliament_of_Western_Australia
     lower-house:                Legislative Assembly
     lower-house-art:            Western_Australian_Legislative_Assembly
-    lower-house-app:            <a href='https://en.wikipedia.org/wiki/Instant-runoff_voting' link='_blank'>FPV</a><sup>6</sup>
+    lower-house-app:            <a href='https://en.wikipedia.org/wiki/Instant-runoff_voting' link='_blank'>FPV</a><sup id='sup6'><a href="#ref6">6</a></sup>
     lower-house-members-no:     "59"
     lower-house-term-length:    "4 years"
     upper-house:                Legislative Council

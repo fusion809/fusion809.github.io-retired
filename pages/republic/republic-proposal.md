@@ -42,3 +42,5 @@ redirect_from:
 {% include_relative 14-state-territory-reform.md %}
 
 {% include_relative 15-referendum.md %}
+
+{% include_relative 16-references.html %}
