@@ -15,7 +15,7 @@ Powers of such a President:
 
 * Dismiss the Government and install a caretaker Government, if any only if, there is strong evidence of mass corruption in the Government.  
 
-* The power to defend the Constitution, via any means necessary. If they intend to do so via an action without precedence, they need to get the HC's approval on the legality of their action and whether the HC believes their action is appropriate. If the HC believes their proposal is inappropriate, then the HC may offer their own. 
+* The power to defend the Constitution, via any means necessary. If they intend to do so via an action without precedence, they need to get the HC's approval on the legality of their action and whether the HC believes their action is appropriate. If the HC believes their proposal is illegal or inappropriate, then the HC may offer their own alternative solution.
 
 * They can dismiss ministers of state, including the Prime Minister (PM), along with MPs and senators, if they have been convicted of corruption or misbehaviour or if they have wilfully broken pre-election promises. If there is evidence of corruption or misconduct, but they have not been convicted yet, the President will be able to temporarily dismiss them, pending the completion of the investigation, from their ministerial positions, but not their seats in the Parliament. 
 

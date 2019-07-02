@@ -1,7 +1,7 @@
 Federal corruption commission
 ==============================
 
-There should be a federal organization to tackle corruption or other wrongdoing in the federal government. With the consent of the states, it would also be good if this commission had the ability to investigate state officials too. This commission should be fully independent from the ministers of state, to ensure they cannot use their position to quash unwanted investigations into themselves, or others they would rather not be investigated. 
+There should be a federal organization to tackle corruption or other wrongdoing in the federal government. With the consent of the states, it would also be good if this commission had the ability to investigate state officials too. This commission should be fully independent from the ministers of state, to ensure they cannot use their position to quash unwanted investigations into themselves, or others they would rather not be investigated, or start politically-motivated investigations into their opponents. 
 
 All new employees should be investigated by the Australian Federal Police (AFP) and commission members, for evidence of both corruption and corruptibility (i.e. susceptibility to being blackmailed or extorted, like things that could be held over them), before being allowed on staff. 
 
