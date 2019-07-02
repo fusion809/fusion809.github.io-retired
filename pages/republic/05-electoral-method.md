@@ -1,4 +1,4 @@
-Electoral system
+National electoral reform
 =================
 
 If my electorate meetings proposed change is not made, then the {% include wp.html art="Australian_House_of_Representatives" link="House of Representatives" %} should be elected using a proportional or semi-proportional representation system, such as {% include wp.html link="mixed-member proportional representation" f="b" %} (**MMPR**) or {% include wp.html link="single transferable vote" f="b" %} (**STV**). Why? To maximize the people's trust in the system, their willingness to voluntarily participate (as opposed to solely participating due to compulsory voting requirements) and maximize its fairness.<sup><a href="#ref1" link="_blank">1</a></sup>

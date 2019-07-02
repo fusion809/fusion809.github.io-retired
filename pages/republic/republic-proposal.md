@@ -21,26 +21,24 @@ redirect_from:
 
 {% include_relative 04-electorate-meetings.md %}
 
-{% include_relative 05-australian-senate.md %}
+{% include_relative 05-electoral-method.md %}
 
-{% include_relative 06-electoral-method.md %}
+{% include_relative 06-bill-of-rights.md %}
 
-{% include_relative 07-bill-of-rights.md %}
+{% include_relative 07-attorney-general-reform.md %}
 
-{% include_relative 08-attorney-general-reform.md %}
+{% include_relative 08-justices-of-the-high-court.md %}
 
-{% include_relative 09-justices-of-the-high-court.md %}
+{% include_relative 09-corruption-commission.md %}
 
-{% include_relative 10-corruption-commission.md %}
+{% include_relative 10-primus-inter-pares.md %}
 
-{% include_relative 11-primus-inter-pares.md %}
+{% include_relative 11-other-criminal-reforms.md %}
 
-{% include_relative 12-other-criminal-reforms.md %}
+{% include_relative 12-queensland-reforms.md %}
 
-{% include_relative 13-queensland-reforms.md %}
+{% include_relative 13-state-territory-reform.md %}
 
-{% include_relative 14-state-territory-reform.md %}
+{% include_relative 14-referendum.md %}
 
-{% include_relative 15-referendum.md %}
-
-{% include_relative 16-references.html %}
+{% include_relative 15-references.html %}
