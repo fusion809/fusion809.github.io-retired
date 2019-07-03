@@ -1,14 +1,14 @@
 Electoral systems
 ==================
 
-An {% include wp.html link="electoral system" %} is a set of rules that governs how an election or referendum is conducted. They can be variably classified as (and sometimes more than one is applicable):
+{% include_relative electoral-systems/00-introduction.md %}
 
-* {% include wp.html art="Plurality_voting" link="plurality systems" puncr="," %}
-* {% include wp.html art="Electoral_system#Majoritarian_systems" link="majoritarian systems" puncr="," %}
-* {% include wp.html link="majority bonus systems" art="Majority_bonus_system" puncr="," %}
-* {% include wp.html art="Proportional_representation" link="proportional representation systems" puncr="," %} and
-* {% include wp.html art="Mixed_electoral_systems" link="mixed systems" puncr="." %}
+{% include_relative electoral-systems/01-plurality.md %}
 
-{% include h2.html text="Plurality voting" %}
+{% include_relative electoral-systems/02-majoritarian.md %}
 
-These systems are in which a single winner is chosen from a variety (or plurality) of candidates by a simple, relative majority. The simplest example is {% include wp.html link="first-past-the-post" puncr="," %} in which a single representative is chosen from a single-member electorate. Say, for example, we have five candidates&mdash;candidate A, B, C, D and E&mdash;they receive 19.9%, 20%, 20.1%, 19.8% and 20.2%, respectively. Then candidate E would win, even though they only beat candidate C by a 0.1% margin and the poorest performing candidate, candidate D, by a just 0.4% margin. 
+{% include_relative electoral-systems/03-majority-bonus.md %}
+
+{% include_relative electoral-systems/04-proportional-representation.md %}
+
+{% include_relative electoral-systems/05-mixed-electoral-systems.md %}

@@ -1,0 +1,13 @@
+{% include h2.html text="Majoritarian voting" %}
+
+These are single-winner systems where an absolute majority of votes is required to win the seat that is contested. This majority is seldom achieved during a single round of simple voting, so the methods used employ a method to correct this. Such methods include:
+
+* {% include wp.html link="Exhaustive ballot" %}&mdash;wherein if there are *N* candidates, then there are potentially up to *N-1* rounds of voting. In round 1, all N candidates are eligible to be voted for. If no singular candidate receives over 50% of votes the candidate with the fewest votes is eliminated. Then the next round is conducted with the remaining *N-1* candidates. If no singular candidate achieves the >50% required to win, then the candidate that received the fewest votes is eliminated and the third round of voting occurs with the remaining *N-2* candidates. Then, if no singular candidate achieves the >50% of votes required to win, the candidate with the fewest votes is eliminated and the remaining *N-3* candidates go on to the next round of voting. Then this is repeated until a winner that receives over 50% of votes is decided. This system is rare as it can be quite tedious and expensive due to the number of rounds that might be necessary.
+
+* {% include wp.html link="Instant-runoff voting" %}&mdash;essentially an attempt to condense an exhaustive ballot system into a single round of voting. In it voters are asked to assign numbers in order of preference next to the various candidates. So their preferred candidate would receive a number 1 next to their name, their second preferred candidate would receive a number 2 next to their name, then their third preference would receive a 3 next to their name and so forth. There are two main variants of this system: one in which all candidates need to be numbered, so called "full preferential voting"; and {% include wp.html link="optional preferential voting" puncr='",' puncl='"' %} wherein not all candidates need to be numbered in order of preference (although quite often there is a certain number that do need to be numbered). This system is used by the voters directly in national elections of three countries I am aware of:
+
+   * Australia, in elections for members of the House of Representatives.
+   * Papua New Guinea, in elections for members of their National Parliament (a unicameral legislature).
+   * Republic of Ireland, in elections for their president.
+
+* {% include wp.html link="Two-round system" %}
