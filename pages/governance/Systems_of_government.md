@@ -2,7 +2,7 @@
 layout:           page2
 title:            "Governance: systems and organizational structures"
 date:             2019-06-10 21:29:37 +1000
-last_modified_at: 2019-06-10 21:30:00 +1000
+last_modified_at: 2019-07-03 21:42:00 +1000
 permalink:        /politics/systems-of-government/
 redirect_from:
                 - /sysofgov/
