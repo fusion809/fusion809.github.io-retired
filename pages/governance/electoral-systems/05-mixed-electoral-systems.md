@@ -1,1 +1,3 @@
 {% include h2.html text="Mixed electoral systems" %}
+
+Mixed-member systems (MES) are those in which a plurality/majoritarian system is combined with a PR system. Their most notable examples include MMPR and {% include wp.html link="parallel voting" puncr=" (PV)." %} Italy uses a variant of PV to elect members to their Chamber of Deputies. Under their system 37% of members of the Chamber are elected using FPTP, while the remaining 63% are elected using PLPR, making it a semi-proportional system. 
