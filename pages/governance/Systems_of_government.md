@@ -29,7 +29,4 @@ This article is more for my benefit than anyone else's, it is mostly so that I c
 {% endcapture %}
 {{ electoral_systems | markdownify }}
 
-<h1>Reference list:</h1>
-<ol>
-<li id="ref1">{% include ref.html url="http://aceproject.org/electoral-advice/archive/questions/replies/269929775" title="Bonus seats to largest party in Greek election" date="7 May 2012" accessdate="4 July 2019" author="ACE Facilitators" website="aceproject.org" publisher="The Electoral Knowledge Project" %}</li>
-</ol>
+{% include_relative 05-references.html %}
