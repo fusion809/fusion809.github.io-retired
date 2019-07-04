@@ -10,4 +10,4 @@ These are single-winner systems where an absolute majority of votes is required 
    * Papua New Guinea, in elections for members of their National Parliament (a unicameral legislature).
    * Republic of Ireland, in elections for their president.
 
-* {% include wp.html link="Two-round system" %}
+* {% include wp.html link="Two-round system" %}&mdash;where voters indicate their preferred candidate in the first round of voting. Then, if no singular candidate manages to receive the required percentage of votes to win, a second round of voting is conducted, wherein all but the two candidates that received the most votes in the first round are eliminated. Whichever candidate receives the most votes in the second round is declared the winner.
