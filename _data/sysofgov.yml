@@ -141,6 +141,20 @@ body:
     house-powers:               LH=UH
     house-legislative-powers:   1
 
+  - country:                    Mexico
+    sysofgov:                   Federal <abbr title="presidential republic">PR</abbr>
+    legislature:                Congress
+    legislature-art:            Congress_of_Mexico
+    lower-house:                Chamber of Deputies
+    lower-house-art:            Chamber_of_Deputies_(Mexico)
+    lower-house-app:            
+      <a href="https://en.wikipedia.org/wiki/Parallel_voting" link="_blank">PV</a>&#58; 3/2 by <a href="https://en.wikipedia.org/wiki/First-past-the-post" link="_blank">FPTP</a> and <a href="https://en.wikipedia.org/wiki/Closed_list" link="_blank">CLPLPR</a>.
+    upper-house:                Senate of the Republic
+    upper-house-art:            Senate_of_the_Republic_(Mexico)
+    upper-house-app:            Limited voting
+    upper-house-app-art:        Limited_voting
+    house-powers:               LH&approx;UH (distinct powers)
+
   - country:                    Netherlands
     sysofgov:                   Unitary <abbr title="parliamentary constitutional monarchy">PCM</abbr>
     legislature:                States General
@@ -212,6 +226,7 @@ body:
     upper-house:                Senate
     upper-house-art:            Senate_of_Spain
     upper-house-app:            Limited voting
+    upper-house-app-art:        Limited_voting
     house-powers:               LH>>UH
 
   - country:                    Switzerland
@@ -223,7 +238,7 @@ body:
     lower-house-app:            <a href='https://en.wikipedia.org/wiki/Panachage' link='_blank'>FLPLPR</a>
     upper-house:                Council of States
     upper-house-art:            Council_of_States_(Switzerland)
-    upper-house-app:            FPTP (24/26 cantons), <abbr title="proportional representation">PR</abbr> (2 cantons)<sup>1</sup>
+    upper-house-app:            <abbr title="Two-round system">TRS</abbr> (24/26 cantons), <abbr title="proportional representation">PRep</abbr> (2 cantons)<sup>1</sup>
     house-powers:               LH=UH
 
   - country:                    United Kingdom
