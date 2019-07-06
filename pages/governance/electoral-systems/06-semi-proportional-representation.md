@@ -6,4 +6,4 @@ These systems, while more proportionally representative than majoritarian and pl
 * Parallel voting, where a majority/plurality electoral system is used to elect some members, while proportional representation is used to elect other members. 
 * {% include wp.html link="Single non-transferable vote (SNTV)" art="Single_non-transferable_vote" puncr="," %} which is used for multi-member electorates where each voter gets a single vote and whichever candidates receive the most votes are elected. 
 
-STV can also be described as semi-proportional when the number of members per district is low relative to the total number of candidates to be elected using STV. 
+STV can also be described as semi-proportional when the number of members per district is low relative to the total number of candidates to be elected.

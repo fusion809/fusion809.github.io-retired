@@ -29,4 +29,6 @@ This article is more for my benefit than anyone else's, it is mostly so that I c
 {% endcapture %}
 {{ electoral_systems | markdownify }}
 
+{% include_relative 06-external-links.html %}
+
 {% include_relative 05-references.html %}
