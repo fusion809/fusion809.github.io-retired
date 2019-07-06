@@ -5,4 +5,4 @@ An {% include wp.html link="electoral system" %} is a set of rules that governs 
 * {% include wp.html art="Majority_bonus_system" link="majority bonus systems" puncr="," %}
 * {% include wp.html art="Proportional_representation" link="proportional representation systems" puncr="," %}
 * {% include wp.html art="Mixed_electoral_systems" link="mixed systems" puncr="," %} and
-* {% include wp.html art="Semi-proportional_representation" link="semi-proportional systems" puncr="." %}
+* {% include wp.html art="Semi-proportional_representation (SPR)" link="semi-proportional systems" puncr="." %}

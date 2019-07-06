@@ -12,3 +12,5 @@ Electoral systems
 {% include_relative electoral-systems/04-proportional-representation.md %}
 
 {% include_relative electoral-systems/05-mixed-electoral-systems.md %}
+
+{% include_relative electoral-systems/06-semi-proportional-representation.md %}
