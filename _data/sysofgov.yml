@@ -238,7 +238,7 @@ body:
     lower-house-app:            <a href='https://en.wikipedia.org/wiki/Panachage' link='_blank'>FLPLPR</a>
     upper-house:                Council of States
     upper-house-art:            Council_of_States_(Switzerland)
-    upper-house-app:            <abbr title="Two-round system">TRS</abbr> (24/26 cantons), <abbr title="proportional representation">PRep</abbr> (2 cantons)<sup>1</sup>
+    upper-house-app:            <abbr title="first-past-the-post">FPTP</abbr> (24/26 cantons), <abbr title="proportional representation">PRep</abbr> (2 cantons)<sup>1</sup>
     house-powers:               LH=UH
 
   - country:                    United Kingdom
