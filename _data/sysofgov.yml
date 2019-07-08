@@ -65,7 +65,7 @@ body:
     lower-house-app-art:        First-past-the-post
     upper-house:                Senate
     upper-house-art:            Senate_of_Canada
-    upper-house-app:            By PM
+    upper-house-app:            By GG on recommendation of PM
     house-powers:               LH>UH (LH has exec power;<br/> UH has less money bill power)
     house-legislative-powers:   2
 
