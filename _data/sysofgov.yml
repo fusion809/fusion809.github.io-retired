@@ -127,6 +127,15 @@ body:
     house-powers:               LH>>UH
     house-legislative-powers:   5
 
+  - country:                    Ireland
+    sysofgov:                   Unitary <abbr title="parliamentary republic with a ceremonial presidency">PRCP</abbr>
+    legislature:                Oireachtas
+    lower-house:                Dáil Éireann
+    lower-house-app:            STV from 40 constituencies
+    upper-house:                Seanad Éireann
+    upper-house-app:            Several<sup>1</sup>
+    house-powers:               LH>>UH (UH can only delay)
+
   - country:                    Italy
     sysofgov:                   Devolved <abbr title="parliamentary republic with a ceremonial presidency">PRCP</abbr>
     legislature:                Parliament
@@ -239,7 +248,7 @@ body:
     lower-house-app:            <a href='https://en.wikipedia.org/wiki/Panachage' link='_blank'>FLPLPR</a>
     upper-house:                Council of States
     upper-house-art:            Council_of_States_(Switzerland)
-    upper-house-app:            <abbr title="first-past-the-post">FPTP</abbr> (24/26 cantons), <abbr title="proportional representation">PRep</abbr> (2 cantons)<sup>1</sup>
+    upper-house-app:            <abbr title="first-past-the-post">FPTP</abbr> (24/26 cantons), <abbr title="proportional representation">PRep</abbr> (2 cantons)<sup>2</sup>
     house-powers:               LH=UH
 
   - country:                    United Kingdom
@@ -252,7 +261,7 @@ body:
     lower-house-app-art:        First-past-the-post
     upper-house:                House of Lords
     upper-house-app:     
-      Appointed by varying methods.<sup>2</sup>
+      Appointed by varying methods.<sup>3</sup>
     house-powers:               LH&#8811;UH (UH can only delay)
     house-legislative-powers:   7
 
