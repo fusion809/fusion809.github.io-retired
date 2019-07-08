@@ -1,12 +1,13 @@
 caption:                        Table 1&#58; National legislatures of several notable countries
-country-width:                  120
+country-width:                  140
 sysofgov-width:                 120
 legislature-width:              220
 lower-house-width:              220
 lower-house-app-method-width:   230
 upper-house-width:              225
-upper-house-app-method-width:   230
-house-legislative-powers-width: 220
+upper-house-app-method-width:   270
+house-legislative-powers-width: 260
+house-powers-width:             220
 
 body:
 
@@ -38,7 +39,7 @@ body:
     upper-house-art:            Australian_Senate
     upper-house-app:            STV
     upper-house-app-art:        Single_transferable_vote
-    house-powers:               LH>UH (LH has exec power;<br/> UH has less money bill power)
+    house-powers:               LH>UH (LH has exec power; UH has less money bill power)
     house-legislative-powers:   2
 
   - country:                    Brazil
@@ -52,7 +53,7 @@ body:
     upper-house:                Federal Senate
     upper-house-app:     
       <a href="https://en.wikipedia.org/wiki/Plurality_voting" link="_blank">PLV</a>&#58; alternating every 4 years<br/> between <a href="https://en.wikipedia.org/wiki/First-past-the-post" link="_blank">FPTP</a> and <a href="https://en.wikipedia.org/wiki/Plurality-at-large_voting" link="_blank">block voting</a>. 
-    house-powers:               LH<UH (UH approves appointments<br/> by pres; tries pres in trials; <i>etc.</i>)
+    house-powers:               LH<UH (UH approves appointments by pres; tries pres in trials; <i>etc.</i>)
     house-legislative-powers:   1
 
   - country:                    Canada
@@ -66,7 +67,7 @@ body:
     upper-house:                Senate
     upper-house-art:            Senate_of_Canada
     upper-house-app:            By GG on recommendation of PM
-    house-powers:               LH>UH (LH has exec power;<br/> UH has less money bill power)
+    house-powers:               LH>UH (LH has exec power; UH has less money bill power)
     house-legislative-powers:   2
 
   - country:                    France
@@ -80,7 +81,7 @@ body:
     upper-house:                Senate
     upper-house-art:            Senate_(France)
     upper-house-app:            By elected officials.
-    house-powers:               LH>UH (LH has exec power;<br/> LH can overrule UH in some cases<br/> of deadlock)
+    house-powers:               LH>UH (LH has exec power; LH can overrule UH in some cases of deadlock)
     house-legislative-powers:   3
 
   - country:                    Germany
@@ -92,7 +93,7 @@ body:
     upper-house-art:            Bundesrat_of_Germany
     upper-house-app:     
       By <a href="https://en.wikipedia.org/wiki/States_of_Germany" link="_blank">state</a> officials.
-    house-powers:               LH>UH (UH approval only needed<br/> in some cases; LH has exec power)
+    house-powers:               LH>UH (UH approval only needed in some cases; LH has exec power)
     house-legislative-powers:   5
 
   - country:                    Iceland
@@ -216,7 +217,7 @@ body:
     upper-house:                National Council
     upper-house-art:            National_Council_of_Provinces
     upper-house-app:            By provincial legislatures.
-    house-powers:               LH&gt;UH (mostly equal, UH can only<br/> initiate certain legislation)
+    house-powers:               LH&gt;UH (mostly equal; UH can only initiate certain legislation)
 
   - country:                    Spain
     sysofgov:                   Devolved <abbr title="parliamentary constitutional monarchy">PCM</abbr>
