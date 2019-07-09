@@ -195,6 +195,18 @@ body:
     legislature-app:            OLPLPR
     legislature-app-art:        Open_list
 
+  - country:                    Pakistan
+    sysofgov:                   Federal <abbr title="parliamentary republic with a ceremonial presidency">PRCP</abbr>
+    legislature:                Parliament
+    legislature-art:            Parliament_of_Pakistan
+    lower-house:                National Assembly
+    lower-house-art:            National_Assembly_of_Pakistan
+    lower-house-app:            Several<sup>2</sup>
+    upper-house:                Senate
+    upper-house-art:            Senate_of_Pakistan
+    upper-house-app:            Several<sup>3</sup>
+    house-powers:               LH>UH (UH can reject all but money bills; LH has exec power)
+
   - country:                    Papua New Guinea
     sysofgov:                   Devolved <abbr title="parliamentary constitutional monarchy">PCM</abbr>
     legislature:                National Parliament
@@ -248,7 +260,7 @@ body:
     lower-house-app:            <a href='https://en.wikipedia.org/wiki/Panachage' link='_blank'>FLPLPR</a>
     upper-house:                Council of States
     upper-house-art:            Council_of_States_(Switzerland)
-    upper-house-app:            <abbr title="first-past-the-post">FPTP</abbr> (24/26 cantons), <abbr title="proportional representation">PRep</abbr> (2 cantons)<sup>2</sup>
+    upper-house-app:            <abbr title="first-past-the-post">FPTP</abbr> (24/26 cantons), <abbr title="proportional representation">PRep</abbr> (2 cantons)<sup>4</sup>
     house-powers:               LH=UH
 
   - country:                    United Kingdom
@@ -261,7 +273,7 @@ body:
     lower-house-app-art:        First-past-the-post
     upper-house:                House of Lords
     upper-house-app:     
-      Appointed by varying methods.<sup>3</sup>
+      Appointed by varying methods.<sup>5</sup>
     house-powers:               LH&#8811;UH (UH can only delay)
     house-legislative-powers:   7
 
