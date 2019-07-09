@@ -189,6 +189,19 @@ body:
     lower-house-app-art:        Mixed-member_proportional_representation
     upper-house-abolition-date: 1951
 
+  - country:                    Nigera
+    sysofgov:                   Federal <abbr title="presidential republic">PR</abbr>
+    legislature:                National Assembly
+    legislature-art:            National_Assembly_of_Nigeria
+    lower-house:                House of Representatives
+    lower-house-art:            House_of_Representatives_of_Nigeria
+    lower-house-app:            <abbr title="First-past-the-post">FPTP</abbr>
+    upper-house:                Senate
+    upper-house-art:            Senate_of_Nigeria
+    upper-house-app:            Plurality-at-large voting
+    upper-house-app-art:        Plurality-at-large_voting
+    house-powers:               UH=LH (legislative)<sup>2</sup>
+
   - country:                    Norway
     sysofgov:                   Unitary <abbr title="parliamentary constitutional monarchy">PCM</abbr>
     legislature:                Storting
@@ -201,10 +214,10 @@ body:
     legislature-art:            Parliament_of_Pakistan
     lower-house:                National Assembly
     lower-house-art:            National_Assembly_of_Pakistan
-    lower-house-app:            Several<sup>2</sup>
+    lower-house-app:            Several<sup>3</sup>
     upper-house:                Senate
     upper-house-art:            Senate_of_Pakistan
-    upper-house-app:            Several<sup>3</sup>
+    upper-house-app:            Several<sup>4</sup>
     house-powers:               LH>UH (UH can reject all but money bills; LH has exec power)
 
   - country:                    Papua New Guinea
@@ -260,7 +273,7 @@ body:
     lower-house-app:            <a href='https://en.wikipedia.org/wiki/Panachage' link='_blank'>FLPLPR</a>
     upper-house:                Council of States
     upper-house-art:            Council_of_States_(Switzerland)
-    upper-house-app:            <abbr title="first-past-the-post">FPTP</abbr> (24/26 cantons), <abbr title="proportional representation">PRep</abbr> (2 cantons)<sup>4</sup>
+    upper-house-app:            <abbr title="first-past-the-post">FPTP</abbr> (24/26 cantons), <abbr title="proportional representation">PRep</abbr> (2 cantons)<sup>5</sup>
     house-powers:               LH=UH
 
   - country:                    United Kingdom
@@ -273,7 +286,7 @@ body:
     lower-house-app-art:        First-past-the-post
     upper-house:                House of Lords
     upper-house-app:     
-      Appointed by varying methods.<sup>5</sup>
+      Appointed by varying methods.<sup>6</sup>
     house-powers:               LH&#8811;UH (UH can only delay)
     house-legislative-powers:   7
 
