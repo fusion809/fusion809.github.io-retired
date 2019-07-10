@@ -207,7 +207,7 @@ body:
     upper-house:                Legislative Council
     upper-house-art:            Tasmanian_Legislative_Council
     upper-house-members-no:     "15"
-    upper-house-app:            <a href='https://en.wikipedia.org/wiki/Instant-runoff_voting' link='_blank'>FPV</a>
+    upper-house-app:            <a href='https://en.wikipedia.org/wiki/Instant-runoff_voting' link='_blank'>OPV</a><sup><a href="#ref6">6</a></sup>
     upper-house-term-length:    6 years
     house-powers:               Seemingly much the same as federal (see <a href='https://www.legislation.tas.gov.au/view/html/inforce/current/act-1934-094#GS42@EN' link='_blank'>sec 42 of the Const.</a>).
 
@@ -245,7 +245,7 @@ body:
     legislature-art:            Parliament_of_Western_Australia
     lower-house:                Legislative Assembly
     lower-house-art:            Western_Australian_Legislative_Assembly
-    lower-house-app:            <a href='https://en.wikipedia.org/wiki/Instant-runoff_voting' link='_blank'>FPV</a><sup id='sup6'><a href="#ref6">6</a></sup>
+    lower-house-app:            <a href='https://en.wikipedia.org/wiki/Instant-runoff_voting' link='_blank'>FPV</a><sup id='sup7'><a href="#ref7">7</a></sup>
     lower-house-members-no:     "59"
     lower-house-term-length:    "4 years"
     upper-house:                Legislative Council
