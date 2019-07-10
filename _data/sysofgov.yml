@@ -20,7 +20,7 @@ body:
     head-of-state-gov-app-method: Direct popular vote, by TRS
     legislature:                Congress
     legislature-art:            National_Congress_of_Argentina
-    legislature-app-methods:    CLPLPR (LH), Limited voting (UH)
+    legislature-app-methods:    CLPLPR (LH); Limited voting (UH)
     lower-house:                Chamber of Deputies
     lower-house-art:            Argentine_Chamber_of_Deputies
     lower-house-app:            CLPLPR
@@ -45,7 +45,7 @@ body:
     head-of-government-app-method: Leader of the party/coalition that occupies most seats in LH.
     legislature:                Parliament
     legislature-art:            Parliament_of_Australia
-    legislature-app-methods:    IRV (LH), STV (UH)
+    legislature-app-methods:    IRV (LH); STV (UH)
     lower-house:                House of Representatives
     lower-house-art:            Australian_House_of_Representatives
     lower-house-app:            IRV
@@ -68,7 +68,7 @@ body:
     head-of-state-gov-app-method: Elected by legislature by TRS
     legislature:                National Congress
     legislature-art:            National_Congress_of_Brazil
-    legislature-app-methods:    OLPLPR (LH), PLV (UH)
+    legislature-app-methods:    OLPLPR (LH); PLV (UH)
     lower-house:                Chamber of Deputies
     lower-house-art:            Chamber_of_Deputies_(Brazil)
     lower-house-app:            OLPLPR
@@ -85,8 +85,15 @@ body:
     constitution:               https://www.constituteproject.org/constitution/Canada_2011.pdf?lang=en
     constitution-format:        PDF
     sysofgov:                   Federal <abbr title="parliamentary constitutional monarchy">PCM</abbr>
+    head-of-state:              Governor General
+    head-of-state-art:          Governor_General_of_Canada
+    head-of-state-app-method:   Appointed by monarch, on the recommendation of PM
+    head-of-government:         Prime Minister
+    head-of-government-art:     Prime_Minister_of_Canada
+    head-of-government-app-method: Leader of the party/coalition that occupies most seats in LH.
     legislature:                Parliament
     legislature-art:            Parliament_of_Canada
+    legislature-app-methods:    FPTP (LH); by GG on recommendation of PM (UH)
     lower-house:                House of Commons
     lower-house-art:            House_of_Commons_of_Canada
     lower-house-app:            FPTP
@@ -96,6 +103,8 @@ body:
     upper-house-app:            By GG on recommendation of PM
     house-powers:               LH>UH (LH has exec power; UH has less money bill power)
     house-legislative-powers:   2
+    judiciary:                  Chief Justice of the Supreme Court
+    judiciary-art:              Chief_Justice_of_Canada
 
   - country:                    France
     sysofgov:                   Devolved <abbr title="premier-presidential republic">PPR</abbr>
