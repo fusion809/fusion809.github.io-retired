@@ -1,4 +1,4 @@
-caption:                        Table 1&#58; National legislatures of several notable countries
+caption:                        Table 2&#58; Overview of the systems of government of several notable countries
 country-width:                  140
 sysofgov-width:                 120
 legislature-width:              220
@@ -12,9 +12,15 @@ house-powers-width:             220
 body:
 
   - country:                    Argentina
+    constitution:               http://www.biblioteca.jus.gov.ar/Argentina-Constitution.pdf
+    constitution-format:        PDF
     sysofgov:                   Federal <abbr title="presidential republic">PR</abbr>
+    head-of-state-gov:          President
+    head-of-state-gov-art:      President_of_Argentina
+    head-of-state-gov-app-method: Direct popular vote, by TRS
     legislature:                Congress
     legislature-art:            National_Congress_of_Argentina
+    legislature-app-methods:    CLPLPR (LH), Limited voting (UH)
     lower-house:                Chamber of Deputies
     lower-house-art:            Argentine_Chamber_of_Deputies
     lower-house-app:            CLPLPR
@@ -24,13 +30,22 @@ body:
     upper-house-app:            Limited voting
     upper-house-app-art:        Limited_voting
     house-powers:               LH&approx;UH (distinct powers)
-
+    judiciary:                  <a href='https://en.wikipedia.org/wiki/Supreme_Court_of_Argentina#Current_Justices' link='_blank'>President of the Supreme Court</a>
     # House powers source is http://d-scholarship.pitt.edu/16492/1/Kikuchi_etd.pdf
 
   - country:                    Australia
+    constitution:               https://www.aph.gov.au/About_Parliament/Senate/Powers_practice_n_procedures/Constitution
     sysofgov:                   Federal <abbr title="parliamentary constitutional monarchy">PCM</abbr>
+    head-of-state:              Governor-General
+    head-of-state-art:          Governor-General_of_Australia
+    head-of-state-app-method:   By monarch on the recommendation of PM.
+    head-of-state-powers:       <b>de jure</b>&#58; head of executive branch, gives assent to legislative, appoints many officials, commander-in-chief of armed forces.<br/> <b>de facto</b>&#58; By convention only acts, except in exceptional circumstances, on the advice of the ministers/Parliament. 
+    head-of-government:         Prime Minister
+    head-of-government-art:     Prime_Minister_of_Australia
+    head-of-government-app-method: Leader of the party/coalition that occupies most seats in LH.
     legislature:                Parliament
     legislature-art:            Parliament_of_Australia
+    legislature-app-methods:    IRV (LH), STV (UH)
     lower-house:                House of Representatives
     lower-house-art:            Australian_House_of_Representatives
     lower-house-app:            IRV
@@ -41,11 +56,19 @@ body:
     upper-house-app-art:        Single_transferable_vote
     house-powers:               LH>UH (LH has exec power; UH has less money bill power)
     house-legislative-powers:   2
+    judiciary:                  Chief Justice of the High Court
+    judiciary-art:              Chief_Justice_of_Australia
 
   - country:                    Brazil
+    constitution:               https://www.constituteproject.org/constitution/Brazil_2014.pdf
+    constitution-format:        PDF
     sysofgov:                   Federal <abbr title="presidential republic">PR</abbr>
+    head-of-state-gov:          President
+    head-of-state-gov-art:      President_of_Brazil
+    head-of-state-gov-app-method: Elected by legislature by TRS
     legislature:                National Congress
     legislature-art:            National_Congress_of_Brazil
+    legislature-app-methods:    OLPLPR (LH), PLV (UH)
     lower-house:                Chamber of Deputies
     lower-house-art:            Chamber_of_Deputies_(Brazil)
     lower-house-app:            OLPLPR
@@ -55,8 +78,12 @@ body:
       <a href="https://en.wikipedia.org/wiki/Plurality_voting" link="_blank">PLV</a>&#58; alternating every 4 years<br/> between <a href="https://en.wikipedia.org/wiki/First-past-the-post" link="_blank">FPTP</a> and <a href="https://en.wikipedia.org/wiki/Plurality-at-large_voting" link="_blank">block voting</a>. 
     house-powers:               LH<UH (UH approves appointments by pres; tries pres in trials; <i>etc.</i>)
     house-legislative-powers:   1
+    judiciary:                  Chief Justice of the Supreme Federal Court
+    judiciary-art:              Supreme_Federal_Court#President_of_the_Court
 
   - country:                    Canada
+    constitution:               https://www.constituteproject.org/constitution/Canada_2011.pdf?lang=en
+    constitution-format:        PDF
     sysofgov:                   Federal <abbr title="parliamentary constitutional monarchy">PCM</abbr>
     legislature:                Parliament
     legislature-art:            Parliament_of_Canada
