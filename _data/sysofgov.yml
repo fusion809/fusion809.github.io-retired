@@ -17,7 +17,7 @@ body:
     sysofgov:                   Federal <abbr title="presidential republic">PR</abbr>
     head-of-state-gov:          President
     head-of-state-gov-art:      President_of_Argentina
-    head-of-state-gov-app-method: Direct popular vote, by TRS
+    head-of-state-gov-app-method: Direct popular vote, by TRV
     legislature:                Congress
     legislature-art:            National_Congress_of_Argentina
     legislature-app-methods:    CLPLPR (LH); Limited voting (UH)
@@ -65,7 +65,7 @@ body:
     sysofgov:                   Federal <abbr title="presidential republic">PR</abbr>
     head-of-state-gov:          President
     head-of-state-gov-art:      President_of_Brazil
-    head-of-state-gov-app-method: Elected by legislature by TRS
+    head-of-state-gov-app-method: Elected by legislature by TRV
     legislature:                National Congress
     legislature-art:            National_Congress_of_Brazil
     legislature-app-methods:    OLPLPR (LH); PLV (UH)
@@ -88,12 +88,13 @@ body:
     head-of-state:              Governor General
     head-of-state-art:          Governor_General_of_Canada
     head-of-state-app-method:   Appointed by monarch, on the recommendation of PM
+    head-of-state-powers:       <b>de jure</b>&#58; head of executive branch, gives assent to legislative, appoints many officials, commander-in-chief of armed forces.<br/> <b>de facto</b>&#58; By convention only acts, except in exceptional circumstances, on the advice of the ministers/Parliament. 
     head-of-government:         Prime Minister
     head-of-government-art:     Prime_Minister_of_Canada
     head-of-government-app-method: Leader of the party/coalition that occupies most seats in LH.
     legislature:                Parliament
     legislature-art:            Parliament_of_Canada
-    legislature-app-methods:    FPTP (LH); by GG on recommendation of PM (UH)
+    legislature-app-methods:    FPTP (LH); by GG on the recommendation of the PM (UH)
     lower-house:                House of Commons
     lower-house-art:            House_of_Commons_of_Canada
     lower-house-app:            FPTP
@@ -107,9 +108,19 @@ body:
     judiciary-art:              Chief_Justice_of_Canada
 
   - country:                    France
+    constitution:               https://www.constituteproject.org/constitution/France_2008.pdf?lang=en
+    constitution-format:        PDF
     sysofgov:                   Devolved <abbr title="premier-presidential republic">PPR</abbr>
+    head-of-state:              President
+    head-of-state-art:          President_of_the_French_Republic
+    head-of-state-app-method:   Direct popular vote by TRV.
+    head-of-state-powers:       Commander-in-chief of armed forces; presides over foreign policy; appoints ministers, among other officials; gives pardons; can dissolve the National Assembly; can invoke emergency powers (like martial law), <i>etc.</i>
+    head-of-government:         Prime Minister
+    head-of-government-art:     Prime_Minister_of_France
+    head-of-government-app-method: By president, based on their ability to command the confidence of the National Assembly.
     legislature:                Parliament
     legislature-art:            Parliament_of_France
+    legislature-app-methods:    TRV (LH); by several different types of elected officials (UH).
     lower-house:                National Assembly
     lower-house-art:            National_Assembly_(France)
     lower-house-app:            TRV
@@ -119,6 +130,8 @@ body:
     upper-house-app:            By elected officials.
     house-powers:               LH>UH (LH has exec power; LH can overrule UH in some cases of deadlock)
     house-legislative-powers:   3
+    judiciary:                  Chief Justice of the Court of Cassation
+    judiciary-art:              Court_of_Cassation_(France)#Judges_and_divisions
 
   - country:                    Germany
     sysofgov:                   Federal <abbr title="parliamentary republic with a ceremonial presidency">PRCP</abbr>
