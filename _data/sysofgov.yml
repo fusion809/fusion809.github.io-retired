@@ -134,18 +134,32 @@ body:
     judiciary-art:              Court_of_Cassation_(France)#Judges_and_divisions
 
   - country:                    Germany
+    constitution:               https://www.constituteproject.org/constitution/German_Federal_Republic_2012.pdf
+    constitution-format:        PDF
     sysofgov:                   Federal <abbr title="parliamentary republic with a ceremonial presidency">PRCP</abbr>
+    head-of-state:              President
+    head-of-state-art:          President_of_Germany
+    head-of-state-app-method:   Federal Convention
+    head-of-state-powers:       Largely ceremonial; promulgates laws (full theoretical veto powers), appoints many officials (including Chancellor), can dissolve LH in certain circumstances and, in some cases, can promulgate laws that have only passed through UH. 
+    head-of-government:         Chancellor
+    head-of-government-art:     Chancellor_of_Germany
+    head-of-government-app-method: Elected by LH; only dismissed by constructive vote of no confidence.
     legislature:                Bundestag
     legislature-app:            MMPR
     legislature-app-art:        Mixed-member_proportional_representation
+    legislature-app-methods:    MMPR (LH), by Länder (state) governments (UH)
     upper-house:                Bundesrat
     upper-house-art:            Bundesrat_of_Germany
     upper-house-app:     
       By <a href="https://en.wikipedia.org/wiki/States_of_Germany" link="_blank">state</a> officials.
     house-powers:               LH>UH (UH approval only needed in some cases; LH has exec power)
     house-legislative-powers:   5
+    judiciary:                  President of the Federal Constitutional Court
+    judiciary-art:              Federal_Constitutional_Court#President_of_the_court
 
   - country:                    Iceland
+    constitution:               https://www.constituteproject.org/constitution/Iceland_2013.pdf?lang=en
+    constitution-format:        PDF
     sysofgov:                   Unitary <abbr title="parliamentary republic with a ceremonial presidency">PRCP</abbr>
     legislature:                Althing
     legislature-app:            OLPLPR
