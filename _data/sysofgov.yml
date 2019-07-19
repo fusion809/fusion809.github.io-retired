@@ -159,10 +159,21 @@ body:
   - country:                    Iceland
     constitution:               https://www.constituteproject.org/constitution/Iceland_2013.pdf?lang=en
     constitution-format:        PDF
+    head-of-state:              President
+    head-of-state-art:          President_of_Iceland
+    head-of-state-app-method:   FPTP
+    head-of-state-powers:       Appoints and dismisses ministers; promulgates legislation (veto power exists, but may be overriden by Parliament); appoints civil servants; ratifies treaties; may submit bills to Parliament; may dissolve Parliament; grants pardons, amnesty and halt prosecutions. Usually acts on the advice of ministers. 
+    head-of-government:         Prime Minister
+    head-of-government-art:     Prime_Minister_of_Iceland
+    head-of-government-app-method: Nominated by governing party/coalition and appointed by President.
     sysofgov:                   Unitary <abbr title="parliamentary republic with a ceremonial presidency">PRCP</abbr>
     legislature:                Althing
     legislature-app:            OLPLPR
     legislature-app-art:        Open_list
+    legislature-app-methods:    OLPLPR
+    house-powers:               N/A
+    judiciary:                  President of the Supreme Court
+    judiciary-art:              Supreme_Court_of_Iceland
 
   - country:                    India
     sysofgov:                   Federal <abbr title="parliamentary republic with a ceremonial presidency">PRCP</abbr>
