@@ -39,7 +39,7 @@ body:
     head-of-state:              Governor-General
     head-of-state-art:          Governor-General_of_Australia
     head-of-state-app-method:   By monarch on the recommendation of PM.
-    head-of-state-powers:       <b>de jure</b>&#58; head of executive branch, gives assent to legislative, appoints many officials, commander-in-chief of armed forces.<br/> <b>de facto</b>&#58; By convention only acts, except in exceptional circumstances, on the advice of the ministers/Parliament. 
+    head-of-state-powers:       <b><i>de jure</i></b>&#58; head of executive branch, gives assent to legislative, appoints many officials, commander-in-chief of armed forces.<br/> <b><i>de facto</i></b>&#58; By convention only acts, except in exceptional circumstances, on the advice of the ministers/Parliament. 
     head-of-government:         Prime Minister
     head-of-government-art:     Prime_Minister_of_Australia
     head-of-government-app-method: Leader of the party/coalition that occupies most seats in LH.
@@ -88,7 +88,7 @@ body:
     head-of-state:              Governor General
     head-of-state-art:          Governor_General_of_Canada
     head-of-state-app-method:   Appointed by monarch, on the recommendation of PM
-    head-of-state-powers:       <b>de jure</b>&#58; head of executive branch, gives assent to legislative, appoints many officials, commander-in-chief of armed forces.<br/> <b>de facto</b>&#58; By convention only acts, except in exceptional circumstances, on the advice of the ministers/Parliament. 
+    head-of-state-powers:       <b><i>de jure</i></b>&#58; head of executive branch, gives assent to legislative, appoints many officials, commander-in-chief of armed forces.<br/> <b><i>de facto</i></b>&#58; By convention only acts, except in exceptional circumstances, on the advice of the ministers/Parliament. 
     head-of-government:         Prime Minister
     head-of-government-art:     Prime_Minister_of_Canada
     head-of-government-app-method: Leader of the party/coalition that occupies most seats in LH.
@@ -134,13 +134,12 @@ body:
     judiciary-art:              Court_of_Cassation_(France)#Judges_and_divisions
 
   - country:                    Germany
-    constitution:               https://www.constituteproject.org/constitution/German_Federal_Republic_2012.pdf
-    constitution-format:        PDF
+    constitution:               https://www.gesetze-im-internet.de/englisch_gg/englisch_gg.html
     sysofgov:                   Federal <abbr title="parliamentary republic with a ceremonial presidency">PRCP</abbr>
     head-of-state:              President
     head-of-state-art:          President_of_Germany
     head-of-state-app-method:   Federal Convention
-    head-of-state-powers:       Largely ceremonial; promulgates laws (full theoretical veto powers), appoints many officials (including Chancellor), can dissolve LH in certain circumstances and, in some cases, can promulgate laws that have only passed through UH. 
+    head-of-state-powers:       <b><i>de jure</i></b>&#58; promulgates laws (full theoretical veto powers); appoints many officials (including Chancellor); can dissolve LH in certain circumstances; and, in some cases, can promulgate laws that have only passed through UH.<br/><b><i>de facto</i></b>&#58; largely ceremonial powers, as they usually follow the advice of the Chancellor, ministers and Parliament. 
     head-of-government:         Chancellor
     head-of-government-art:     Chancellor_of_Germany
     head-of-government-app-method: Elected by LH; only dismissed by constructive vote of no confidence.
