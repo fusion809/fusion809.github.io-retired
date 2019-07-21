@@ -178,24 +178,30 @@ body:
     judiciary-art:                  Supreme_Court_of_Iceland
 
   - country:                        India
-    constitution:                   https://www.india.gov.in/my-government/constitution-india/constitution-india-full-text
+    constitution:                   https://www.constituteproject.org/constitution/India_2015.pdf
+    constitution-format:            PDF
     sysofgov:                       Federal <abbr title="parliamentary republic with a ceremonial presidency">PRCP</abbr>
     head-of-state:                  President
     head-of-state-art:              President_of_India
     head-of-state-app-method:       Electoral College.
     head-of-state-app-method-art:   Electoral_College_of_India
-    head-of-state-powers:           <b><i>de jure</i></b>&#58; many, including promulgates laws, 
+    head-of-state-powers:           <b><i>de jure</i></b>&#58; many, including promulgating laws; commander-in-chief of armed forces; head of executive branch; appoints many officials including justices of the Supreme Court and ministers; can dissolve <abbr title="lower house">LH</abbr>; appoints 12 members of the 245-member <abbr title="upper house">UH</abbr>.<br/><b><i>de facto</i></b>&#58; mostly ceremonial, as they largely act on the advice of the ministers or Parliament.
     head-of-government:             Prime Minister
+    head-of-government-art:         Prime_Minister_of_India
+    head-of-government-app-method:  President, based on their ability to command the confidence of the <abbr title="lower house">LH</abbr>.
     legislature:                    Parliament
     legislature-art:                Parliament_of_India
+    legislature-app-methods:        <abbr title="first-past-the-post">FPTP</abbr> (<abbr title="lower house">LH</abbr>), 233 by <a href="https://en.wikipedia.org/wiki/Single_transferable_vote" link="_blank">STV</a> in state/territory legislatures and 12 by the <a href="https://en.wikipedia.org/wiki/President_of_India" link="_blank">president</a> (<abbr title="upper house">UH</abbr>).
     lower-house:                    Lok Sabha
     lower-house-app:                FPTP
     lower-house-app-art:            First-past-the-post
     upper-house:                    Rajya Sabha
     upper-house-app:            
-      233 by <a href="https://en.wikipedia.org/wiki/Single_transferable_vote" link="_blank">STV</a>, 12 by <a href="https://en.wikipedia.org/wiki/President_of_India" link="_blank">president</a>.
+      233 by <a href="https://en.wikipedia.org/wiki/Single_transferable_vote" link="_blank">STV</a>, 12 by the <a href="https://en.wikipedia.org/wiki/President_of_India" link="_blank">president</a>.
     house-powers:                   <abbr title="lower house">LH</abbr>><abbr title="upper house">UH</abbr>
     house-legislative-powers:       2
+    judiciary:                      Chief Justice of the Supreme Court
+    judiciary-art:                  Chief_Justice_of_India
 
   - country:                        Indonesia
     sysofgov:                       Devolved <abbr title="presidential republic">PR</abbr>
