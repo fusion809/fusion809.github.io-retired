@@ -1,13 +1,16 @@
 caption:                              Table 2&#58; Overview of the systems of government of several notable countries
 country-width:                        140
 sysofgov-width:                       120
-legislature-width:                    220
+head-of-government-app-method-width:  200
+legislature-width:                    180
 lower-house-width:                    220
 lower-house-app-method-width:         230
 upper-house-width:                    225
 upper-house-app-method-width:         270
 house-legislative-powers-width:       260
 house-powers-width:                   220
+house-powers-table2-width:            200
+judiciary-width:                      150
 
 body:
 
@@ -140,7 +143,7 @@ body:
     head-of-state-art:                President_of_Germany
     head-of-state-app-method:         Federal Convention
     head-of-state-app-method-art:     Federal_Convention_(Germany)
-    head-of-state-powers:             <b><i>de jure</i></b>&#58; promulgates laws (full theoretical veto powers); appoints many officials (including Chancellor); can dissolve <abbr title="lower house">LH</abbr> in certain circumstances; and, in some cases, can promulgate laws that have only passed through <abbr title="upper house">UH</abbr>.<br/><b><i>de facto</i></b>&#58; largely ceremonial powers, as they usually follow the advice of the Chancellor, ministers and Parliament. 
+    head-of-state-powers:             <b><i>de jure</i></b>&#58; promulgates laws (complete veto powers); appoints many officials (including Chancellor); can dissolve <abbr title="lower house">LH</abbr> in certain circumstances; and, in some cases, can promulgate laws that have only passed through the <abbr title="upper house">UH</abbr>.<br/><b><i>de facto</i></b>&#58; largely ceremonial powers, as they usually follow the advice of the Chancellor, ministers and Parliament. 
     head-of-government:               Chancellor
     head-of-government-art:           Chancellor_of_Germany
     head-of-government-app-method:    Elected by <abbr title="lower house">LH</abbr>; only dismissed by constructive vote of no confidence.
@@ -172,7 +175,7 @@ body:
     legislature-app:                  <abbr title="open list party-list proportional representation">OLPLPR</abbr>
     legislature-app-art:              Open_list
     legislature-app-methods:          <abbr title="open list party-list proportional representation">OLPLPR</abbr>
-    house-powers:                     N/A
+    house-powers:                     N/A (unicameral)
     judiciary:                        President of the Supreme Court
     judiciary-art:                    Supreme_Court_of_Iceland
 
@@ -210,15 +213,18 @@ body:
     head-of-state-gov-art:            President_of_Indonesia
     head-of-state-gov-app-method:     <abbr title="two-round voting">TRV</abbr>
     head-of-state-gov-app-method-art: Two-round_system
-    legislature:                      People's Consultative Assembly
+    legislature:                      <font size='2.5'>People's Consultative Assembly</font>
+    legislature-app-methods:          <abbr title="open list party-list proportional representation">OLPLPR</abbr> (<abbr title="lower house">LH</abbr>), <abbr title="single non-transferable vote">SNTV</abbr> (<abbr title="upper house">UH</abbr>)
     lower-house:                      People's Representative Council
     lower-house-app:                  <abbr title="open list party-list proportional representation">OLPLPR</abbr>
     lower-house-app-art:              Open_list
     upper-house:                      Regional Representative Council
-    upper-house-app:                  SNTV
+    upper-house-app:                  <abbr title="single non-transferable vote">SNTV</abbr>
     upper-house-app-art:              Single_non-transferable_vote
     house-powers:                     <abbr title="lower house">LH</abbr>>><abbr title="upper house">UH</abbr>
     house-legislative-powers:         5
+    judiciary:                        Chief Justice of the Supreme Court
+    judiciary-art:                    Chief_Justice_of_the_Supreme_Court_of_Indonesia
 
   - country:                          Ireland
     sysofgov:                         Unitary <abbr title="parliamentary republic with a ceremonial presidency">PRCP</abbr>
