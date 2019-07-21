@@ -238,12 +238,9 @@
 				<font color="#000000" size="3" face="Liberation Serif, serif" style="font-size: 12pt;">
 					<span style="text-decoration: none"><span style="font-size: 20px;"><b>Footnotes</b></span><br/>
 						<ol>
-							<li>11 are appointed by the Taoiseach (PM); 6 elected by uni grads; and the remaining 43 elected are via STV by MPs, outgoing senators and city/county council members.</li>
-							<li>{% include ref.html url="https://wipolex.wipo.int/en/text/179202" title="Constitution of the Federal Republic of Nigeria 1999" date="1999" article="58" subsection="2" accessdate="9 July 2019" publisher="World Intellectual Property Organization" %}</li>
-							<li>Most by <abbr title="first-past-the-post">FPTP</abbr>, some seats reserved for women and the remainder are reserved for minorities elected by proportional representation.</li>
-							<li>14 elected by provincial assemblies (4 technocrats; 4 women); 1 reserved for a woman; 1 technocrat; 1 reserved for minorities in each province; rest elected by single transferable vote.</li>
-							<li>{% include ref.html title="Elections to the Council of States, organisation, responsibilities" url="https://web.archive.org/web/20180708192330/https://www.ch.ch/en/elections2015/organisation/council-of-states/" website="www.ch.ch" date="October 2015" accessdate="1 July 2019" %}</li>
-							<li>Some are appointed by the monarch, some inherit the role, some are church officials, <i>etc.</i></li>
+							{% for row in site.data.sysofgov.footnotes %}
+							<li>{{ row.entry }}</li>
+							{% endfor %}
 						</ol>
 					<span style="font-size: 20px;"><b>Acronyms</b></span><br/>
 						<!--a/r: accept or reject.-->

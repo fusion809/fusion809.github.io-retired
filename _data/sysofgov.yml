@@ -227,12 +227,21 @@ body:
     judiciary-art:                    Chief_Justice_of_the_Supreme_Court_of_Indonesia
 
   - country:                          Ireland
+    constitution:                     http://www.irishstatutebook.ie/eli/cons/en/html
     sysofgov:                         Unitary <abbr title="parliamentary republic with a ceremonial presidency">PRCP</abbr>
+    head-of-state:                    President
+    head-of-state-art:                President_of_Ireland
+    head-of-state-app-method:         <abbr titlte="instant-runoff voting">IRV</abbr>
+    head-of-state-app-method-art:     Instant-runoff_voting
+    head-of-government:               Taoiseach
+    head-of-government-art:           Taoiseach
+    head-of-government-app-method:    Nominated by <abbr title="lower house">LH</abbr>, appointed by President.
     legislature:                      Oireachtas
+    legislature-app-methods:          <abbr title="single transferable vote">STV</abbr> (<abbr title="lower house">LH</abbr>) and various (<abbr title="upper house">UH</abbr>)<sup>2</sup>
     lower-house:                      Dáil Éireann
     lower-house-app:                  STV from 40 constituencies
     upper-house:                      Seanad Éireann
-    upper-house-app:                  Several<sup>1</sup>
+    upper-house-app:                  Several<sup>2</sup>
     house-powers:                     <abbr title="lower house">LH</abbr>>><abbr title="upper house">UH</abbr> (<abbr title="upper house">UH</abbr> can only delay)
 
   - country:                          Italy
@@ -299,7 +308,7 @@ body:
     upper-house-art:                  Senate_of_Nigeria
     upper-house-app:                  Plurality-at-large voting
     upper-house-app-art:              Plurality-at-large_voting
-    house-powers:                     <abbr title="upper house">UH</abbr>=<abbr title="lower house">LH</abbr> (legislative)<sup>2</sup>
+    house-powers:                     <abbr title="upper house">UH</abbr>=<abbr title="lower house">LH</abbr> (legislative)<sup>3</sup>
 
   - country:                          Norway
     sysofgov:                         Unitary <abbr title="parliamentary constitutional monarchy">PCM</abbr>
@@ -313,10 +322,10 @@ body:
     legislature-art:                  Parliament_of_Pakistan
     lower-house:                      National Assembly
     lower-house-art:                  National_Assembly_of_Pakistan
-    lower-house-app:                  Several<sup>3</sup>
+    lower-house-app:                  Several<sup>5</sup>
     upper-house:                      Senate
     upper-house-art:                  Senate_of_Pakistan
-    upper-house-app:                  Several<sup>4</sup>
+    upper-house-app:                  Several<sup>5</sup>
     house-powers:                     <abbr title="lower house">LH</abbr>><abbr title="upper house">UH</abbr> (<abbr title="upper house">UH</abbr> can reject all but money bills; <abbr title="lower house">LH</abbr> has exec power)
 
   - country:                          Papua New Guinea
@@ -373,7 +382,7 @@ body:
     lower-house-app:                  <a href='https://en.wikipedia.org/wiki/Panachage' link='_blank'>FLPLPR</a>
     upper-house:                      Council of States
     upper-house-art:                  Council_of_States_(Switzerland)
-    upper-house-app:                  <abbr title="first-past-the-post">FPTP</abbr> (24/26 cantons), <abbr title="proportional representation">PRep</abbr> (2 cantons)<sup>5</sup>
+    upper-house-app:                  <abbr title="first-past-the-post">FPTP</abbr> (24/26 cantons), <abbr title="proportional representation">PRep</abbr> (2 cantons)<sup>6</sup>
     house-powers:                     <abbr title="lower house">LH</abbr>=<abbr title="upper house">UH</abbr>
 
   - country:                          United Kingdom
@@ -386,7 +395,7 @@ body:
     lower-house-app-art:              First-past-the-post
     upper-house:                      House of Lords
     upper-house-app:     
-      Appointed by varying methods.<sup>6</sup>
+      Appointed by varying methods.<sup>7</sup>
     house-powers:                     <abbr title="lower house">LH</abbr>&#8811;<abbr title="upper house">UH</abbr> (<abbr title="upper house">UH</abbr> can only delay)
     house-legislative-powers:         7
 
@@ -402,3 +411,12 @@ body:
     upper-house-app:                  Varies by state—PLV, TRV, <i>etc.</i>
     house-powers:                     <abbr title="lower house">LH</abbr>&approx;<abbr title="upper house">UH</abbr> (distinct powers)
     house-legislative-powers:         2
+
+footnotes:
+  - entry: To simplify things, this is from a strictly pragmatic point of view, as in, who actually performs the functions of head of state?
+  - entry: 11 are appointed by the Taoiseach (<abbr title="Prime Minister">PM</abbr>); 6 elected by uni grads; and the remaining 43 elected are via STV by MPs, outgoing senators and city/county council members.
+  - entry: World Intellectual Property Organization (1999). &ldquo;<a href='https://wipolex.wipo.int/en/text/179202' link='_blank'>Article 58 (subsection 2)&#58; Constitution of the Federal Republic of Nigeria 1999</a>&rdquo;. World Intellectual Property Organization. Retrieved 9 July 2019.
+  - entry: Most by <abbr title="first-past-the-post">FPTP</abbr>, some seats reserved for women and the remainder are reserved for minorities elected by proportional representation.
+  - entry: 14 elected by provincial assemblies (4 technocrats; 4 women); 1 reserved for a woman; 1 technocrat; 1 reserved for minorities in each province; rest elected by single transferable vote.
+  - entry: Swiss Government (October 2015). &ldquo;<a href='https://web.archive.org/web/20180708192330/https://www.ch.ch/en/elections2015/organisation/council-of-states/' link='_blank'>Elections to the Council of States, organisation, responsibilities</a>&rdquo;. <i>www.ch.ch</i>. Retrieved 1 July 2019.
+  - entry: Some are appointed by the monarch, some inherit the role, some are church officials, <i>etc.</i>
