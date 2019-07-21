@@ -208,7 +208,7 @@
 			<p align="left" style="font-style: normal; font-weight: normal; text-decoration: none">
 				<font color="#000000" size="3" face="Liberation Serif, serif" style="font-size: 12pt;">
 					<span style="text-decoration: none;;">
-                        {{ row.head-of-state-app-method }}
+                        {% if row.head-of-state-app-method-art %}<a href="https://en.wikipedia.org/wiki/{{ row.head-of-state-app-method-art }}" link="_blank">{{ row.head-of-state-app-method }}</a>{% else %}{{ row.head-of-state-app-method }}{% endif %}
 					</span>
 				</font>
 			</p>
