@@ -29,7 +29,10 @@ This article is more for my benefit than anyone else's, it is mostly so that I c
 {% endcapture %}
 {{ electoral_systems | markdownify }}
 
-{% include_relative 05-table2-comparison-of-countries.html %}
+{% capture conclusions %}
+{% include_relative 05-conclusions.md %}
+{% endcapture %}
+{{ conclusions | markdownify }}
 
 {% include_relative 06-external-links.html %}
 
