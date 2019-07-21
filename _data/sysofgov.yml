@@ -1,393 +1,398 @@
-caption:                        
-  Table 2&#58; Overview of the systems of government of several notable countries
-country-width:                      140
-sysofgov-width:                     120
-legislature-width:                  220
-lower-house-width:                  220
-lower-house-app-method-width:       230
-upper-house-width:                  225
-upper-house-app-method-width:       270
-house-legislative-powers-width:     260
-house-powers-width:                 220
+caption:                              Table 2&#58; Overview of the systems of government of several notable countries
+country-width:                        140
+sysofgov-width:                       120
+legislature-width:                    220
+lower-house-width:                    220
+lower-house-app-method-width:         230
+upper-house-width:                    225
+upper-house-app-method-width:         270
+house-legislative-powers-width:       260
+house-powers-width:                   220
 
 body:
 
-  - country:                        Argentina
-    constitution:                   http://www.biblioteca.jus.gov.ar/Argentina-Constitution.pdf
-    constitution-format:            PDF
-    sysofgov:                       Federal <abbr title="presidential republic">PR</abbr>
-    head-of-state-gov:              President
-    head-of-state-gov-art:          President_of_Argentina
-    head-of-state-gov-app-method:   Direct popular vote, by <abbr title="two-round voting">TRV</abbr>
-    legislature:                    Congress
-    legislature-art:                National_Congress_of_Argentina
-    legislature-app-methods:        <abbr title="Closed list party-list proportional representation">CLPLPR</abbr> (<abbr title="lower house">LH</abbr>); Limited voting (<abbr title="upper house">UH</abbr>)
-    lower-house:                    Chamber of Deputies
-    lower-house-art:                Argentine_Chamber_of_Deputies
-    lower-house-app:                <abbr title="Closed list party-list proportional representation">CLPLPR</abbr>
-    lower-house-app-art:            Closed_list
-    upper-house:                    Senate
-    upper-house-art:                Argentine_Senate
-    upper-house-app:                Limited voting
-    upper-house-app-art:            Limited_voting
-    house-powers:                   <abbr title="lower house">LH</abbr>&approx;<abbr title="upper house">UH</abbr> (distinct powers)
-    judiciary:                      <a href='https://en.wikipedia.org/wiki/Supreme_Court_of_Argentina#Current_Justices' link='_blank'>President of the Supreme Court</a>
+  - country:                          Argentina
+    constitution:                     http://www.biblioteca.jus.gov.ar/Argentina-Constitution.pdf
+    constitution-format:              PDF
+    sysofgov:                         Federal <abbr title="presidential republic">PR</abbr>
+    head-of-state-gov:                President
+    head-of-state-gov-art:            President_of_Argentina
+    head-of-state-gov-app-method:     Direct popular vote, by <abbr title="two-round voting">TRV</abbr>
+    legislature:                      Congress
+    legislature-art:                  National_Congress_of_Argentina
+    legislature-app-methods:          <abbr title="Closed list party-list proportional representation">CLPLPR</abbr> (<abbr title="lower house">LH</abbr>); Limited voting (<abbr title="upper house">UH</abbr>)
+    lower-house:                      Chamber of Deputies
+    lower-house-art:                  Argentine_Chamber_of_Deputies
+    lower-house-app:                  <abbr title="Closed list party-list proportional representation">CLPLPR</abbr>
+    lower-house-app-art:              Closed_list
+    upper-house:                      Senate
+    upper-house-art:                  Argentine_Senate
+    upper-house-app:                  Limited voting
+    upper-house-app-art:              Limited_voting
+    house-powers:                     <abbr title="lower house">LH</abbr>&approx;<abbr title="upper house">UH</abbr> (distinct powers)
+    judiciary:                        <a href='https://en.wikipedia.org/wiki/Supreme_Court_of_Argentina#Current_Justices' link='_blank'>President of the Supreme Court</a>
     # House powers source is http://d-scholarship.pitt.edu/16492/1/Kikuchi_etd.pdf
 
-  - country:                        Australia
-    constitution:                   https://www.aph.gov.au/About_Parliament/Senate/Powers_practice_n_procedures/Constitution
-    sysofgov:                       Federal <abbr title="parliamentary constitutional monarchy">PCM</abbr>
-    head-of-state:                  Governor-General
-    head-of-state-art:              Governor-General_of_Australia
-    head-of-state-app-method:       By monarch on the recommendation of PM.
-    head-of-state-powers:           <b><i>de jure</i></b>&#58; head of executive branch, gives assent to legislative, appoints many officials, commander-in-chief of armed forces.<br/> <b><i>de facto</i></b>&#58; By convention only acts, except in exceptional circumstances, on the advice of the ministers/Parliament. 
-    head-of-government:             Prime Minister
-    head-of-government-art:         Prime_Minister_of_Australia
-    head-of-government-app-method:  Leader of the party/coalition that occupies most seats in <abbr title="lower house">LH</abbr>.
-    legislature:                    Parliament
-    legislature-art:                Parliament_of_Australia
-    legislature-app-methods:        <abbr title="instant-runoff voting">IRV</abbr> (<abbr title="lower house">LH</abbr>); STV (<abbr title="upper house">UH</abbr>)
-    lower-house:                    House of Representatives
-    lower-house-art:                Australian_House_of_Representatives
-    lower-house-app:                <abbr title="instant-runoff voting">IRV</abbr>
-    lower-house-app-art:            Instant-runoff_voting
-    upper-house:                    Senate
-    upper-house-art:                Australian_Senate
-    upper-house-app:                STV
-    upper-house-app-art:            Single_transferable_vote
-    house-powers:                   <abbr title="lower house">LH</abbr>><abbr title="upper house">UH</abbr> (<abbr title="lower house">LH</abbr> has exec power; <abbr title="upper house">UH</abbr> has less money bill power)
-    house-legislative-powers:       2
-    judiciary:                      Chief Justice of the High Court
-    judiciary-art:                  Chief_Justice_of_Australia
+  - country:                          Australia
+    constitution:                     https://www.aph.gov.au/About_Parliament/Senate/Powers_practice_n_procedures/Constitution
+    sysofgov:                         Federal <abbr title="parliamentary constitutional monarchy">PCM</abbr>
+    head-of-state:                    Governor-General
+    head-of-state-art:                Governor-General_of_Australia
+    head-of-state-app-method:         By monarch on the recommendation of PM.
+    head-of-state-powers:             <b><i>de jure</i></b>&#58; head of executive branch, gives assent to legislative, appoints many officials, commander-in-chief of armed forces.<br/> <b><i>de facto</i></b>&#58; By convention only acts, except in exceptional circumstances, on the advice of the ministers/Parliament. 
+    head-of-government:               Prime Minister
+    head-of-government-art:           Prime_Minister_of_Australia
+    head-of-government-app-method:    Leader of the party/coalition that occupies most seats in <abbr title="lower house">LH</abbr>.
+    legislature:                      Parliament
+    legislature-art:                  Parliament_of_Australia
+    legislature-app-methods:          <abbr title="instant-runoff voting">IRV</abbr> (<abbr title="lower house">LH</abbr>); STV (<abbr title="upper house">UH</abbr>)
+    lower-house:                      House of Representatives
+    lower-house-art:                  Australian_House_of_Representatives
+    lower-house-app:                  <abbr title="instant-runoff voting">IRV</abbr>
+    lower-house-app-art:              Instant-runoff_voting
+    upper-house:                      Senate
+    upper-house-art:                  Australian_Senate
+    upper-house-app:                  STV
+    upper-house-app-art:              Single_transferable_vote
+    house-powers:                     <abbr title="lower house">LH</abbr>><abbr title="upper house">UH</abbr> (<abbr title="lower house">LH</abbr> has exec power; <abbr title="upper house">UH</abbr> has less money bill power)
+    house-legislative-powers:         2
+    judiciary:                        Chief Justice of the High Court
+    judiciary-art:                    Chief_Justice_of_Australia
 
-  - country:                        Brazil
-    constitution:                   https://www.constituteproject.org/constitution/Brazil_2014.pdf
-    constitution-format:            PDF
-    sysofgov:                       Federal <abbr title="presidential republic">PR</abbr>
-    head-of-state-gov:              President
-    head-of-state-gov-art:          President_of_Brazil
-    head-of-state-gov-app-method:   Elected by legislature by TRV
-    legislature:                    National Congress
-    legislature-art:                National_Congress_of_Brazil
-    legislature-app-methods:        <abbr title="open list party-list proportional representation">OLPLPR</abbr> (<abbr title="lower house">LH</abbr>); PLV (<abbr title="upper house">UH</abbr>)
-    lower-house:                    Chamber of Deputies
-    lower-house-art:                Chamber_of_Deputies_(Brazil)
-    lower-house-app:                <abbr title="open list party-list proportional representation">OLPLPR</abbr>
-    lower-house-app-art:            Open_list
-    upper-house:                    Federal Senate
+  - country:                          Brazil
+    constitution:                     https://www.constituteproject.org/constitution/Brazil_2014.pdf
+    constitution-format:              PDF
+    sysofgov:                         Federal <abbr title="presidential republic">PR</abbr>
+    head-of-state-gov:                President
+    head-of-state-gov-art:            President_of_Brazil
+    head-of-state-gov-app-method:     Elected by legislature by TRV
+    legislature:                      National Congress
+    legislature-art:                  National_Congress_of_Brazil
+    legislature-app-methods:          <abbr title="open list party-list proportional representation">OLPLPR</abbr> (<abbr title="lower house">LH</abbr>); PLV (<abbr title="upper house">UH</abbr>)
+    lower-house:                      Chamber of Deputies
+    lower-house-art:                  Chamber_of_Deputies_(Brazil)
+    lower-house-app:                  <abbr title="open list party-list proportional representation">OLPLPR</abbr>
+    lower-house-app-art:              Open_list
+    upper-house:                      Federal Senate
     upper-house-app:     
       <a href="https://en.wikipedia.org/wiki/Plurality_voting" link="_blank">PLV</a>&#58; alternating every 4 years<br/> between <a href="https://en.wikipedia.org/wiki/First-past-the-post" link="_blank">FPTP</a> and <a href="https://en.wikipedia.org/wiki/Plurality-at-large_voting" link="_blank">block voting</a>. 
-    house-powers:                   <abbr title="lower house">LH</abbr><<abbr title="upper house">UH</abbr> (<abbr title="upper house">UH</abbr> approves appointments by pres; tries pres in trials; <i>etc.</i>)
-    house-legislative-powers:       1
-    judiciary:                      Chief Justice of the Supreme Federal Court
-    judiciary-art:                  Supreme_Federal_Court#President_of_the_Court
+    house-powers:                     <abbr title="lower house">LH</abbr><<abbr title="upper house">UH</abbr> (<abbr title="upper house">UH</abbr> approves appointments by pres; tries pres in trials; <i>etc.</i>)
+    house-legislative-powers:         1
+    judiciary:                        Chief Justice of the Supreme Federal Court
+    judiciary-art:                    Supreme_Federal_Court#President_of_the_Court
 
-  - country:                        Canada
-    constitution:                   https://www.constituteproject.org/constitution/Canada_2011.pdf?lang=en
-    constitution-format:            PDF
-    sysofgov:                       Federal <abbr title="parliamentary constitutional monarchy">PCM</abbr>
-    head-of-state:                  Governor General
-    head-of-state-art:              Governor_General_of_Canada
-    head-of-state-app-method:       Appointed by monarch, on the recommendation of PM
-    head-of-state-powers:           <b><i>de jure</i></b>&#58; head of executive branch, gives assent to legislative, appoints many officials, commander-in-chief of armed forces.<br/> <b><i>de facto</i></b>&#58; By convention only acts, except in exceptional circumstances, on the advice of the ministers/Parliament. 
-    head-of-government:             Prime Minister
-    head-of-government-art:         Prime_Minister_of_Canada
-    head-of-government-app-method:  Leader of the party/coalition that occupies most seats in <abbr title="lower house">LH</abbr>.
-    legislature:                    Parliament
-    legislature-art:                Parliament_of_Canada
-    legislature-app-methods:        FPTP (<abbr title="lower house">LH</abbr>); by GG on the recommendation of the PM (<abbr title="upper house">UH</abbr>)
-    lower-house:                    House of Commons
-    lower-house-art:                House_of_Commons_of_Canada
-    lower-house-app:                FPTP
-    lower-house-app-art:            First-past-the-post
-    upper-house:                    Senate
-    upper-house-art:                Senate_of_Canada
-    upper-house-app:                By GG on recommendation of PM
-    house-powers:                   <abbr title="lower house">LH</abbr>><abbr title="upper house">UH</abbr> (<abbr title="lower house">LH</abbr> has exec power; <abbr title="upper house">UH</abbr> has less money bill power)
-    house-legislative-powers:       2
-    judiciary:                      Chief Justice of the Supreme Court
-    judiciary-art:                  Chief_Justice_of_Canada
+  - country:                          Canada
+    constitution:                     https://www.constituteproject.org/constitution/Canada_2011.pdf?lang=en
+    constitution-format:              PDF
+    sysofgov:                         Federal <abbr title="parliamentary constitutional monarchy">PCM</abbr>
+    head-of-state:                    Governor General
+    head-of-state-art:                Governor_General_of_Canada
+    head-of-state-app-method:         Appointed by monarch, on the recommendation of PM
+    head-of-state-powers:             <b><i>de jure</i></b>&#58; head of executive branch, gives assent to legislative, appoints many officials, commander-in-chief of armed forces.<br/> <b><i>de facto</i></b>&#58; By convention only acts, except in exceptional circumstances, on the advice of the ministers/Parliament. 
+    head-of-government:               Prime Minister
+    head-of-government-art:           Prime_Minister_of_Canada
+    head-of-government-app-method:    Leader of the party/coalition that occupies most seats in <abbr title="lower house">LH</abbr>.
+    legislature:                      Parliament
+    legislature-art:                  Parliament_of_Canada
+    legislature-app-methods:          FPTP (<abbr title="lower house">LH</abbr>); by GG on the recommendation of the PM (<abbr title="upper house">UH</abbr>)
+    lower-house:                      House of Commons
+    lower-house-art:                  House_of_Commons_of_Canada
+    lower-house-app:                  FPTP
+    lower-house-app-art:              First-past-the-post
+    upper-house:                      Senate
+    upper-house-art:                  Senate_of_Canada
+    upper-house-app:                  By GG on recommendation of PM
+    house-powers:                     <abbr title="lower house">LH</abbr>><abbr title="upper house">UH</abbr> (<abbr title="lower house">LH</abbr> has exec power; <abbr title="upper house">UH</abbr> has less money bill power)
+    house-legislative-powers:         2
+    judiciary:                        Chief Justice of the Supreme Court
+    judiciary-art:                    Chief_Justice_of_Canada
 
-  - country:                        France
-    constitution:                   https://www.constituteproject.org/constitution/France_2008.pdf?lang=en
-    constitution-format:            PDF
-    sysofgov:                       Devolved <abbr title="premier-presidential republic">PPR</abbr>
-    head-of-state:                  President
-    head-of-state-art:              President_of_the_French_Republic
-    head-of-state-app-method:       Direct popular vote by TRV.
-    head-of-state-powers:           Commander-in-chief of armed forces; presides over foreign policy; appoints ministers, among other officials; gives pardons; can dissolve the National Assembly; can invoke emergency powers (like martial law), <i>etc.</i>
-    head-of-government:             Prime Minister
-    head-of-government-art:         Prime_Minister_of_France
-    head-of-government-app-method:  By president, based on their ability to command the confidence of the National Assembly.
-    legislature:                    Parliament
-    legislature-art:                Parliament_of_France
-    legislature-app-methods:        TRV (<abbr title="lower house">LH</abbr>); by several different types of elected officials (<abbr title="upper house">UH</abbr>).
-    lower-house:                    National Assembly
-    lower-house-art:                National_Assembly_(France)
-    lower-house-app:                TRV
-    lower-house-app-art:            Two-round_voting
-    upper-house:                    Senate
-    upper-house-art:                Senate_(France)
-    upper-house-app:                By elected officials.
-    house-powers:                   <abbr title="lower house">LH</abbr>><abbr title="upper house">UH</abbr> (<abbr title="lower house">LH</abbr> has exec power; <abbr title="lower house">LH</abbr> can overrule <abbr title="upper house">UH</abbr> in some cases of deadlock)
-    house-legislative-powers:       3
-    judiciary:                      Chief Justice of the Court of Cassation
-    judiciary-art:                  Court_of_Cassation_(France)#Judges_and_divisions
+  - country:                          France
+    constitution:                     https://www.constituteproject.org/constitution/France_2008.pdf?lang=en
+    constitution-format:              PDF
+    sysofgov:                         Devolved <abbr title="premier-presidential republic">PPR</abbr>
+    head-of-state:                    President
+    head-of-state-art:                President_of_the_French_Republic
+    head-of-state-app-method:         Direct popular vote by TRV.
+    head-of-state-powers:             Commander-in-chief of armed forces; presides over foreign policy; appoints ministers, among other officials; gives pardons; can dissolve the National Assembly; can invoke emergency powers (like martial law), <i>etc.</i>
+    head-of-government:               Prime Minister
+    head-of-government-art:           Prime_Minister_of_France
+    head-of-government-app-method:    By president, based on their ability to command the confidence of the National Assembly.
+    legislature:                      Parliament
+    legislature-art:                  Parliament_of_France
+    legislature-app-methods:          TRV (<abbr title="lower house">LH</abbr>); by several different types of elected officials (<abbr title="upper house">UH</abbr>).
+    lower-house:                      National Assembly
+    lower-house-art:                  National_Assembly_(France)
+    lower-house-app:                  TRV
+    lower-house-app-art:              Two-round_voting
+    upper-house:                      Senate
+    upper-house-art:                  Senate_(France)
+    upper-house-app:                  By elected officials.
+    house-powers:                     <abbr title="lower house">LH</abbr>><abbr title="upper house">UH</abbr> (<abbr title="lower house">LH</abbr> has exec power; <abbr title="lower house">LH</abbr> can overrule <abbr title="upper house">UH</abbr> in some cases of deadlock)
+    house-legislative-powers:         3
+    judiciary:                        Chief Justice of the Court of Cassation
+    judiciary-art:                    Court_of_Cassation_(France)#Judges_and_divisions
 
-  - country:                        Germany
-    constitution:                   https://www.gesetze-im-internet.de/englisch_gg/englisch_gg.html
-    sysofgov:                       Federal <abbr title="parliamentary republic with a ceremonial presidency">PRCP</abbr>
-    head-of-state:                  President
-    head-of-state-art:              President_of_Germany
-    head-of-state-app-method:       Federal Convention
-    head-of-state-app-method-art:   Federal_Convention_(Germany)
-    head-of-state-powers:           <b><i>de jure</i></b>&#58; promulgates laws (full theoretical veto powers); appoints many officials (including Chancellor); can dissolve <abbr title="lower house">LH</abbr> in certain circumstances; and, in some cases, can promulgate laws that have only passed through <abbr title="upper house">UH</abbr>.<br/><b><i>de facto</i></b>&#58; largely ceremonial powers, as they usually follow the advice of the Chancellor, ministers and Parliament. 
-    head-of-government:             Chancellor
-    head-of-government-art:         Chancellor_of_Germany
-    head-of-government-app-method:  Elected by <abbr title="lower house">LH</abbr>; only dismissed by constructive vote of no confidence.
-    legislature:                    Bundestag
-    legislature-app:                MMPR
-    legislature-app-art:            Mixed-member_proportional_representation
-    legislature-app-methods:        MMPR (<abbr title="lower house">LH</abbr>), by Länder (state) governments (<abbr title="upper house">UH</abbr>)
-    upper-house:                    Bundesrat
-    upper-house-art:                Bundesrat_of_Germany
+  - country:                          Germany
+    constitution:                     https://www.gesetze-im-internet.de/englisch_gg/englisch_gg.html
+    sysofgov:                         Federal <abbr title="parliamentary republic with a ceremonial presidency">PRCP</abbr>
+    head-of-state:                    President
+    head-of-state-art:                President_of_Germany
+    head-of-state-app-method:         Federal Convention
+    head-of-state-app-method-art:     Federal_Convention_(Germany)
+    head-of-state-powers:             <b><i>de jure</i></b>&#58; promulgates laws (full theoretical veto powers); appoints many officials (including Chancellor); can dissolve <abbr title="lower house">LH</abbr> in certain circumstances; and, in some cases, can promulgate laws that have only passed through <abbr title="upper house">UH</abbr>.<br/><b><i>de facto</i></b>&#58; largely ceremonial powers, as they usually follow the advice of the Chancellor, ministers and Parliament. 
+    head-of-government:               Chancellor
+    head-of-government-art:           Chancellor_of_Germany
+    head-of-government-app-method:    Elected by <abbr title="lower house">LH</abbr>; only dismissed by constructive vote of no confidence.
+    legislature:                      Bundestag
+    legislature-app:                  MMPR
+    legislature-app-art:              Mixed-member_proportional_representation
+    legislature-app-methods:          MMPR (<abbr title="lower house">LH</abbr>), by Länder (state) governments (<abbr title="upper house">UH</abbr>)
+    upper-house:                      Bundesrat
+    upper-house-art:                  Bundesrat_of_Germany
     upper-house-app:       
       By <a href="https://en.wikipedia.org/wiki/States_of_Germany" link="_blank">state</a> officials.
-    house-powers:                   <abbr title="lower house">LH</abbr>><abbr title="upper house">UH</abbr> (<abbr title="upper house">UH</abbr> approval only needed in some cases; <abbr title="lower house">LH</abbr> has exec power)
-    house-legislative-powers:       5
-    judiciary:                      President of the Federal Constitutional Court
-    judiciary-art:                  Federal_Constitutional_Court#President_of_the_court
+    house-powers:                     <abbr title="lower house">LH</abbr>><abbr title="upper house">UH</abbr> (<abbr title="upper house">UH</abbr> approval only needed in some cases; <abbr title="lower house">LH</abbr> has exec power)
+    house-legislative-powers:         5
+    judiciary:                        President of the Federal Constitutional Court
+    judiciary-art:                    Federal_Constitutional_Court#President_of_the_court
 
-  - country:                        Iceland
-    constitution:                   https://www.constituteproject.org/constitution/Iceland_2013.pdf?lang=en
-    constitution-format:            PDF
-    sysofgov:                       Unitary <abbr title="parliamentary republic with a ceremonial presidency">PRCP</abbr>
-    head-of-state:                  President
-    head-of-state-art:              President_of_Iceland
-    head-of-state-app-method:       FPTP
-    head-of-state-powers:           Appoints and dismisses ministers; promulgates legislation (veto power exists, but may be overriden by Parliament); appoints civil servants; ratifies treaties; may submit bills to Parliament; may dissolve Parliament; grants pardons, amnesty and halt prosecutions. Usually acts on the advice of ministers. 
-    head-of-government:             Prime Minister
-    head-of-government-art:         Prime_Minister_of_Iceland
-    head-of-government-app-method:  Nominated by governing party/coalition and appointed by President.
-    legislature:                    Althing
-    legislature-app:                <abbr title="open list party-list proportional representation">OLPLPR</abbr>
-    legislature-app-art:            Open_list
-    legislature-app-methods:        <abbr title="open list party-list proportional representation">OLPLPR</abbr>
-    house-powers:                   N/A
-    judiciary:                      President of the Supreme Court
-    judiciary-art:                  Supreme_Court_of_Iceland
+  - country:                          Iceland
+    constitution:                     https://www.constituteproject.org/constitution/Iceland_2013.pdf?lang=en
+    constitution-format:              PDF
+    sysofgov:                         Unitary <abbr title="parliamentary republic with a ceremonial presidency">PRCP</abbr>
+    head-of-state:                    President
+    head-of-state-art:                President_of_Iceland
+    head-of-state-app-method:         FPTP
+    head-of-state-powers:             Appoints and dismisses ministers; promulgates legislation (veto power exists, but may be overriden by Parliament); appoints civil servants; ratifies treaties; may submit bills to Parliament; may dissolve Parliament; grants pardons, amnesty and halt prosecutions. Usually acts on the advice of ministers. 
+    head-of-government:               Prime Minister
+    head-of-government-art:           Prime_Minister_of_Iceland
+    head-of-government-app-method:    Nominated by governing party/coalition and appointed by President.
+    legislature:                      Althing
+    legislature-app:                  <abbr title="open list party-list proportional representation">OLPLPR</abbr>
+    legislature-app-art:              Open_list
+    legislature-app-methods:          <abbr title="open list party-list proportional representation">OLPLPR</abbr>
+    house-powers:                     N/A
+    judiciary:                        President of the Supreme Court
+    judiciary-art:                    Supreme_Court_of_Iceland
 
-  - country:                        India
-    constitution:                   https://www.constituteproject.org/constitution/India_2015.pdf
-    constitution-format:            PDF
-    sysofgov:                       Federal <abbr title="parliamentary republic with a ceremonial presidency">PRCP</abbr>
-    head-of-state:                  President
-    head-of-state-art:              President_of_India
-    head-of-state-app-method:       Electoral College.
-    head-of-state-app-method-art:   Electoral_College_of_India
-    head-of-state-powers:           <b><i>de jure</i></b>&#58; many, including promulgating laws; commander-in-chief of armed forces; head of executive branch; appoints many officials including justices of the Supreme Court and ministers; can dissolve <abbr title="lower house">LH</abbr>; appoints 12 members of the 245-member <abbr title="upper house">UH</abbr>.<br/><b><i>de facto</i></b>&#58; mostly ceremonial, as they largely act on the advice of the ministers or Parliament.
-    head-of-government:             Prime Minister
-    head-of-government-art:         Prime_Minister_of_India
-    head-of-government-app-method:  President, based on their ability to command the confidence of the <abbr title="lower house">LH</abbr>.
-    legislature:                    Parliament
-    legislature-art:                Parliament_of_India
-    legislature-app-methods:        <abbr title="first-past-the-post">FPTP</abbr> (<abbr title="lower house">LH</abbr>), 233 by <a href="https://en.wikipedia.org/wiki/Single_transferable_vote" link="_blank">STV</a> in state/territory legislatures and 12 by the <a href="https://en.wikipedia.org/wiki/President_of_India" link="_blank">president</a> (<abbr title="upper house">UH</abbr>).
-    lower-house:                    Lok Sabha
-    lower-house-app:                FPTP
-    lower-house-app-art:            First-past-the-post
-    upper-house:                    Rajya Sabha
+  - country:                          India
+    constitution:                     https://www.constituteproject.org/constitution/India_2015.pdf
+    constitution-format:              PDF
+    sysofgov:                         Federal <abbr title="parliamentary republic with a ceremonial presidency">PRCP</abbr>
+    head-of-state:                    President
+    head-of-state-art:                President_of_India
+    head-of-state-app-method:         Electoral College.
+    head-of-state-app-method-art:     Electoral_College_of_India
+    head-of-state-powers:             <b><i>de jure</i></b>&#58; many, including promulgating laws; commander-in-chief of armed forces; head of executive branch; appoints many officials including justices of the Supreme Court and ministers; can dissolve <abbr title="lower house">LH</abbr>; appoints 12 members of the 245-member <abbr title="upper house">UH</abbr>.<br/><b><i>de facto</i></b>&#58; mostly ceremonial, as they largely act on the advice of the ministers or Parliament.
+    head-of-government:               Prime Minister
+    head-of-government-art:           Prime_Minister_of_India
+    head-of-government-app-method:    President, based on their ability to command the confidence of the <abbr title="lower house">LH</abbr>.
+    legislature:                      Parliament
+    legislature-art:                  Parliament_of_India
+    legislature-app-methods:          <abbr title="first-past-the-post">FPTP</abbr> (<abbr title="lower house">LH</abbr>), 233 by <a href="https://en.wikipedia.org/wiki/Single_transferable_vote" link="_blank">STV</a> in state/territory legislatures and 12 by the <a href="https://en.wikipedia.org/wiki/President_of_India" link="_blank">president</a> (<abbr title="upper house">UH</abbr>).
+    lower-house:                      Lok Sabha
+    lower-house-app:                  FPTP
+    lower-house-app-art:              First-past-the-post
+    upper-house:                      Rajya Sabha
     upper-house-app:            
-      233 by <a href="https://en.wikipedia.org/wiki/Single_transferable_vote" link="_blank">STV</a>, 12 by the <a href="https://en.wikipedia.org/wiki/President_of_India" link="_blank">president</a>.
-    house-powers:                   <abbr title="lower house">LH</abbr>><abbr title="upper house">UH</abbr>
-    house-legislative-powers:       2
-    judiciary:                      Chief Justice of the Supreme Court
-    judiciary-art:                  Chief_Justice_of_India
+      233 by <a href="https://en.wikipedia.org/wiki/Single_transferable_vote" link="_blank">STV</a> by state/territory legislatures, 12 by the <a href="https://en.wikipedia.org/wiki/President_of_India" link="_blank">president</a>.
+    house-powers:                     <abbr title="lower house">LH</abbr>><abbr title="upper house">UH</abbr>
+    house-legislative-powers:         2
+    judiciary:                        Chief Justice of the Supreme Court
+    judiciary-art:                    Chief_Justice_of_India
 
-  - country:                        Indonesia
-    sysofgov:                       Devolved <abbr title="presidential republic">PR</abbr>
-    legislature:                    People's Consultative Assembly
-    lower-house:                    People's Representative Council
-    lower-house-app:                <abbr title="open list party-list proportional representation">OLPLPR</abbr>
-    lower-house-app-art:            Open_list
-    upper-house:                    Regional Representative Council
-    upper-house-app:                SNTV
-    upper-house-app-art:            Single_non-transferable_vote
-    house-powers:                   <abbr title="lower house">LH</abbr>>><abbr title="upper house">UH</abbr>
-    house-legislative-powers:       5
+  - country:                          Indonesia
+    constitution:                     https://www.constituteproject.org/constitution/Indonesia_2002.pdf?lang=en
+    constitution-format:              PDF
+    sysofgov:                         Devolved <abbr title="presidential republic">PR</abbr>
+    head-of-state-gov:                President
+    head-of-state-gov-art:            President_of_Indonesia
+    head-of-state-gov-app-method:     <abbr title="two-round voting">TRV</abbr>
+    head-of-state-gov-app-method-art: Two-round_system
+    legislature:                      People's Consultative Assembly
+    lower-house:                      People's Representative Council
+    lower-house-app:                  <abbr title="open list party-list proportional representation">OLPLPR</abbr>
+    lower-house-app-art:              Open_list
+    upper-house:                      Regional Representative Council
+    upper-house-app:                  SNTV
+    upper-house-app-art:              Single_non-transferable_vote
+    house-powers:                     <abbr title="lower house">LH</abbr>>><abbr title="upper house">UH</abbr>
+    house-legislative-powers:         5
 
-  - country:                        Ireland
-    sysofgov:                       Unitary <abbr title="parliamentary republic with a ceremonial presidency">PRCP</abbr>
-    legislature:                    Oireachtas
-    lower-house:                    Dáil Éireann
-    lower-house-app:                STV from 40 constituencies
-    upper-house:                    Seanad Éireann
-    upper-house-app:                Several<sup>1</sup>
-    house-powers:                   <abbr title="lower house">LH</abbr>>><abbr title="upper house">UH</abbr> (<abbr title="upper house">UH</abbr> can only delay)
+  - country:                          Ireland
+    sysofgov:                         Unitary <abbr title="parliamentary republic with a ceremonial presidency">PRCP</abbr>
+    legislature:                      Oireachtas
+    lower-house:                      Dáil Éireann
+    lower-house-app:                  STV from 40 constituencies
+    upper-house:                      Seanad Éireann
+    upper-house-app:                  Several<sup>1</sup>
+    house-powers:                     <abbr title="lower house">LH</abbr>>><abbr title="upper house">UH</abbr> (<abbr title="upper house">UH</abbr> can only delay)
 
-  - country:                        Italy
-    sysofgov:                       Devolved <abbr title="parliamentary republic with a ceremonial presidency">PRCP</abbr>
-    legislature:                    Parliament
-    legislature-art:                Parliament_of_Italy
-    lower-house:                    Chamber of Deputies
-    lower-house-art:                Italian_Chamber_of_Deputies
+  - country:                          Italy
+    sysofgov:                         Devolved <abbr title="parliamentary republic with a ceremonial presidency">PRCP</abbr>
+    legislature:                      Parliament
+    legislature-art:                  Parliament_of_Italy
+    lower-house:                      Chamber of Deputies
+    lower-house-art:                  Italian_Chamber_of_Deputies
     lower-house-app:            
       <a href="https://en.wikipedia.org/wiki/Parallel_voting" link="_blank">PV</a>&#58; 37/63 by <a href="https://en.wikipedia.org/wiki/First-past-the-post" link="_blank">FPTP</a> and <a href="https://en.wikipedia.org/wiki/Closed_list" link="_blank">CLPLPR</a>.
-    upper-house:                    Senate of the Republic
-    upper-house-art:                Senate_of_the_Republic_(Italy)
+    upper-house:                      Senate of the Republic
+    upper-house-art:                  Senate_of_the_Republic_(Italy)
     upper-house-app:            
       <a href="https://en.wikipedia.org/wiki/Parallel_voting" link="_blank">PV</a>&#58; 37/63 by <a href="https://en.wikipedia.org/wiki/First-past-the-post" link="_blank">FPTP</a> and <a href="https://en.wikipedia.org/wiki/Closed_list" link="_blank">CLPLPR</a>.
-    house-powers:                   <abbr title="lower house">LH</abbr>=<abbr title="upper house">UH</abbr>
-    house-legislative-powers:       1
+    house-powers:                     <abbr title="lower house">LH</abbr>=<abbr title="upper house">UH</abbr>
+    house-legislative-powers:         1
 
-  - country:                        Mexico
-    sysofgov:                       Federal <abbr title="presidential republic">PR</abbr>
-    legislature:                    Congress
-    legislature-art:                Congress_of_Mexico
-    lower-house:                    Chamber of Deputies
-    lower-house-art:                Chamber_of_Deputies_(Mexico)
+  - country:                          Mexico
+    sysofgov:                         Federal <abbr title="presidential republic">PR</abbr>
+    legislature:                      Congress
+    legislature-art:                  Congress_of_Mexico
+    lower-house:                      Chamber of Deputies
+    lower-house-art:                  Chamber_of_Deputies_(Mexico)
     lower-house-app:            
       <a href="https://en.wikipedia.org/wiki/Parallel_voting" link="_blank">PV</a>&#58; 3/2 by <a href="https://en.wikipedia.org/wiki/First-past-the-post" link="_blank">FPTP</a> and <a href="https://en.wikipedia.org/wiki/Closed_list" link="_blank">CLPLPR</a>.
-    upper-house:                    Senate of the Republic
-    upper-house-art:                Senate_of_the_Republic_(Mexico)
-    upper-house-app:                Limited voting
-    upper-house-app-art:            Limited_voting
-    house-powers:                   <abbr title="lower house">LH</abbr>&approx;<abbr title="upper house">UH</abbr> (distinct powers)
+    upper-house:                      Senate of the Republic
+    upper-house-art:                  Senate_of_the_Republic_(Mexico)
+    upper-house-app:                  Limited voting
+    upper-house-app-art:              Limited_voting
+    house-powers:                     <abbr title="lower house">LH</abbr>&approx;<abbr title="upper house">UH</abbr> (distinct powers)
 
-  - country:                        Netherlands
-    sysofgov:                       Unitary <abbr title="parliamentary constitutional monarchy">PCM</abbr>
-    legislature:                    States General
-    legislature-art:                States_General_of_the_Netherlands
-    lower-house:                    House of Representatives
-    lower-house-art:                House_of_Representatives_(Netherlands)
-    lower-house-app:                Semi-open <abbr title="party-list proportional representation">PLPR</abbr>
-    lower-house-app-art:            Open_list#Netherlands
-    upper-house:                    Senate
-    upper-house-art:                Senate_(Netherlands)
-    upper-house-app:                Indirect <abbr title="party-list proportional representation">PLPR</abbr>
-    house-powers:                   <abbr title="upper house">UH</abbr> can only a/r legislation
-    house-legislative-powers:       4
+  - country:                          Netherlands
+    sysofgov:                         Unitary <abbr title="parliamentary constitutional monarchy">PCM</abbr>
+    legislature:                      States General
+    legislature-art:                  States_General_of_the_Netherlands
+    lower-house:                      House of Representatives
+    lower-house-art:                  House_of_Representatives_(Netherlands)
+    lower-house-app:                  Semi-open <abbr title="party-list proportional representation">PLPR</abbr>
+    lower-house-app-art:              Open_list#Netherlands
+    upper-house:                      Senate
+    upper-house-art:                  Senate_(Netherlands)
+    upper-house-app:                  Indirect <abbr title="party-list proportional representation">PLPR</abbr>
+    house-powers:                     <abbr title="upper house">UH</abbr> can only a/r legislation
+    house-legislative-powers:         4
 
-  - country:                        New Zealand
-    sysofgov:                       Unitary <abbr title="parliamentary constitutional monarchy">PCM</abbr>
-    legislature:                    Parliament
-    legislature-art:                Parliament_of_New_Zealand
-    lower-house:                    House of Representatives
-    lower-house-art:                New_Zealand_House_of_Representatives
-    lower-house-app:                MMPR
-    lower-house-app-art:            Mixed-member_proportional_representation
-    upper-house-abolition-date:     1951
+  - country:                          New Zealand
+    sysofgov:                         Unitary <abbr title="parliamentary constitutional monarchy">PCM</abbr>
+    legislature:                      Parliament
+    legislature-art:                  Parliament_of_New_Zealand
+    lower-house:                      House of Representatives
+    lower-house-art:                  New_Zealand_House_of_Representatives
+    lower-house-app:                  MMPR
+    lower-house-app-art:              Mixed-member_proportional_representation
+    upper-house-abolition-date:       1951
 
-  - country:                        Nigera
-    sysofgov:                       Federal <abbr title="presidential republic">PR</abbr>
-    legislature:                    National Assembly
-    legislature-art:                National_Assembly_of_Nigeria
-    lower-house:                    House of Representatives
-    lower-house-art:                House_of_Representatives_of_Nigeria
-    lower-house-app:                <abbr title="First-past-the-post">FPTP</abbr>
-    upper-house:                    Senate
-    upper-house-art:                Senate_of_Nigeria
-    upper-house-app:                Plurality-at-large voting
-    upper-house-app-art:            Plurality-at-large_voting
-    house-powers:                   <abbr title="upper house">UH</abbr>=<abbr title="lower house">LH</abbr> (legislative)<sup>2</sup>
+  - country:                          Nigera
+    sysofgov:                         Federal <abbr title="presidential republic">PR</abbr>
+    legislature:                      National Assembly
+    legislature-art:                  National_Assembly_of_Nigeria
+    lower-house:                      House of Representatives
+    lower-house-art:                  House_of_Representatives_of_Nigeria
+    lower-house-app:                  <abbr title="First-past-the-post">FPTP</abbr>
+    upper-house:                      Senate
+    upper-house-art:                  Senate_of_Nigeria
+    upper-house-app:                  Plurality-at-large voting
+    upper-house-app-art:              Plurality-at-large_voting
+    house-powers:                     <abbr title="upper house">UH</abbr>=<abbr title="lower house">LH</abbr> (legislative)<sup>2</sup>
 
-  - country:                        Norway
-    sysofgov:                       Unitary <abbr title="parliamentary constitutional monarchy">PCM</abbr>
-    legislature:                    Storting
-    legislature-app:                <abbr title="open list party-list proportional representation">OLPLPR</abbr>
-    legislature-app-art:            Open_list
+  - country:                          Norway
+    sysofgov:                         Unitary <abbr title="parliamentary constitutional monarchy">PCM</abbr>
+    legislature:                      Storting
+    legislature-app:                  <abbr title="open list party-list proportional representation">OLPLPR</abbr>
+    legislature-app-art:              Open_list
 
-  - country:                        Pakistan
-    sysofgov:                       Federal <abbr title="parliamentary republic with a ceremonial presidency">PRCP</abbr>
-    legislature:                    Parliament
-    legislature-art:                Parliament_of_Pakistan
-    lower-house:                    National Assembly
-    lower-house-art:                National_Assembly_of_Pakistan
-    lower-house-app:                Several<sup>3</sup>
-    upper-house:                    Senate
-    upper-house-art:                Senate_of_Pakistan
-    upper-house-app:                Several<sup>4</sup>
-    house-powers:                   <abbr title="lower house">LH</abbr>><abbr title="upper house">UH</abbr> (<abbr title="upper house">UH</abbr> can reject all but money bills; <abbr title="lower house">LH</abbr> has exec power)
+  - country:                          Pakistan
+    sysofgov:                         Federal <abbr title="parliamentary republic with a ceremonial presidency">PRCP</abbr>
+    legislature:                      Parliament
+    legislature-art:                  Parliament_of_Pakistan
+    lower-house:                      National Assembly
+    lower-house-art:                  National_Assembly_of_Pakistan
+    lower-house-app:                  Several<sup>3</sup>
+    upper-house:                      Senate
+    upper-house-art:                  Senate_of_Pakistan
+    upper-house-app:                  Several<sup>4</sup>
+    house-powers:                     <abbr title="lower house">LH</abbr>><abbr title="upper house">UH</abbr> (<abbr title="upper house">UH</abbr> can reject all but money bills; <abbr title="lower house">LH</abbr> has exec power)
 
-  - country:                        Papua New Guinea
-    sysofgov:                       Devolved <abbr title="parliamentary constitutional monarchy">PCM</abbr>
-    legislature:                    National Parliament
-    legislature-art:                National_Parliament_of_Papua_New_Guinea
-    legislature-app:                <abbr title="instant-runoff voting">IRV</abbr>
-    legislature-app-art:            Instant-runoff_voting
+  - country:                          Papua New Guinea
+    sysofgov:                         Devolved <abbr title="parliamentary constitutional monarchy">PCM</abbr>
+    legislature:                      National Parliament
+    legislature-art:                  National_Parliament_of_Papua_New_Guinea
+    legislature-app:                  <abbr title="instant-runoff voting">IRV</abbr>
+    legislature-app-art:              Instant-runoff_voting
 
-  - country:                        Russia
-    sysofgov:                       Federal <abbr title="president-parliamentary republic">PPMR</abbr>
-    legislature:                    Federal Assembly
-    legislature-art:                Federal_Assembly_(Russia)
-    lower-house:                    State Duma
+  - country:                          Russia
+    sysofgov:                         Federal <abbr title="president-parliamentary republic">PPMR</abbr>
+    legislature:                      Federal Assembly
+    legislature-art:                  Federal_Assembly_(Russia)
+    lower-house:                      State Duma
     lower-house-app:            
       <a href="https://en.wikipedia.org/wiki/Parallel_voting" link="_blank">PV</a>&#58; 50/50 by <a href="https://en.wikipedia.org/wiki/First-past-the-post_voting" link="_blank">FPTP</a> and <a href="https://en.wikipedia.org/wiki/Closed_list" link="_blank">CLPLPR</a>.
-    upper-house:                    Federation Council
-    upper-house-art:                Federation_Council_(Russia)
+    upper-house:                      Federation Council
+    upper-house-art:                  Federation_Council_(Russia)
     upper-house-app:            
       By <a href="https://en.wikipedia.org/wiki/Federal_subjects_of_Russia" link="_blank">federal subject</a> officials.
-    house-powers:                   <abbr title="lower house">LH</abbr>&approx;<abbr title="upper house">UH</abbr> (distinct powers)
-    house-legislative-powers:       6
+    house-powers:                     <abbr title="lower house">LH</abbr>&approx;<abbr title="upper house">UH</abbr> (distinct powers)
+    house-legislative-powers:         6
 
-  - country:                        South Africa
-    sysofgov:                       Devolved <abbr title="parliamentary republic with an executive presidency">PREP</abbr>
-    legislature:                    Parliament
-    legislature-art:                Parliament_of_South_Africa
-    lower-house:                    National Assembly
-    lower-house-art:                National_Assembly_of_South_Africa
-    lower-house-app:                <abbr title="closed list party-list proportional representation">CLPLPR</abbr>
-    lower-house-app-art:            Closed_list
-    upper-house:                    National Council
-    upper-house-art:                National_Council_of_Provinces
-    upper-house-app:                By provincial legislatures.
-    house-powers:                   <abbr title="lower house">LH</abbr>&gt;<abbr title="upper house">UH</abbr> (mostly equal; <abbr title="upper house">UH</abbr> can only initiate certain legislation)
+  - country:                          South Africa
+    sysofgov:                         Devolved <abbr title="parliamentary republic with an executive presidency">PREP</abbr>
+    legislature:                      Parliament
+    legislature-art:                  Parliament_of_South_Africa
+    lower-house:                      National Assembly
+    lower-house-art:                  National_Assembly_of_South_Africa
+    lower-house-app:                  <abbr title="closed list party-list proportional representation">CLPLPR</abbr>
+    lower-house-app-art:              Closed_list
+    upper-house:                      National Council
+    upper-house-art:                  National_Council_of_Provinces
+    upper-house-app:                  By provincial legislatures.
+    house-powers:                     <abbr title="lower house">LH</abbr>&gt;<abbr title="upper house">UH</abbr> (mostly equal; <abbr title="upper house">UH</abbr> can only initiate certain legislation)
 
-  - country:                        Spain
-    sysofgov:                       Devolved <abbr title="parliamentary constitutional monarchy">PCM</abbr>
-    legislature:                    Cortes Generales
-    lower-house:                    Congress of Deputies
-    lower-house-app:                <abbr title="closed list party-list proportional representation">CLPLPR</abbr>
-    upper-house:                    Senate
-    upper-house-art:                Senate_of_Spain
-    upper-house-app:                Limited voting
-    upper-house-app-art:            Limited_voting
-    house-powers:                   <abbr title="lower house">LH</abbr>>><abbr title="upper house">UH</abbr>
+  - country:                          Spain
+    sysofgov:                         Devolved <abbr title="parliamentary constitutional monarchy">PCM</abbr>
+    legislature:                      Cortes Generales
+    lower-house:                      Congress of Deputies
+    lower-house-app:                  <abbr title="closed list party-list proportional representation">CLPLPR</abbr>
+    upper-house:                      Senate
+    upper-house-art:                  Senate_of_Spain
+    upper-house-app:                  Limited voting
+    upper-house-app-art:              Limited_voting
+    house-powers:                     <abbr title="lower house">LH</abbr>>><abbr title="upper house">UH</abbr>
 
-  - country:                        Switzerland
-    sysofgov:                       Federal <abbr title="directorial republic">DR</abbr>
-    legislature:                    Federal Assembly
-    legislature-art:                Federal_Assembly_(Switzerland)
-    lower-house:                    National Council
-    lower-house-art:                National_Council_(Switzerland)
-    lower-house-app:                <a href='https://en.wikipedia.org/wiki/Panachage' link='_blank'>FLPLPR</a>
-    upper-house:                    Council of States
-    upper-house-art:                Council_of_States_(Switzerland)
-    upper-house-app:                <abbr title="first-past-the-post">FPTP</abbr> (24/26 cantons), <abbr title="proportional representation">PRep</abbr> (2 cantons)<sup>5</sup>
-    house-powers:                   <abbr title="lower house">LH</abbr>=<abbr title="upper house">UH</abbr>
+  - country:                          Switzerland
+    sysofgov:                         Federal <abbr title="directorial republic">DR</abbr>
+    legislature:                      Federal Assembly
+    legislature-art:                  Federal_Assembly_(Switzerland)
+    lower-house:                      National Council
+    lower-house-art:                  National_Council_(Switzerland)
+    lower-house-app:                  <a href='https://en.wikipedia.org/wiki/Panachage' link='_blank'>FLPLPR</a>
+    upper-house:                      Council of States
+    upper-house-art:                  Council_of_States_(Switzerland)
+    upper-house-app:                  <abbr title="first-past-the-post">FPTP</abbr> (24/26 cantons), <abbr title="proportional representation">PRep</abbr> (2 cantons)<sup>5</sup>
+    house-powers:                     <abbr title="lower house">LH</abbr>=<abbr title="upper house">UH</abbr>
 
-  - country:                        United Kingdom
-    sysofgov:                       Devolved <abbr title="parliamentary constitutional monarchy">PCM</abbr>
-    legislature:                    Parliament
-    legislature-art:                Parliament_of_the_United_Kingdom
-    lower-house:                    House of Commons
-    lower-house-art:                House_of_Commons_of_the_United_Kingdom
-    lower-house-app:                FPTP
-    lower-house-app-art:            First-past-the-post
-    upper-house:                    House of Lords
+  - country:                          United Kingdom
+    sysofgov:                         Devolved <abbr title="parliamentary constitutional monarchy">PCM</abbr>
+    legislature:                      Parliament
+    legislature-art:                  Parliament_of_the_United_Kingdom
+    lower-house:                      House of Commons
+    lower-house-art:                  House_of_Commons_of_the_United_Kingdom
+    lower-house-app:                  FPTP
+    lower-house-app-art:              First-past-the-post
+    upper-house:                      House of Lords
     upper-house-app:     
       Appointed by varying methods.<sup>6</sup>
-    house-powers:                   <abbr title="lower house">LH</abbr>&#8811;<abbr title="upper house">UH</abbr> (<abbr title="upper house">UH</abbr> can only delay)
-    house-legislative-powers:       7
+    house-powers:                     <abbr title="lower house">LH</abbr>&#8811;<abbr title="upper house">UH</abbr> (<abbr title="upper house">UH</abbr> can only delay)
+    house-legislative-powers:         7
 
-  - country:                        United States
-    sysofgov:                       Federal <abbr title="presidential republic">PR</abbr>
-    legislature:                    Congress
-    legislature-art:                United_States_Congress
-    lower-house:                    House of Representatives
-    lower-house-art:                United_States_House_of_Representatives
-    lower-house-app:                Varies by state—PLV, TRV, <i>etc.</i>
-    upper-house:                    Senate
-    upper-house-art:                United_States_Senate
-    upper-house-app:                Varies by state—PLV, TRV, <i>etc.</i>
-    house-powers:                   <abbr title="lower house">LH</abbr>&approx;<abbr title="upper house">UH</abbr> (distinct powers)
-    house-legislative-powers:       2
+  - country:                          United States
+    sysofgov:                         Federal <abbr title="presidential republic">PR</abbr>
+    legislature:                      Congress
+    legislature-art:                  United_States_Congress
+    lower-house:                      House of Representatives
+    lower-house-art:                  United_States_House_of_Representatives
+    lower-house-app:                  Varies by state—PLV, TRV, <i>etc.</i>
+    upper-house:                      Senate
+    upper-house-art:                  United_States_Senate
+    upper-house-app:                  Varies by state—PLV, TRV, <i>etc.</i>
+    house-powers:                     <abbr title="lower house">LH</abbr>&approx;<abbr title="upper house">UH</abbr> (distinct powers)
+    house-legislative-powers:         2
