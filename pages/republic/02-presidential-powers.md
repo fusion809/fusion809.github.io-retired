@@ -7,7 +7,7 @@ Powers of such a President:
 
     - The Government failing to meet its constitutional obligations, like securing supply.
 
-    - The Government breaking many of its pre-election promises. Not being able to fulfil their promises due to their bills not being approved by the Parliament is not valid grounds. If they do not even attempt to introduce the bills they promised, or if they start doing things they promised they would not do (e.g. dismantling Medicare, educational services, _etc._), then that is valid grounds for the Parliament to be dissolved.
+    - The Government breaking many of its pre-election promises. Not being able to fulfil their promises due to their bills not being approved by the Parliament is not valid grounds. If they do not even attempt to introduce the bills they promised within a reasonable time frame, despite warnings from the President, or if they start doing things they promised they would not do (e.g. dismantling Medicare, educational services, _etc._), then that is valid grounds for the Parliament to be dissolved.
 
     - Evidence of mass corruption in the Parliament, or Government.
 
@@ -19,6 +19,6 @@ Powers of such a President:
 
 * They can dismiss ministers of state, including the Prime Minister (PM), along with MPs and senators, if they have been convicted of corruption or misbehaviour or if they have wilfully broken pre-election promises. If there is evidence of corruption or misconduct, but they have not been convicted yet, the President will be able to temporarily dismiss them, pending the completion of the investigation, from their ministerial positions, but not their seats in the Parliament. 
 
-* Temporarily vetoing legislation, pending a review of it by the HC, if they feel the legislation is legally invalid (e.g. if it is unconstitutional). If the HC rules the law was constitutionally valid then they get a "strike"&mdash;if they get more than one strike it will automatically trigger an early election for their replacement and in the interim they will not be able to temporarily veto legislation, although they will be able to refer it to the HC still.
+* Temporarily vetoing legislation, pending a review of it by the HC, if they feel the legislation is legally invalid (e.g. if it is unconstitutional) and either the Attorney-General (AG) or Shadow Attorney-General (SAG) agrees.
 
 ***Note**: they will not give assent to legislation, or have the ability to appoint any officials, or be commander-in-chief of the armed forces, or have any additional executive powers. These powers will be firmly vested in the ministers of state and the Parliament. Presently, under the monarchy the Governor-General (GG), by convention, almost always follows the advice of ministers of state when the GG exercises their executive powers, but there is no guarantee a future President will follow this convention if we transfer this power and convention to them, so it is prudent to limit what power they do have.*
