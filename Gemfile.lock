@@ -76,7 +76,7 @@ GEM
       nuggets (= 1.0.0)
     ruby_dep (1.5.0)
     safe_yaml (1.0.5)
-    sassc (2.1.0)
+    sassc (2.2.0)
       ffi (~> 1.9)
     sawyer (0.8.2)
       addressable (>= 2.3.5)
