@@ -1,3 +1,4 @@
+
 <html>
 <head>
 	
@@ -5,7 +6,7 @@
 	<title></title>
 	<meta name="generator" content="LibreOffice 6.3.0.4 (Linux)"/>
 	<meta name="created" content="2019-08-29T15:46:35.085842868"/>
-	<meta name="changed" content="2019-09-05T20:15:33.653536190"/>
+	<meta name="changed" content="2019-09-05T20:09:17.054940140"/>
 	
 	<style type="text/css">
 		body,div,table,thead,tbody,tfoot,tr,th,td,p { font-family:"Liberation Sans"; font-size:x-small }
@@ -330,19 +331,18 @@
 		<td align="left"><br></td>
 	</tr>
 	<tr>
-		<td height="125" align="left"><br></td>
+		<td height="121" align="left"><br></td>
 		<td align="left"><br></td>
-		<td colspan=2 align="center" valign=middle> The greener the older; the redder the newer. Yellow entries are in the middle of the pack in terms of when they achieved these things. <img src="https://www.abs.gov.au/icons/ecblank.gif" width=1 height=1 hspace=72 vspace=62>
+		<td colspan=2 align="center" valign=middle> The greener the older; the redder the newer. Yellow entries are in the middle of the pack in terms of when they achieved these things. <img src="https://www.abs.gov.au/icons/ecblank.gif" width=1 height=1 hspace=72 vspace=60>
 		</td>
 		<td rowspan=6 align="center" valign=top>This is a total of all area, both land and water, the entity claims; the exception is that this excludes NZ’s Antarctic claim. </td>
 		<td align="left"><br></td>
-		<td align="center" valign=middle><br><img src="https://www.abs.gov.au/icons/ecblank.gif" width=1 height=1 hspace=38 vspace=62>
-		</td>
+		<td align="center" valign=middle><br></td>
 		<td align="left"><br></td>
 		<td colspan=2 rowspan=4 align="center" valign=top>Uni no. = number of universities with their main campus or headquarters in the state/territory.<br>Unis with camp. = number of universities with a campus in the entity.</td>
 		<td colspan=2 rowspan=15 align="center" valign=top>GSTP = gross state/territory product.<br>GDP = gross domestic product.<br>/capita = per capita. So for states/territories this is GSTP per capita, while for NZ it is GDP per capita.<br>All figures are nominal and in millions of AUD. <br>NZ figure was taken from linked source, converted from USD to AUD with the exchange rate of 1.47 AUD to 1 USD.</td>
 		<td align="left" valign=top>Number of houses of the entity’s parliament. </td>
-		<td colspan=3 rowspan=12 align="center" valign=top>MDs = member districts. e.g. electing from 5 MDs means the state/territory will be split into electorates for the purposes of voting via STV. Per electorate (or district) five people will be elected.<br>FPV = full preferential voting, a form of <a href="https://en.wikipedia.org/wiki/Instant-runoff_voting">instant-runoff voting</a> (IRV) wherein voters must indicate a preference for all candidates. It is presently used to elect members to the House of Representatives as well.<br>OPV = <a href="https://en.wikipedia.org/wiki/Optional_preferential_voting">optional preferential voting</a>, where voters only need to indicate a limited, specified number of preferences in order for their vote to be counted.<br>STV = <a href="https://en.wikipedia.org/wiki/Single_transferable_vote">single transferable vote</a>. The electoral method used to elect members to the Australian Senate as well.<br>M = males.<br>F = females. </td>
+		<td colspan=3 rowspan=10 align="center" valign=top>MDs = member districts. e.g. electing from 5 MDs means the state/territory will be split into electorates for the purposes of voting via STV. Per electorate (or district) five people will be elected.<br>FPV = full preferential voting, a form of <a href="https://en.wikipedia.org/wiki/Instant-runoff_voting">instant-runoff voting</a> (IRV) wherein voters must indicate a preference for all candidates. It is presently used to elect members to the House of Representatives as well.<br>OPV = <a href="https://en.wikipedia.org/wiki/Optional_preferential_voting">optional preferential voting</a>, where voters only need to indicate a limited, specified number of preferences in order for their vote to be counted.<br>STV = <a href="https://en.wikipedia.org/wiki/Single_transferable_vote">single transferable vote</a>. The electoral method used to elect members to the Australian Senate as well. </td>
 		<td align="left"><br></td>
 		<td colspan=3 align="center" valign=top>All three figures are per 100,000 inhabitants per year. I couldn’t find figures for NZ for anything other than homicide rate. Previous years for NZ had higher homicide rates, so this figure is somewhat anomalous. When it comes to examining 2019’s figures, we’ll likely notice it was anomalously high due to the Christchurch massacre.</td>
 		<td align="left" valign=top>UR = unemployment rate as a percentage.</td>
@@ -365,12 +365,12 @@
 	</tr>
 	<tr>
 		<td height="17" align="left"><br></td>
-		<td align="left"><br><img src="https://www.abs.gov.au/icons/ecblank.gif" width=1 height=1 hspace=18 vspace=8>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br><img src="https://www.abs.gov.au/icons/ecblank.gif" width=1 height=1 hspace=38 vspace=8>
 		</td>
-		<td align="left"><br></td>
-		<td align="left"><br></td>
-		<td align="left"><br></td>
-		<td align="left"><br></td>
 		<td align="left"><br></td>
 		<td align="left" valign=top><br></td>
 		<td align="left"><br></td>
@@ -381,12 +381,12 @@
 	</tr>
 	<tr>
 		<td height="17" align="left"><br></td>
-		<td align="left"><br></td>
-		<td align="left"><br></td>
-		<td align="left"><br></td>
-		<td align="left"><br></td>
-		<td align="left"><br><img src="https://www.abs.gov.au/icons/ecblank.gif" width=1 height=1 hspace=38 vspace=8>
+		<td align="left"><br><img src="https://www.abs.gov.au/icons/ecblank.gif" width=1 height=1 hspace=18 vspace=8>
 		</td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
 		<td align="left"><br></td>
 		<td align="left" valign=top><br></td>
 		<td align="left"><br></td>
@@ -523,7 +523,32 @@
 		<td align="left"><br></td>
 		<td align="left"><br></td>
 		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
 		<td align="left" sdnum="3081;0;#,##0.0"><font face="Arial" size=1 color="#000000"><br></font></td>
+		<td align="left"><br></td>
+	</tr>
+	<tr>
+		<td height="17" align="left"><font face="Liberation Serif"><br></font></td>
+		<td align="left"><font face="Arial"><br></font></td>
+		<td align="left"><font face="Arial"><br></font></td>
+		<td align="left"><font face="Liberation Serif"><br></font></td>
+		<td align="left"><font face="Liberation Serif"><br></font></td>
+		<td align="left"><font face="Liberation Serif"><br></font></td>
+		<td align="left"><font face="Liberation Serif"><br><img src="https://www.abs.gov.au/icons/ecblank.gif" width=1 height=1 hspace=38 vspace=8>
+		</font></td>
+		<td align="left"><font face="Liberation Serif"><br></font></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
 		<td align="left"><br></td>
 	</tr>
 </table>
