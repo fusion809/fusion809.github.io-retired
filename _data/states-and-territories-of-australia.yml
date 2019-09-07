@@ -1,0 +1,200 @@
+body:
+  - entity:                        Australian Capital Territory
+    abbr:                          ACT
+    founded:                       1911
+    founded_colour:                FF7D00
+    respgovt:                      1988
+    respgovt_colour:               FF0000
+    area:                          "2,358"
+    population:                    "420,960"
+    capital_population:            "420,960"
+    percentage:                    100%
+    uni_no:                        2
+    uni_campus_no:                 4
+    gstp:                          "39,442"
+    gstp_per_capita:               "93,695"
+    parliament:                    Unicameral
+    electoral_system:              STV from 5 MDs
+    life_expectancy_males:         81.1
+    life_expectancy_females:       85.2
+    hdi:                           0.973
+    homicide_att_rate:             1.2
+    assault_rate:                  548.7
+    sexual_assault_rate:           64.6
+    unemployment_rate:             3.5
+    natural_disaster_risk:         Bushfires, <b>earthquakes</b> and <b>floods</b>.
+
+  - entity:                        New South Wales
+    abbr:                          NSW
+    founded:                       1788
+    founded_colour:                009B00
+    respgovt:                      1856
+    respgovt_colour:               32CD00
+    area:                          "809,952"
+    population:                    "7,988,241"
+    capital_population:            "5,230,330"
+    percentage:                    65%
+    uni_no:                        11
+    uni_campus_no:                 18
+    gstp:                          "593,275"
+    gstp_per_capita:               "74,269"
+    parliament:                    Bicameral
+    electoral_system:              OPV/STV at-large
+    life_expectancy_males:         80.3
+    life_expectancy_females:       84.6
+    hdi:                           0.94
+    homicide_att_rate:             1.2
+    assault_rate:                  827.6
+    sexual_assault_rate:           128.2
+    unemployment_rate:             4.5
+    natural_disaster_risk:         Bushfires, cyclones (north) floods, <b>hailstorm</b> and <b>earthquakes</b>.
+
+  - entity:                        Northern Territory
+    abbr:                          NT
+    founded:                       1913
+    founded_colour:                FF0000
+    respgovt:                      1978
+    respgovt_colour:               FF7D00
+    area:                          "1,419,630"
+    population:                    "247,327"
+    capital_population:            "148,564"
+    percentage:                    60%
+    uni_no:                        1
+    uni_campus_no:                 1
+    gstp:                          "26,200"
+    gstp_per_capita:               "105,933"
+    parliament:                    Unicameral
+    electoral_system:              "OPV"
+    life_expectancy_males:         75.9
+    life_expectancy_females:       79.4
+    hdi:                           0.927
+    homicide_att_rate:             3.6
+    assault_rate:                  "2,977.8"
+    sexual_assault_rate:           145.6
+    unemployment_rate:             4.8
+    natural_disaster_risk:         <b>Cyclones</b>, <b>earthquakes</b> and <b>other storms</b>.
+
+  - entity:                        Queensland
+    abbr:                          Qld
+    founded:                       1859
+    founded_colour:                FFFF00
+    respgovt:                      1859
+    respgovt_colour:               80FF00
+    area:                          "1,851,736"
+    population:                    "5,011,216"
+    capital_population:            "2,462,637"
+    percentage:                    49%
+    uni_no:                        9
+    uni_campus_no:                 11
+    gstp:                          "339,504"
+    gstp_per_capita:               "67,749"
+    parliament:                    Unicameral
+    electoral_system:              FPV
+    life_expectancy_males:         80
+    life_expectancy_females:       84.4
+    hdi:                           0.932
+    homicide_att_rate:             1.6
+    assault_rate:                  ND
+    sexual_assault_rate:           96.8
+    unemployment_rate:             6.3
+    natural_disaster_risk:         <b>Cyclones</b>, earthquakes, landslides and <b>floods</b>.
+
+  - entity:                        South Australia
+    abbr:                          SA
+    founded:                       1836
+    founded_colour:                80FF00
+    respgovt:                      1857
+    respgovt_colour:               69FF00
+    area:                          "1,044,353"
+    population:                    "1,736,422"
+    capital_population:            "1,345,777"
+    percentage:                    78%
+    uni_no:                        4
+    uni_campus_no:                 7
+    gstp:                          "106,004"
+    gstp_per_capita:               "61,047"
+    parliament:                    Bicameral
+    electoral_system:              FPV/STV at-large
+    life_expectancy_males:         80.3
+    life_expectancy_females:       84.5
+    hdi:                           0.927
+    homicide_att_rate:             1.6
+    assault_rate:                  954.8
+    sexual_assault_rate:           92.8
+    unemployment_rate:             6.2
+    natural_disaster_risk:         <b>Bushfires</b> and <b>heat waves</b>.
+
+  - entity:                        Tasmania
+    abbr:                          Tas
+    founded:                       1825
+    founded_colour:                32CD00
+    respgovt:                      1856
+    respgovt_colour:               32CD00
+    area:                          "90,758"
+    population:                    "528,201"
+    capital_population:            "232,606"
+    percentage:                    44%
+    uni_no:                        1
+    uni_campus_no:                 1
+    gstp:                          "30,266"
+    gstp_per_capita:               "57,300"
+    parliament:                    Bicameral
+    electoral_system:              STV from 5 MDs/OPV
+    life_expectancy_males:         78.7
+    life_expectancy_females:       82.9
+    hdi:                           0.908
+    homicide_att_rate:             1.3
+    assault_rate:                  614.5
+    sexual_assault_rate:           33.5
+    unemployment_rate:             6.7
+    natural_disaster_risk:         <b>Bushfires</b>, <b>earthquakes</b> and floods.
+
+  - entity:                        Victoria
+    abbr:                          Vic
+    founded:                       1851
+    founded_colour:                CDFF00
+    respgovt:                      1855
+    respgovt_colour:               009B00
+    area:                          "237,657"
+    population:                    "6,460,675"
+    capital_population:            "4,963,349"
+    percentage:                    77%
+    uni_no:                        8
+    uni_campus_no:                 13
+    gstp:                          "423,961"
+    gstp_per_capita:               "65,622"
+    parliament:                    2
+    electoral_system:              FPV/STV from 8 MDs
+    life_expectancy_males:         81.3
+    life_expectancy_females:       85
+    hdi:                           0.939
+    homicide_att_rate:             1.3
+    assault_rate:                  ND
+    sexual_assault_rate:           92
+    unemployment_rate:             4.8
+    natural_disaster_risk:         	Avalanches, <b>bushfires</b>, <b>heat waves</b>, <b>earthquakes</b>, landslides, floods and <b>storms</b>.
+
+  - entity:                        Western Australia
+    abbr:                          WA
+    founded:                       1829
+    founded_colour:                69FF00
+    respgovt:                      1890
+    respgovt_colour:               FFFF00
+    area:                          "2,642,753"
+    population:                    "2,595,192"
+    capital_population:            "2,059,484"
+    percentage:                    79%
+    uni_no:                        4
+    uni_campus_no:                 6
+    gstp:                          "255,883"
+    gstp_per_capita:               "98,599"
+    parliament:                    Bicameral
+    electoral_system:              FPV/STV from 6 MDs
+    life_expectancy_males:         80.3
+    life_expectancy_females:       84.9
+    hdi:                           0.955
+    homicide_att_rate:             2.5
+    assault_rate:                  "1,114.9"
+    sexual_assault_rate:           110
+    unemployment_rate:             5.9
+    natural_disaster_risk:         Cyclones, <b>earthquakes</b>, <b>heat waves</b>, landslides and <b>bushfires</b>.
