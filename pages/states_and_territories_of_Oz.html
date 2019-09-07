@@ -20,40 +20,45 @@
 
 <body>
 <table cellspacing="0" border="0">
-	<colgroup width="103"></colgroup>
-	<colgroup width="30"></colgroup>
-	<colgroup width="40"></colgroup>
-	<colgroup width="60"></colgroup>
-	<colgroup width="50"></colgroup>
-	<colgroup width="50"></colgroup>
-	<colgroup width="55"></colgroup>
-	<colgroup width="40"></colgroup>
-	<colgroup width="50"></colgroup>
-	<colgroup width="63"></colgroup>
-	<colgroup width="61"></colgroup>
-	<colgroup width="55"></colgroup>
-	<colgroup width="71"></colgroup>
-	<colgroup width="85"></colgroup>
-	<colgroup span="2" width="99"></colgroup>
-	<colgroup width="85"></colgroup>
-	<colgroup width="126"></colgroup>
-	<colgroup width="85"></colgroup>
-	<colgroup width="121"></colgroup>
-	<colgroup width="84"></colgroup>
-	<colgroup width="230"></colgroup>
+	<!--State/territory-->
+	<colgroup width="125"/>
+	<!--Abbr.-->
+	<colgroup width="30"/>
+	<!--Founded-->
+	<colgroup width="40"/>
+	<!--Responsible government-->
+	<colgroup width="60"/>
+	<!--Total area-->
+	<colgroup width="50"/>
+	<!--Population-->
+	<colgroup width="50"/>
+	<!--Population of capital-->
+	<colgroup width="55"/>
+	<!--%-->
+	<colgroup width="30"/>
+	<!--Uni no.-->
+	<colgroup width="37"/>
+	<!--Unis with camp.-->
+	<colgroup width="45"/>
+	<!--GSTP (06/2018)-->
+	<colgroup width="48"/>
+	<!-- Per capita -->
+	<colgroup width="40"/>
+	<!--Structure of parliament-->
+	<colgroup width="60"/>
+	<colgroup width="85"/>
+	<colgroup span="2" width="80"/>
+	<colgroup width="55"/>
+	<colgroup width="95"/>
+	<colgroup width="58"/>
+	<colgroup width="90"/>
+	<colgroup width="58"/>
+	<colgroup width="230"/>
 	<tr>
-		<td height="48" align="left" valign=middle>
-			State/territory
-		</td>
-		<td align="left">
-			Abbr.
-		</td>
-		<td align="center">
-			Founded
-		</td>
-		<td align="center">
-			Responsible government
-		</td>
+		<td align="left" valign=middle>State/territory</td>
+		<td align="left">Abbr.</td>
+		<td align="center">Founded</td>
+		<td align="center">Responsible government</td>
 		<td align="right">
 			<a href="http://www.ga.gov.au/scientific-topics/national-location-information/dimensions/area-of-australia-states-and-territories">
 				Total area
@@ -72,8 +77,8 @@
 		<td align="right">Unis with camp.</td>
 		<td align="right"><a href="https://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/5220.02017-18?OpenDocument">GSTP</a><br>(06/2018)</td>
 		<td align="right">/capita</td>
-		<td align="right">Structure of parliament </td>
-		<td align="right">Electoral system</td>
+		<td align="left">Structure of parliament</td>
+		<td align="left">Electoral system</td>
 		<td align="right"><a href="https://www.abs.gov.au/ausstats/abs@.nsf/mf/3302.0.55.001">Life expectancy</a><br>(M; 2015-2017)</td>
 		<td align="right"><a href="https://www.abs.gov.au/ausstats/abs@.nsf/mf/3302.0.55.001">Life expectancy</a><br>(F; 2015-2017)</td>
 		<td align="right"><a href="https://globaldatalab.org/shdi/shdi/">HDI (2017)</a></td>
@@ -81,7 +86,7 @@
 		<td align="right"><a href="https://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/4510.02018?OpenDocument">Assault rate</a><br>(2018)</td>
 		<td align="right"><a href="https://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/4510.02018?OpenDocument">Sexual assault rate</a><br>(2018)</td>
 		<td align="right"><a href="https://www.abs.gov.au/ausstats/abs@.nsf/Latestproducts/6202.0Main%20Features2Jul%202019">UR (08/2019)</a></td>
-		<td align="right">Major natural disaster risks</td>
+		<td align="left">Major natural disaster risks</td>
 	</tr>
 	{% for row in site.data.states-and-territories-of-australia.body %}
 	<tr>
@@ -148,7 +153,7 @@
 		<td height="33" align="right">
 			{{ row.unemployment_rate }}
 		</td>
-		<td height="33" align="right">
+		<td height="33" align="left">
 			{{ row.natural_disaster_risk }}
 		</td>
 	</tr>
@@ -157,7 +162,7 @@
 		<td colspan="22" height="33" />
 	</tr>
 	<tr>
-		<td height="33" align="center" valign=middle>
+		<td height="33" align="left" valign=middle>
 			Colony that refused to join
 		</td>
 		<td colspan=3 align="center" valign=middle><br></td>
@@ -213,10 +218,10 @@
 		<td align="right"><br></td>
 	</tr>
 	<tr>
-		<td height="47" align="right">
+		<td height="47" align="left">
 			New Zealand
 		</td>
-		<td align="right">
+		<td align="left">
 			NZ
 		</td>
 		<td colspan=2 align="center" valign="middle">
@@ -273,35 +278,32 @@
 		</td>
 	</tr>
 	<tr>
-		<td colspan="2" align="right"/>
-		<td colspan=2 rowspan=2 align="right" valign=top>
+		<td colspan="2" align="left"/>
+		<td colspan=2 rowspan=2 align="left" valign=top>
 			The greener the older; the redder the newer. Yellow entries are in the middle of the pack in terms of age.
 		</td>
-		<td rowspan=10 align="right" valign=top>
+		<td rowspan=10 align="left" valign=top colspan=3>
 			This is a total of all area, both land and water, the entity claims; the exception is that this excludes NZ’s Antarctic claim.
 		</td>
-		<td align="right" colspan="3"><br></td>
-		<td colspan=2 rowspan=8 align="right" valign=top>
+		<td colspan=3 rowspan=8 align="left" valign=top>
 			<b>Uni no.</b> = number of universities with their main campus or headquarters in the state/territory.<br><b>Unis with camp.</b> = number of universities with a campus in the entity.
 		</td>
-		<td colspan=2 rowspan=18 align="right" valign=top>
+		<td colspan=3 rowspan=18 align="left" valign=top>
 			<b>GSTP</b> = gross state/territory product.<br><b>GDP</b> = gross domestic product.<br><b>/capita</b> = per capita. So for states/territories this is GSTP per capita, while for NZ it is GDP per capita.<br>All figures are nominal and in millions of AUD. <br>NZ figure was taken from linked source, converted from USD to AUD with the exchange rate of 1.47 AUD to 1 USD.
 		</td>
-		<td align="right" valign=top>
-			
+		<td colspan="4" rowspan=14 align="left" valign=top>
+			<b>MDs</b> = member districts. e.g. electing from 5 MDs means the state/territory will be split into electorates for the purposes of voting via STV. Per electorate (or district) five people will be elected.<br><b>FPV</b> = full preferential voting, a form of <a href="https://en.wikipedia.org/wiki/Instant-runoff_voting">instant-runoff voting</a> (IRV) wherein voters must indicate a preference for all candidates. It is presently used to elect members to the House of Representatives as well.<br><b>OPV</b> = <a href="https://en.wikipedia.org/wiki/Optional_preferential_voting">optional preferential voting</a>, where voters only need to indicate a limited, specified number of preferences in order for their vote to be counted.<br><b>STV</b> = <a href="https://en.wikipedia.org/wiki/Single_transferable_vote">single transferable vote</a>. The electoral method used to elect members to the Australian Senate as well.<br/>
+			<b>M</b> = male.<br/>
+			<b>F</b> = female.<br/>
 		</td>
-		<td colspan=3 rowspan=14 align="right" valign=top>
-			<b>MDs</b> = member districts. e.g. electing from 5 MDs means the state/territory will be split into electorates for the purposes of voting via STV. Per electorate (or district) five people will be elected.<br><b>FPV</b> = full preferential voting, a form of <a href="https://en.wikipedia.org/wiki/Instant-runoff_voting">instant-runoff voting</a> (IRV) wherein voters must indicate a preference for all candidates. It is presently used to elect members to the House of Representatives as well.<br><b>OPV</b> = <a href="https://en.wikipedia.org/wiki/Optional_preferential_voting">optional preferential voting</a>, where voters only need to indicate a limited, specified number of preferences in order for their vote to be counted.<br><b>STV</b> = <a href="https://en.wikipedia.org/wiki/Single_transferable_vote">single transferable vote</a>. The electoral method used to elect members to the Australian Senate as well.
-		</td>
-		<td align="right"><br></td>
-		<td colspan=3 rowspan=7 align="right" valign=top>
+		<td colspan=3 rowspan=7 align="left" valign=top>
 			<b>Homicide (+att) rate</b> = homicide/attempted homicide rate. <br><br/>All three figures are per 100,000 inhabitants in the stated year. <br>I couldn’t find figures for NZ for anything other than homicide rate. Previous years for NZ had higher homicide rates, so this figure is somewhat anomalous. When it comes to examining 2019’s figures, we’ll likely notice it was anomalously high due to the Christchurch massacre.
 		</td>
-		<td align="right" valign=top>
+		<td align="left" valign=top>
 			<b>UR</b> = unemployment rate as a percentage.
 		</td>
-		<td align="right" valign=top>
-			In bold are natural disasters that have occurred in, near or otherwise affected the state/territory capital before.
+		<td align="left" valign=top>
+			In bold are natural disasters that have occurred in or near the entity's capital or otherwise affected the entity's capital before. 
 		</td>
 	</tr>
 </table>

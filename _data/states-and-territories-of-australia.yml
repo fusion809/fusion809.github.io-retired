@@ -163,7 +163,7 @@ body:
     uni_campus_no:                 13
     gstp:                          "423,961"
     gstp_per_capita:               "65,622"
-    parliament:                    2
+    parliament:                    Bicameral
     electoral_system:              FPV/STV from 8 MDs
     life_expectancy_males:         81.3
     life_expectancy_females:       85
