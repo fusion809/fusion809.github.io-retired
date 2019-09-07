@@ -1,5 +1,6 @@
 body:
   - entity:                        Australian Capital Territory
+    capital_and_largest_city:      Canberra
     abbr:                          ACT
     founded:                       1911
     founded_colour:                FF7D00
@@ -25,6 +26,7 @@ body:
     natural_disaster_risk:         Bushfires, <b>earthquakes</b> and <b>floods</b>.
 
   - entity:                        New South Wales
+    capital_and_largest_city:      Sydney
     abbr:                          NSW
     founded:                       1788
     founded_colour:                009B00
@@ -50,6 +52,7 @@ body:
     natural_disaster_risk:         Bushfires, cyclones (north) floods, <b>hailstorm</b> and <b>earthquakes</b>.
 
   - entity:                        Northern Territory
+    capital_and_largest_city:      Darwin
     abbr:                          NT
     founded:                       1913
     founded_colour:                FF0000
@@ -75,6 +78,7 @@ body:
     natural_disaster_risk:         <b>Cyclones</b>, <b>earthquakes</b> and <b>other storms</b>.
 
   - entity:                        Queensland
+    capital_and_largest_city:      Brisbane
     abbr:                          Qld
     founded:                       1859
     founded_colour:                FFFF00
@@ -100,6 +104,7 @@ body:
     natural_disaster_risk:         <b>Cyclones</b>, earthquakes, landslides and <b>floods</b>.
 
   - entity:                        South Australia
+    capital_and_largest_city:      Adelaide
     abbr:                          SA
     founded:                       1836
     founded_colour:                80FF00
@@ -125,6 +130,7 @@ body:
     natural_disaster_risk:         <b>Bushfires</b> and <b>heat waves</b>.
 
   - entity:                        Tasmania
+    capital_and_largest_city:      Hobart
     abbr:                          Tas
     founded:                       1825
     founded_colour:                32CD00
@@ -150,6 +156,7 @@ body:
     natural_disaster_risk:         <b>Bushfires</b>, <b>earthquakes</b> and floods.
 
   - entity:                        Victoria
+    capital_and_largest_city:      Melbourne
     abbr:                          Vic
     founded:                       1851
     founded_colour:                CDFF00
@@ -175,6 +182,7 @@ body:
     natural_disaster_risk:         	Avalanches, <b>bushfires</b>, <b>heat waves</b>, <b>earthquakes</b>, landslides, floods and <b>storms</b>.
 
   - entity:                        Western Australia
+    capital_and_largest_city:      Perth
     abbr:                          WA
     founded:                       1829
     founded_colour:                69FF00
