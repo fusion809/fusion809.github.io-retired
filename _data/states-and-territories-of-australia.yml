@@ -105,7 +105,7 @@ body:
     sexual_assault_rate:           96.8
     unemployment_rate:             6.3
     main_industries:               Mining, agriculture, health, tourism, education, financial and professional services.<sup><a href="https://www.treasury.qld.gov.au/queenslands-economy/about-the-queensland-economy/" link="_blank">4</a></sup>
-    natural_disaster_risk:         <b>Cyclones</b>, earthquakes, landslides and <b>floods</b>.
+    natural_disaster_risk:         Bushfires, <b>cyclones</b>, earthquakes, landslides and <b>floods</b>.
 
   - entity:                        South Australia
     capital_and_largest_city:      Adelaide
@@ -131,6 +131,7 @@ body:
     assault_rate:                  954.8
     sexual_assault_rate:           92.8
     unemployment_rate:             6.2
+    main_industries:               Healthcare; social assistance; retail; manufacturing; construction; education; training; professional, scientific and technical services; accommodation; food services; agriculture; forestry; fishing.<sup><a href="https://www.abs.gov.au/AUSSTATS/abs@.nsf/Lookup/1345.4Feature%20Article1Apr%202011" link="_blank">5</a></sup>
     natural_disaster_risk:         <b>Bushfires</b> and <b>heat waves</b>.
 
   - entity:                        Tasmania
@@ -157,6 +158,7 @@ body:
     assault_rate:                  614.5
     sexual_assault_rate:           33.5
     unemployment_rate:             6.7
+    main_industries:               Health, community services, education, housing, construction, retail trade, property and business services, manufacturing, agriculture, fishing and forestry.<sup><a href="https://www.abs.gov.au/AUSSTATS/abs@.nsf/Latestproducts/FA4B3C203FFFCC6FCA2573C5000DA093?opendocument" link="_blank">6</a></sup>
     natural_disaster_risk:         <b>Bushfires</b>, <b>earthquakes</b> and floods.
 
   - entity:                        Victoria
@@ -183,6 +185,7 @@ body:
     assault_rate:                  ND
     sexual_assault_rate:           92
     unemployment_rate:             4.8
+    main_industries:               Healthcare, social assistance, retail trade, education, construction and professional, scientific and technical services.<sup><a href="https://www.abs.gov.au/AUSSTATS/abs@.nsf/mediareleasesbyReleaseDate/43BC89F2E0270130CA2581BF001F6ACE" link="_blank">7</a></sup>
     natural_disaster_risk:         	Avalanches, <b>bushfires</b>, <b>heat waves</b>, <b>earthquakes</b>, landslides, floods and <b>storms</b>.
 
   - entity:                        Western Australia
@@ -209,4 +212,5 @@ body:
     assault_rate:                  "1,114.9"
     sexual_assault_rate:           110
     unemployment_rate:             5.9
+    main_industries:               Mining, retail trade, property and business services, construction, health and community services, manufacturing, education, government administration and defence.<sup><a href="https://www.abs.gov.au/AUSSTATS/abs@.nsf/Lookup/1367.5Feature+Article2Mar+2008" link="_blank">8</a></sup>
     natural_disaster_risk:         Cyclones, <b>earthquakes</b>, <b>heat waves</b>, landslides and <b>bushfires</b>.
