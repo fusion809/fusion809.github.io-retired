@@ -131,7 +131,7 @@ body:
     assault_rate:                  954.8
     sexual_assault_rate:           92.8
     unemployment_rate:             6.2
-    main_industries:               Healthcare; social assistance; retail; manufacturing; construction; education; training; professional, scientific and technical services; accommodation; food services; agriculture; forestry; fishing.<sup><a href="https://www.abs.gov.au/AUSSTATS/abs@.nsf/Lookup/1345.4Feature%20Article1Apr%202011" link="_blank">5</a></sup>
+    main_industries:               Healthcare; social assistance; retail; manufacturing; construction; education; professional, scientific and technical services; accommodation; and food services.<sup><a href="https://www.abs.gov.au/AUSSTATS/abs@.nsf/Lookup/1345.4Feature%20Article1Apr%202011" link="_blank">5</a></sup>
     natural_disaster_risk:         <b>Bushfires</b> and <b>heat waves</b>.
 
   - entity:                        Tasmania
@@ -158,7 +158,7 @@ body:
     assault_rate:                  614.5
     sexual_assault_rate:           33.5
     unemployment_rate:             6.7
-    main_industries:               Health, community services, education, housing, construction, retail trade, property and business services, manufacturing, agriculture, fishing and forestry.<sup><a href="https://www.abs.gov.au/AUSSTATS/abs@.nsf/Latestproducts/FA4B3C203FFFCC6FCA2573C5000DA093?opendocument" link="_blank">6</a></sup>
+    main_industries:               Health, community services, education, housing, construction, retail trade, property and business services, and manufacturing.<sup><a href="https://www.abs.gov.au/AUSSTATS/abs@.nsf/Latestproducts/FA4B3C203FFFCC6FCA2573C5000DA093?opendocument" link="_blank">6</a></sup>
     natural_disaster_risk:         <b>Bushfires</b>, <b>earthquakes</b> and floods.
 
   - entity:                        Victoria
