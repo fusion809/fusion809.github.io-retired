@@ -21,11 +21,11 @@
 <body>
 <table cellspacing="0" border="0">
 	<!--State/territory-->
-	<colgroup width="125"/>
+	<colgroup width="115"/>
 	<!--Abbr.-->
 	<colgroup width="30"/>
 	<!-- Capital-->
-	<colgroup width="100"/>
+	<colgroup width="68"/>
 	<!--Founded-->
 	<colgroup width="40"/>
 	<!--Responsible government-->
@@ -48,18 +48,27 @@
 	<colgroup width="40"/>
 	<!--Structure of parliament-->
 	<colgroup width="60"/>
+	<!--Electoral system-->
+	<colgroup width="75"/>
+	<!--Life expectancy-->
+	<colgroup span="2" width="75"/>
+	<!--HDI-->
+	<colgroup width="50"/>
+	<!--Homicide (+att) rate-->
 	<colgroup width="85"/>
-	<colgroup span="2" width="80"/>
+	<!--Assault rate-->
 	<colgroup width="55"/>
-	<colgroup width="95"/>
-	<colgroup width="58"/>
-	<colgroup width="90"/>
-	<colgroup width="58"/>
-	<colgroup width="230"/>
+	<!--Sex assault rate-->
+	<colgroup width="85"/>
+	<!--Unemployment rate-->
+	<colgroup width="55"/>
+	<!--Natural disaster risks-->
+	<colgroup width="220"/>
+	<!--Title row-->
 	<tr>
 		<td align="left" valign="middle">State or territory</td>
 		<td align="left">Abbr.</td>
-		<td class="left">Capital and most populous city</td>
+		<td class="left">Capital + most populous city</td>
 		<td align="center">Founded</td>
 		<td align="center">Responsible government</td>
 		<td align="right">
@@ -89,6 +98,7 @@
 		<td align="right"><a href="https://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/4510.02018?OpenDocument">Assault rate</a><br>(2018)</td>
 		<td align="right"><a href="https://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/4510.02018?OpenDocument">Sexual assault rate</a><br>(2018)</td>
 		<td align="right"><a href="https://www.abs.gov.au/ausstats/abs@.nsf/Latestproducts/6202.0Main%20Features2Jul%202019">UR (08/2019)</a></td>
+		<td align="left">Main industries</td>
 		<td align="left">Major natural disaster risks</td>
 	</tr>
 	{% for row in site.data.states-and-territories-of-australia.body %}
@@ -160,6 +170,9 @@
 			{{ row.unemployment_rate }}
 		</td>
 		<td height="33" align="left">
+			{{ row.main_industries }}
+		</td>
+		<td height="33" align="left">
 			{{ row.natural_disaster_risk }}
 		</td>
 	</tr>
@@ -219,6 +232,11 @@
 		<td align="right">
 			<a href="https://www.stats.govt.nz/indicators/unemployment-rate">
 				UR (08/2019)
+			</a>
+		</td>
+		<td align="left">
+			<a href="https://teara.govt.nz/en/economy">
+				Main industries
 			</a>
 		</td>
 		<td align="right"><br></td>
@@ -282,6 +300,9 @@
 		<td align="right" sdval="3.9" sdnum="3081;">
 			3.9
 		</td>
+		<td align="left">
+			Manufacturing (e.g. of dishwashers and electric fences), fishing, forestry, agriculture, mineral processing, building and tourism. 
+		</td>
 		<td align="right">
 			Blizzards, earthquakes, floods, tsunamis and volcanic eruptions.
 		</td>
@@ -314,6 +335,7 @@
 		<td align="left" valign="top">
 			<b>UR</b> = unemployment rate as a percentage.
 		</td>
+		<td align="left" valign="top"></td>
 		<td align="left" valign="top">
 			In bold are natural disasters that have occurred in or near the entity's capital or otherwise affected the entity's capital before. 
 		</td>

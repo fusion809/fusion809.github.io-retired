@@ -23,6 +23,7 @@ body:
     assault_rate:                  548.7
     sexual_assault_rate:           64.6
     unemployment_rate:             3.5
+    main_industries:               Recreational services, money production, retail, construction, education, government, property and business services, health and fishing.<sup><a href="https://www.envcomm.act.gov.au/soe_about-the-report/soe_archive/2007actreport/indicators/economy07" link="_blank">1</a></sup>
     natural_disaster_risk:         Bushfires, <b>earthquakes</b> and <b>floods</b>.
 
   - entity:                        New South Wales
@@ -49,6 +50,7 @@ body:
     assault_rate:                  827.6
     sexual_assault_rate:           128.2
     unemployment_rate:             4.5
+    main_industries:               Health, education, transport, communications, public order, social security, housing and recreation.<sup><a href="https://www.treasury.nsw.gov.au/sites/default/files/2017-01/Budget_Paper_5_-_Intergenerational_Report_2016_-_full_report.pdf" link="_blank">2</a></sup>
     natural_disaster_risk:         Bushfires, cyclones (north) floods, <b>hailstorm</b> and <b>earthquakes</b>.
 
   - entity:                        Northern Territory
@@ -75,6 +77,7 @@ body:
     assault_rate:                  "2,977.8"
     sexual_assault_rate:           145.6
     unemployment_rate:             4.8
+    main_industries:               Mining, construction, public administration, health and manufacturing.<sup><a href="https://business.nt.gov.au/__data/assets/pdf_file/0006/722184/nt-economy-snapshot-201908.pdf" link="_blank">3</a></sup>
     natural_disaster_risk:         <b>Cyclones</b>, <b>earthquakes</b> and <b>other storms</b>.
 
   - entity:                        Queensland
@@ -101,6 +104,7 @@ body:
     assault_rate:                  ND
     sexual_assault_rate:           96.8
     unemployment_rate:             6.3
+    main_industries:               Mining, agriculture, health, tourism, education, financial and professional services.<sup><a href="https://www.treasury.qld.gov.au/queenslands-economy/about-the-queensland-economy/" link="_blank">4</a></sup>
     natural_disaster_risk:         <b>Cyclones</b>, earthquakes, landslides and <b>floods</b>.
 
   - entity:                        South Australia

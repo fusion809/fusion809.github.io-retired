@@ -6,4 +6,5 @@ permalink: /states-and-territories/
 title: States and territories of Australia
 ---
 
+{% include Links/image.html image="Maps/Australia_Colour_Map city labelled.svg" %}
 {% include_relative states_and_territories_of_Oz.html %}
