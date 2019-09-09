@@ -136,7 +136,7 @@ body:
     sexual_assault_rate:           92.8
     unemployment_rate:             6.2
     icac_est:                      2012<sup><a href="https://www.legislation.sa.gov.au/LZ/C/A/INDEPENDENT%20COMMISSIONER%20AGAINST%20CORRUPTION%20ACT%202012/CURRENT/2012.52.AUTH.PDF" link="_blank">9</a></sup>
-    main_industries:               Healthcare; social assistance; retail; manufacturing; construction; education; professional, scientific and technical services; accommodation; and food services.<sup><a href="https://www.abs.gov.au/AUSSTATS/abs@.nsf/Lookup/1345.4Feature%20Article1Apr%202011" link="_blank">5</a></sup>
+    main_industries:               Healthcare; social assistance; retail; manufacturing; construction; education; professional, scientific and technical services; accommodation; and food services.<sup><a href="https://www.abs.gov.au/AUSSTATS/abs@.nsf/Lookup/1345.4Feature%20Article1Apr%202011" link="_blank">10</a></sup>
     natural_disaster_risk:         <b>Bushfires</b> and <b>heat waves</b>.
 
   - entity:                        Tasmania
@@ -163,7 +163,8 @@ body:
     assault_rate:                  614.5
     sexual_assault_rate:           33.5
     unemployment_rate:             6.7
-    main_industries:               Health, community services, education, housing, construction, retail trade, property and business services, and manufacturing.<sup><a href="https://www.abs.gov.au/AUSSTATS/abs@.nsf/Latestproducts/FA4B3C203FFFCC6FCA2573C5000DA093?opendocument" link="_blank">6</a></sup>
+    icac_est:                      2010<sup><a href="https://www.integrity.tas.gov.au/" link="_blank">11</a></sup>
+    main_industries:               Health, community services, education, housing, construction, retail trade, property and business services, and manufacturing.<sup><a href="https://www.abs.gov.au/AUSSTATS/abs@.nsf/Latestproducts/FA4B3C203FFFCC6FCA2573C5000DA093?opendocument" link="_blank">12</a></sup>
     natural_disaster_risk:         <b>Bushfires</b>, <b>earthquakes</b> and floods.
 
   - entity:                        Victoria
@@ -190,7 +191,8 @@ body:
     assault_rate:                  ND
     sexual_assault_rate:           92
     unemployment_rate:             4.8
-    main_industries:               Healthcare, social assistance, retail trade, education, construction and professional, scientific and technical services.<sup><a href="https://www.abs.gov.au/AUSSTATS/abs@.nsf/mediareleasesbyReleaseDate/43BC89F2E0270130CA2581BF001F6ACE" link="_blank">7</a></sup>
+    icac_est:                      2012<sup><a href="http://www8.austlii.edu.au/cgi-bin/viewdoc/au/legis/vic/consol_act/ibaca2011479/s2.html" link="_blank">13</a></sup>
+    main_industries:               Healthcare, social assistance, retail trade, education, construction and professional, scientific and technical services.<sup><a href="https://www.abs.gov.au/AUSSTATS/abs@.nsf/mediareleasesbyReleaseDate/43BC89F2E0270130CA2581BF001F6ACE" link="_blank">14</a></sup>
     natural_disaster_risk:         	Avalanches, <b>bushfires</b>, <b>heat waves</b>, <b>earthquakes</b>, landslides, floods and <b>storms</b>.
 
   - entity:                        Western Australia
@@ -217,5 +219,6 @@ body:
     assault_rate:                  "1,114.9"
     sexual_assault_rate:           110
     unemployment_rate:             5.9
-    main_industries:               Mining, retail trade, property and business services, construction, health and community services, manufacturing, education, government administration and defence.<sup><a href="https://www.abs.gov.au/AUSSTATS/abs@.nsf/Lookup/1367.5Feature+Article2Mar+2008" link="_blank">8</a></sup>
+    icac_est:                      2004<sup><a href="https://www.ccc.wa.gov.au/sites/default/files/Corruption%20and%20Crime%20Commission%20Annual%20Report%202015-16%20_0.pdf" link="_blank">15</a></sup>
+    main_industries:               Mining, retail trade, property and business services, construction, health and community services, manufacturing, education, government administration and defence.<sup><a href="https://www.abs.gov.au/AUSSTATS/abs@.nsf/Lookup/1367.5Feature+Article2Mar+2008" link="_blank">16</a></sup>
     natural_disaster_risk:         Cyclones, <b>earthquakes</b>, <b>heat waves</b>, landslides and <b>bushfires</b>.
