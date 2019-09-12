@@ -1,0 +1,99 @@
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+	<title></title>
+	<meta name="generator" content="LibreOffice 6.3.1.2 (Linux)"/>
+	<meta name="created" content="2019-09-13T00:58:36.975673097"/>
+	<meta name="changed" content="2019-09-13T02:44:24.158881789"/>
+	<style type="text/css">
+		@page { size: 21.59cm 27.94cm; margin: 2cm }
+		p { margin-bottom: 0.25cm; line-height: 115%; background: transparent }
+		pre { font-family: "Liberation Mono", monospace; font-size: 10pt; background: transparent }
+		h1 { margin-bottom: 0.21cm; background: transparent; page-break-after: avoid }
+		h1.western { font-family: "Liberation Sans", sans-serif; font-size: 18pt; font-weight: bold }
+		h1.cjk { font-family: "DejaVu Sans"; font-size: 18pt; font-weight: bold }
+		h1.ctl { font-family: "Noto Sans Devanagari"; font-size: 18pt; font-weight: bold }
+		a:link { color: #000080; so-language: zxx; text-decoration: underline }
+	</style>
+</head>
+<body lang="en-AU" link="#000080" vlink="#800000" dir="ltr"><p style="margin-bottom: 0cm; line-height: 100%">
+This is a how to guide on how to install the <a href="https://en.wikipedia.org/wiki/Android_Pie" link="_blank">Android 9.0 (Pie)</a> <a href="https://download.pixelexperience.org/" link="_blank">Pixel Experience</a> ROM on the <a href="https://en.wikipedia.org/wiki/Nexus_5X" link="_blank">Nexus 5X</a> phone. The original forum post that I largely based this on is <a href="https://forum.xda-developers.com/nexus-5x/development/pixelexperience-nexus-5x-t3861437" link="_blank">here</a>.</p>
+<p style="margin-bottom: 0cm; line-height: 100%"><br/>
+
+</p>
+<h1 class="western">Initial steps</h1>
+<p style="margin-bottom: 0cm; line-height: 100%"><br/>
+
+</p>
+<ol>
+	<li><p style="margin-bottom: 0cm; line-height: 100%">Connect your phone to your PC via a USB-C cable.</p></li>
+	<li><p style="margin-bottom: 0cm; line-height: 100%">(If required) install Android tools from
+	<a href="https://developer.android.com/studio/releases/platform-tools.html">https://developer.android.com/studio/releases/platform-tools.html</a>,
+	or via the package manager of your Linux distribution. Specifically, you need the adb and fastboot tools.</p></li>
+	<li><p style="margin-bottom: 0cm; line-height: 25px;">Backup your data
+	either to the cloud, or by putting the phone into fastboot mode (power
+	button + volume down button) and running: <code>adb backup -all</code> because the next step, unlocking the bootloader, will clear your device of all user data.</p></li>
+</ol>
+
+<h1 class="western">Unlock the bootloader</h1>
+<ol>
+	<li><p style="margin-bottom: 0cm; line-height: 100%">Enable
+	developer mode—in “Settings”, go to “About phone” and tap
+	“Build number” ten times. The phone should say that you are now
+	a developer. Within “Settings”, a menu called “Developer
+	options” should appear now. Although, this may be tucked away
+	within the “System” menu.</p></li>
+	<li><p style="margin-bottom: 0cm; line-height: 100%">Enable USB
+	debugging and OEM unlock in “Developer options”.</p></li>
+	<li><p style="margin-bottom: 0cm; line-height: 25px;">Enter fastboot
+	mode, either by running: <code>adb reboot bootloader</code> in a terminal, or by pressing the volume down button and the power button at the same time.</p></li>
+	<li><p style="margin-bottom: 0cm; line-height: 100%">Once in
+	fastboot mode, run the following to check whether your PC detects
+	your phone: <code>fastboot devices</code>.</p></li>
+	<li><p style="margin-bottom: 0cm; line-height: 24px;">Run <code>fastboot flashing unlock</code>
+in a terminal on your PC. This will trigger a data wipe, as a
+safeguard against the possibility that someone did this unlock in an
+effort to steal your private, otherwise encrypted data.</p></li>
+	<li><p style="margin-bottom: 0cm; line-height: 100%">The phone will
+	probably reboot on its own, if it doesn’t, reboot it. Voilà, your
+	phone should now be unlocked.</p></li>
+</ol>
+
+<h1 class="western"><font face="Liberation Sans, sans-serif"><font size="5" style="font-size: 18pt"><b>TWRP</b></font></font>
+installation</h1>
+<ol>
+	<li><p>Download the latest TWRP from <a href="https://dl.twrp.me/bullhead">https://dl.twrp.me/bullhead</a>.</p></li>
+	<li><p style="margin-bottom: 0cm; line-height: 25px;">Reboot into fastboot mode, either by shutting your phone down
+	and pressing volume down and power simultaneously, or by opening a
+	terminal and running: <code>adb reboot bootloader</code>.</p></li>
+	<li><p>Once in fastboot mode, run: <code>fastboot devices</code> in a terminal.</p></li>
+	<li><p style="margin-bottom: 0cm; line-height: 25px;">Then, in a
+	terminal, run: <code>fastboot flash recovery twrp-&lt;version string&gt;.img
+fastboot boot twrp-&lt;version string&gt;.img</code>.</p></li>
+	<li><p style="margin-bottom: 0cm; line-height: 100%">If your phone
+	doesn’t reboot after this into recovery mode, turn off the phone
+	and hold down both the volume down and power button simultaneously.
+	Then select “Recovery Mode”.</p></li>
+</ol>
+
+<h1 class="western">ROM installation</h1>
+<ol>
+	<li><p style="margin-bottom: 0cm; line-height: 25px;">Download the
+	required zip archive from <a href="https://download.pixelexperience.org/bullhead/">https://download.pixelexperience.org/bullhead/</a>
+	onto your PC. The file should have name of the format: <code>PixelExperience_bullhead-9.0-&lt;timestamp&gt;-OFFICIAL.zip</code>. At the time of writing, the &lt;timestamp&gt; of the latest zip archive is 20190823-1600.</p></li>
+	<li><p style="margin-bottom: 0cm; line-height: 100%">Tap the “Wipe”
+	option on your phone.</p></li>
+	<li><p style="margin-bottom: 0cm; line-height: 100%">Select “Format
+	Data”. This will delete all data, and remove encryption.</p></li>
+	<li><p style="margin-bottom: 0cm; line-height: 100%">(Not sure this
+	option exists) tap “Advanced Wipe”, then select Cache and System
+	partitions to be wiped and then swipe to wipe.</p></li>
+	<li><p style="margin-bottom: 0cm; line-height: 100%">On the phone,
+	select “Advanced”, “ADB Sideload” and then swipe to begin
+	sideload.</p></li>
+	<li><p style="margin-bottom: 0cm; line-height: 100%">On the PC, run: <code>adb sideload PixelExperience_bullhead-9.0-&lt;timestamp&gt;-OFFICIAL.zip</code></p></li>
+	<li><p style="margin-bottom: 0cm; line-height: 25px">Run: <code>adb reboot</code>to restart your phone. You should notice an aesthetic change to practically every aspect of your phone’s software, including its splash screen, home screen, settings app, app screen, <i>etc.</i></p></li>
+</ol>
+
+</body>
+</html>
