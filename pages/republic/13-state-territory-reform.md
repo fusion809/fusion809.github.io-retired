@@ -5,6 +5,8 @@ I would like to see the proportionally representative houses of the parliaments 
 
 The premiers and chief ministers should also be {% include wt.html link="primus inter pares" f="i" language="Latin" %} with the other ministers in their government, that is, their power should be equal with the main distinguishing characteristic between the premier/chief minister and the other ministers being that they are the spokesperson of the government. 
 
+The governors and administrators of the various states and territories should have their reserve powers codified, and be directly popularly elected via instant-runoff voting. 
+
 The constitutions of the various states and territories should also be entirely entrenched, requiring a referendum for any amendment to be made. The territorial parliaments should be given back the ability to legislate on euthanasia. Likewise, the populated external territories (e.g. Christmas Island, Cocos (Keeling) Islands and Norfolk Island) should be asked, via referendum, whether they would like to have their own respective parliaments, or whether they would like to continue on with their present administrative arrangement. 
 
 Unreasonable discrimination (as opposed to reasonable discrimination, like preventing a paedophile from being a schoolteacher) in the workplace with regards to people with a criminal conviction should also be banned in the other states and territories (although, I am aware it is already banned in the Northern Territory and Tasmania).
