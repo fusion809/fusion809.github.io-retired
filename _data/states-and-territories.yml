@@ -38,7 +38,7 @@ body:
     population:                 "&lt;1,000"
     constitution:               https://www.legislation.gov.au/Details/C2012C00725
     refrequirement:             "No"
-    governance:                 "Commonwealth laws and ordinances, ACT laws and JBT criminal laws.<sup id='sup2'><a href='#ref2'>2</a></sup>"
+    governance:                 "Commonwealth laws and GG ordinances, ACT laws and JBT criminal laws apply to the territory.<sup id='sup2'><a href='#ref2'>2</a></sup>"
 
   - entity:                     Australian Capital Territory
     acronym:                    ACT
