@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/jekyll/jekyll.git
-  revision: 2e11e1345579936e953366f249b3bfdc97714131
+  revision: 6afaa369e182a3979ffc31ef3b434e65c189a8db
   specs:
     jekyll (4.0.0)
       addressable (~> 2.4)
@@ -29,7 +29,7 @@ GEM
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
     eventmachine (1.2.7)
-    faraday (0.15.4)
+    faraday (0.16.1)
       multipart-post (>= 1.2, < 3)
     ffi (1.11.1)
     forwardable-extended (2.6.0)
@@ -43,7 +43,7 @@ GEM
     jekyll-paginate (1.1.0)
     jekyll-redirect-from (0.15.0)
       jekyll (>= 3.3, < 5.0)
-    jekyll-sass-converter (2.0.0)
+    jekyll-sass-converter (2.0.1)
       sassc (> 2.0.1, < 3.0)
     jekyll-tagging (1.1.0)
       nuggets
