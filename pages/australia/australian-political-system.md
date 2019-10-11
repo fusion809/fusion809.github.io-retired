@@ -1,7 +1,7 @@
 ---
 layout:           page2
 date:             2019-06-17 18:00:00 +1000
-last_modified_at: 2019-06-17 18:00:00 +1000
+last_modified_at: 2019-10-11 18:34:00 +1000
 title:            Political system of Australia
 permalink:        /politics/australia/
 redirect_from:
