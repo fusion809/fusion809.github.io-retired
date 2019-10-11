@@ -1,0 +1,6 @@
+**MMPR-STV hybrid system**:
+
+- People have two sets of preferential votes: one is for someone to represent them in their electorate, another is to represent them nationally.
+- From every electorate someone is elected using single transferable vote, potentially (if we have to abide by section 29 of the Constitution) from districts with varying numbers of MPs (sort of like is the case in Ireland). We would likely be aiming for 6&ndash;12 members per district. 
+- The national vote is for parties, independents, and individual candidates within the parties. So, people can assign preferences to the parties, independents, and individual party candidates. Whether they want to assign preferences for individual candidates, whether independent or otherwise, is left up to the voter and they can number as many as they want, or do not want. The party vote will likely have a minimum threshold for how many parties need to be numbered in order for their vote to count. If a voter first preferences a party that is not going to win a/an (additional) seat based on the national vote, then their vote is reallocated to the second preference, If that party also fails to meet the threshold needed to get a/an (additional) seat, then votes are reallocated based on next preferences, and so forth. This is to minimize wasted votes. 
+- 
