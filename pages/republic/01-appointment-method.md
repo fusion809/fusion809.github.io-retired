@@ -1,8 +1,4 @@
 Appointment method
 ===================
 
-I was actually in favour of the President being directly elected, but then I realized that if the President is meant to be an independent referee, then what's the point to making it a popularity contest? Like, what are their campaigns going to be based on? Their political attitudes? As, if it is based on their political attitudes, then we'd be electing someone with an inherent bias with regards to the various parties (favouring the party they are either in, or most agree with the policies of), which is precisely what the President is not meant to have.
-
-A President being nominated by the {% include wp.html art="Prime_Minister_of_Australia" link="Prime Minister" %} (PM) or {% include wp.html art="Leader_of_the_Opposition_(Australia)" link="Leader of the Opposition" %} (LOP), based on their personal character and impartiality, then confirmed by a two-thirds majority vote in Parliament, sounds like a decent method of selecting them. Evidently this was the proposal that John Howard brought to voters in the 1999 referendum. 
-
-Despite this, I want the President to have reason for upholding the will of the people more than the will of the Parliament, so I think a directly elected President is still the way to go. I want this accountability to the people because that way the President will be incentivized to call an early election if the Government too happily breaks its pre-election promises (per the [Presidential powers](#Presidential-powers) section).
+I want the head of state to have reason for upholding the will of the people more than the will of the Parliament, so I think a directly elected head of state is still the way to go. I want this accountability to the people because that way the head of state will be incentivized to call an early election if the Government too happily breaks its pre-election promises (per the [head of state powers](#Head-of-state-powers) section).
