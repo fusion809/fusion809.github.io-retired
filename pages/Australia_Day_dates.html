@@ -9,118 +9,32 @@
 	
 	<style type="text/css">
 		body,div,table,thead,tbody,tfoot,tr,th,td,p { font-family:"Liberation Sans"; padding: 4px; }
+		td { border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; }
 		a.comment-indicator:hover + comment { background:#ffd; position:absolute; display:block; border:1px solid black; padding:0.5em;  } 
 		a.comment-indicator { background:red; display:inline-block; border:1px solid black; width:0.5em; height:0.5em;  } 
 		comment { display:none;  } 
+		a { color: green; font-weight: bold;}
 	</style>
 	
 </head>
 
 <body>
 <table cellspacing="0">
-	<colgroup width="80"></colgroup>
+	<colgroup width="70"></colgroup>
 	<tr>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" height="17" align="left" bgcolor="#55308D"><font color="#FFFFFF">Date</font></td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" bgcolor="#55308D"><font color="#FFFFFF">Significance</font></td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" bgcolor="#55308D"><font color="#FFFFFF">Pros as Australia Day</font></td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" bgcolor="#55308D"><font color="#FFFFFF">Cons as Australia Day</font></td>
+		<td bgcolor="#55308D"><font color="#FFFFFF">Date</font></td>
+		<td bgcolor="#55308D"><font color="#FFFFFF">Significance</font></td>
+		<td bgcolor="#55308D"><font color="#FFFFFF">Pros as Australia Day</font></td>
+		<td bgcolor="#55308D"><font color="#FFFFFF">Cons as Australia Day</font></td>
 	</tr>
+	{% for row in site.data.australia-day-proposals.body %}
 	<tr>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" height="79" align="right" valign=middle bgcolor="#29F2FF" sdval="43466" sdnum="3081;0;D MMM">1 Jan</td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=middle bgcolor="#29F2FF">Date of Federation.</td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=middle bgcolor="#29F2FF">Birth of the nation, perhaps our single most important date. Climate is also similar to that of the existing Australia Day, so may cause fewer people to dislike the change.</td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=middle bgcolor="#29F2FF">Also New Year’s Day, an existing holiday that is likely to overshadow the fact it’s Federation Day. Many people are also intoxicated on this day from the previous night’s festivities.</td>
+		<td height="79" valign=middle bgcolor="#{{ row.bg }}" sdval="43466" sdnum="3081;0;D MMM"><font color="#{% if row.colour %}{{ row.colour }}{% else %}000000{% endif %}">{{ row.date }}</font></td>
+		<td valign=middle bgcolor="#{{ row.bg }}"><font color="#{% if row.colour %}{{ row.colour }}{% else %}000000{% endif %}">{{ row.sig }}</font></td>
+		<td valign=middle bgcolor="#{{ row.bg }}"><font color="#{% if row.colour %}{{ row.colour }}{% else %}000000{% endif %}">{{ row.pros }}</font></td>
+		<td valign=middle bgcolor="#{{ row.bg }}"><font color="#{% if row.colour %}{{ row.colour }}{% else %}000000{% endif %}">{{ row.cons }}</font></td>
 	</tr>
-	<tr>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" height="48" align="right" valign=middle bgcolor="#29F2FF" sdval="43484" sdnum="3081;0;D MMM">19 Jan</td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=middle bgcolor="#29F2FF">Written as 19.01, the year of Federation.</td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=middle bgcolor="#29F2FF">Alternative way of celebrating Federation, without clashing with an existing holiday. Also has a similar climate to 26 January.</td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=middle bgcolor="#29F2FF">Not the date of any significant event. </td>
-	</tr>
-	<tr>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" height="63" align="right" valign=middle bgcolor="#5EB91E" sdval="43491" sdnum="3081;0;D MMM">26 Jan</td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=middle bgcolor="#5EB91E">Arrival of the First Fleet.</td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=middle bgcolor="#5EB91E">Existing holiday preferred by many people, especially those of predominantly British descent. The date that Australia as we know it started.</td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=middle bgcolor="#5EB91E">Also the date indigenous people started to be abused and oppressed by the Brits, hence a date of mourning for many indigenous Australians.</td>
-	</tr>
-	<tr>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" height="63" align="right" valign=middle bgcolor="#FF6D6D" sdval="43509" sdnum="3081;0;D MMM">13 Feb</td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=middle bgcolor="#FF6D6D">Official date of apology to the Stolen Generations by PM Kevin Rudd in 2008.</td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=middle bgcolor="#FF6D6D">An important date of reconciliation. </td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=middle bgcolor="#FF6D6D">Could be seen as a date mostly for indigenous Australians to commemorate and lacking much significance to non-indigenous Australians. </td>
-	</tr>
-	<tr>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" height="109" align="right" valign=middle bgcolor="#29F2FF" sdval="43527" sdnum="3081;0;D MMM">3 Mar</td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=middle bgcolor="#29F2FF">Commencement date of the Australia Acts 1986.</td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=middle bgcolor="#29F2FF">The latest date we attained our legislative independence from the UK. As it required cooperation between the UK, Commonwealth and state parliaments it also marks a date of intergovernmental cooperation. Similar climatic conditions to that of 26 January. </td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=middle bgcolor="#29F2FF">Some people that love the UK see it as a day of mourning as it’s the day we declared we could make it on our own and severed our last legislative link to the UK.</td>
-	</tr>
-	<tr>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" height="63" align="right" valign=middle bgcolor="#FFFF38" sdval="43593" sdnum="3081;0;D MMM">8 May</td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=middle bgcolor="#FFFF38">May 8 sounds like mate. </td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=middle bgcolor="#FFFF38">Can be used to signal mateship, which could be argued to be a key Australian value.</td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=middle bgcolor="#FFFF38">Uses an American date format and doesn’t actually commemorate any important date. Climate is also markedly different to that of the existing Australia Day.</td>
-	</tr>
-	<tr>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" height="125" align="right" valign=middle bgcolor="#3465A4" sdval="43594" sdnum="3081;0;D MMM"><font color="#FFFFFF">9 May</font></td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=middle bgcolor="#3465A4"><font color="#FFFFFF">Opening date of the first Federal Parliament in 1901, Old Parliament House in 1927 and New Parliament House in 1988.</font></td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=middle bgcolor="#3465A4"><font color="#FFFFFF">An important date on three related fronts─date of the opening of the first Federal Parliament, opening of Old Parliament House and opening of New Parliament House. The first Federal Parliament was in Victoria, so could be seen as divisive, but the subsequent parliament buildings were in Canberra.</font></td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=middle bgcolor="#3465A4"><font color="#FFFFFF">A fairly politically significant day, most Australians don’t care about politics and hence it may be a hard day to celebrate. Climate is also significantly different to that of the existing Australia Day.</font></td>
-	</tr>
-	<tr>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" height="92" align="right" valign=middle bgcolor="#FF6D6D" sdval="43611" sdnum="3081;0;D MMM">26 May</td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=middle bgcolor="#FF6D6D">Sorry Day, the date that John Howard apologized to indigenous Australians for the government’s historic mistreatment of them.</td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=middle bgcolor="#FF6D6D">An important date of reconciliation. </td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=middle bgcolor="#FF6D6D">It is a day that is predominantly of significance to a particular demographic of Australians, hence could be argued as unsuitable as Australia Day, which is meant to be a day of celebration for everyone. Climate may also be an issue.</td>
-	</tr>
-	<tr>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" height="63" align="right" valign=middle bgcolor="#FF6D6D" sdval="43612" sdnum="3081;0;D MMM">27 May</td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=middle bgcolor="#FF6D6D">Anniversary of the 1967 Aboriginals referendum. Also the date of Sir Henry Parkes’ birthday.</td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=middle bgcolor="#FF6D6D">Celebrates a landmark day in the progression of indigenous rights and the date of Australia’s ‘father of Federation’.</td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=middle bgcolor="#FF6D6D">Its significance is mostly just for a particular subgroup of Australians. Climate is also significantly different to that of the existing Australia Day.</td>
-	</tr>
-	<tr>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" height="92" align="right" valign=middle bgcolor="#FF6D6D" sdval="43634" sdnum="3081;0;D MMM">18 Jun</td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=middle bgcolor="#FF6D6D">Anniversary of when, in 1962, indigenous Australians, regardless of their prior military service, gained the legal right to vote in federal elections.</td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=middle bgcolor="#FF6D6D">An important date of civil rights.</td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=middle bgcolor="#FF6D6D">While an important date, indigenous Australians did not have fully equal voting rights back then. Compulsory enrolment, for example, did not exist on the federal level. Also in winter, so the climate is markedly different to that of the existing Australia Day.</td>
-	</tr>
-	<tr>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" height="92" align="right" valign=middle bgcolor="#29F2FF" sdval="43655" sdnum="3081;0;D MMM">9 Jul</td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=middle bgcolor="#29F2FF">Constitution Day, the date Queen Victoria gave royal assent to the Constitution Act.</td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=middle bgcolor="#29F2FF">Federation is an event that few consider controversial, the main exception might be secessionists in Western Australia. It’s a date we can celebrate something that joins us together. Could also be an opportunity to increase awareness of the Constitution.</td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=middle bgcolor="#29F2FF">Almost the middle of winter, so climate is as different to that of the existing  Australia Day as it can get.</td>
-	</tr>
-	<tr>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" height="48" align="right" valign=middle bgcolor="#FFFF38" sdval="43709" sdnum="3081;0;D MMM">1 Sep</td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=middle bgcolor="#FFFF38">Wattle Day.</td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=middle bgcolor="#FFFF38">First day of spring; an existing holiday.</td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=middle bgcolor="#FFFF38">Coldness of winter is usually still present, so its climate is still markedly different to that of the existing Australia Day.</td>
-	</tr>
-	<tr>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" height="77" align="right" valign=middle bgcolor="#29F2FF" sdval="43747" sdnum="3081;0;D MMM">9 Oct</td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=middle bgcolor="#29F2FF">Date the Statute of Westminster Adoption Act 1942 commenced, although retroactively applied back to 3 Sep 1939 (the start of WWII).</td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=middle bgcolor="#29F2FF">Date, at the very latest, the federal government attained its legislative independence from the UK, although the states may have still been linked to the UK.</td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=middle bgcolor="#29F2FF">Was an event that only really occurred as a means of preventing the UK from legally forcing us to come to their aid at the expense of our own defence. Could be argued to be celebrating a war.</td>
-	</tr>
-	<tr>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" height="125" align="right" valign=middle bgcolor="#29F2FF" sdval="43762" sdnum="3081;0;D MMM">24 Oct</td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=middle bgcolor="#29F2FF">Date of the Tenterfield Oration in 1889.</td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=middle bgcolor="#29F2FF">(Arguably) the date the chain of events that lead to Federation began. Also a day we can celebrate a man that personifies many of the things we cherish as a nation. Such as the ability of someone that came from humble beginnings to rise to the top position in our history through hard work and determination. </td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=middle bgcolor="#29F2FF">Not the first time Federation had been proposed, although it was the time people payed the most attention to. </td>
-	</tr>
-	<tr>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" height="109" align="right" valign=middle bgcolor="#29F2FF" sdval="43780" sdnum="3081;0;D MMM">11 Nov</td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=middle bgcolor="#29F2FF">Date of the death of Ned Kelly, a notable figure in Australia’s history; Remembrance Day; and the date in 1975 that our Constitution triumphed over its greatest ever test. </td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=middle bgcolor="#29F2FF">Celebrates the power of our Constitution and its ability to triumph in the face of adversity.</td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=middle bgcolor="#29F2FF">Celebrating on a date of respectful and quiet commemoration (Remembrance Day) could be seen as offensive to veterans and the descendants of veterans. Also potentially offensive to Labor Party supporters and Gough Whitlam’s supporters.</td>
-	</tr>
-	<tr>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" height="33" align="right" valign=middle bgcolor="#3465A4" sdval="43802" sdnum="3081;0;D MMM"><font color="#FFFFFF">3 Dec</font></td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=middle bgcolor="#3465A4"><font color="#FFFFFF">Eureka Stockade Day</font></td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=middle bgcolor="#3465A4"><font color="#FFFFFF">Arguably the single most important date in the history of Australian democracy.</font></td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=middle bgcolor="#3465A4"><font color="#FFFFFF">Some view it as a purely Victorian event.</font></td>
-	</tr>
+	{% endfor %}
 </table>
 <!-- ************************************************************************** -->
 </body>
