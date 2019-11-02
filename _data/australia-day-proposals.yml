@@ -45,7 +45,8 @@ body:
 
   - date:   26 May
     bg:     FF6D6D
-    sig:    Sorry Day, the date that John Howard apologized to indigenous Australians for the government’s historic mistreatment of them.
+    colour: fafafa
+    sig:    <a href='https://en.wikipedia.org/wiki/National_Sorry_Day' link='_blank'>Sorry Day</a>, the date that in 1998 PM John Howard apologized to indigenous Australians for the government’s historic mistreatment of them, specifically the Stolen Generations. 
     pros:   An important date of reconciliation.
     cons:   It is a day that is predominantly of significance to a particular demographic of Australians, hence could be argued as unsuitable as Australia Day, which is meant to be a day of celebration for everyone. Climate may also be an issue.
 
@@ -55,6 +56,12 @@ body:
     pros:   Celebrates a landmark day in the progression of indigenous rights and the birth date of Australia’s ‘father of Federation’, Sir Henry Parkes. As it marks two significant events, one of indigenous significance and the other of more general Australian significance, it could have greater power to unite us than other indigenous-centric dates. 
     cons:   Climate is significantly different to that of the existing Australia Day.
 
+  - date:   3 June
+    bg:     FF6D6D
+    sig:    Anniversary of the <a href='https://en.wikipedia.org/wiki/Mabo_v_Queensland_(No_2)' link='_blank'>Mabo Decision</a> in 1992.
+    pros:   Very important date of indigenous significance. 
+    cons:   Mostly just of indigenous significance, also has weather quite different to that of the existing date for Australia Day.
+  
   - date:   18 June
     bg:     FF6D6D
     sig:    Anniversary of when, in 1962, indigenous Australians, regardless of their prior military service, gained the legal right to vote in federal elections.
