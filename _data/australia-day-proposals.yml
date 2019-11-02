@@ -1,22 +1,26 @@
 body:
+  # Federation Day
   - date:   1 January
     bg:     29F2FF
     sig:    Date of <a href='https://en.wikipedia.org/wiki/Federation' link='_blank'><font color='#ff3333'>Federation</font></a>.
     pros:   Birth of the nation, perhaps our single most important date. Climate is also similar to that of the existing Australia Day, so may cause fewer people to dislike the change.
     cons:   Also <a href="https://en.wikipedia.org/wiki/New_Year's_Day" link='_blank'><font color='#ff3333'>New Year’s Day</font></a>, an existing holiday that is likely to overshadow the fact it’s Federation Day. Many people are also intoxicated on this day from the previous night’s festivities, so this might also happen the celebration of the day. 
 
+  # Fed Day adjacent
   - date:   19 January
     bg:     29F2FF
     sig:    Written as 19.01, the year of Federation.
     pros:   Alternative way of celebrating Federation, without clashing with an existing holiday. Also has a similar climate to 26 January.
     cons:   Not the actual date of any significant event.
 
+  # First Fleet Day
   - date:   26 January
     bg:     5EB91E
     sig:    Arrival of the <a href='https://en.wikipedia.org/wiki/First_Fleet' link='_blank'><font color="990099">First Fleet</font></a>.
     pros:   Existing holiday preferred by many people, especially those of predominantly British descent. The date that Australia as we know it started.
     cons:   Also the date indigenous Australians started to be abused and oppressed by the Brits, hence a date of mourning for many indigenous Australians.
 
+  # Apology Day
   - date:   13 February
     bg:     FF6D6D
     colour: 000000
@@ -24,18 +28,21 @@ body:
     pros:   An important date of reconciliation. It has a similar climate to that of 26 January, which might be desirable in minimizing the unpleasantness associated with changing the date.
     cons:   Mostly only of significance to indigenous Australians. I realize that this is a date of reconciliation that should be significant to all Australians, but most non-indigenous Australians don't care that much about that date. 
 
+  # Australia Acts Day
   - date:   3 March
     bg:     29F2FF
     sig:    Commencement date of the <a href='https://en.wikipedia.org/wiki/Australia_Act_1986' link='_blank'>Australia Acts 1986</a>.
     pros:   The latest possible date we attained our legislative independence from the UK. As it required cooperation between the UK, Commonwealth and state parliaments, it also marks a date of intergovernmental cooperation. Similar climatic conditions to that of 26 January.
     cons:   Some people that love the UK see it as a day of mourning, as it’s the day we declared we could make it on our own and severed our last legislative link to the UK.
 
+  # Mate Day
   - date:   8 May
     bg:     FFFF38
     sig:    May 8 sounds like mate.
     pros:   Can be used to signal <a href='https://en.wikipedia.org/wiki/Mateship' link='_blank'>mateship</a>, which could be argued to be a key Australian value.
     cons:   Uses an American date format and doesn’t actually commemorate any important date. Climate is also markedly different to that of the existing Australia Day.
 
+  # Parliament Day
   - date:   9 May
     bg:     3465A4
     colour: FFFFFF
@@ -43,6 +50,7 @@ body:
     pros:   An important date on three related fronts─date of the opening of the first Federal Parliament, opening of Old Parliament House and opening of New Parliament House. The first Federal Parliament was in Victoria, so could be seen as divisive between the states, but the subsequent parliament buildings were in Canberra, so it shouldn't be.
     cons:   A fairly politically significant day, most Australians don’t care about politics and hence it may be a hard day to celebrate. Climate is also significantly different to that of the existing Australia Day.
 
+  # National Sorry Day
   - date:   26 May
     bg:     FF6D6D
     colour: fafafa
@@ -50,54 +58,63 @@ body:
     pros:   An important date of reconciliation.
     cons:   It is a day that is predominantly of significance to a particular demographic of Australians, hence could be argued as unsuitable as Australia Day, which is meant to be a day of celebration for everyone. Climate may also be an issue.
 
+  # 1967 referendum and Sir Henry Parkes' b'day
   - date:   27 May
     bg:     FF6D6D
     sig:    Anniversary of the <a href='https://en.wikipedia.org/wiki/1967_Australian_referendum_(Aboriginals)' link='_blank'>1967 Aboriginals referendum</a>. Also the date of <a href='https://en.wikipedia.org/wiki/Henry_Parkes' link='_blank'>Sir Henry Parkes</a>’ birthday.
     pros:   Celebrates a landmark day in the progression of indigenous rights and the birth date of Australia’s ‘father of Federation’, Sir Henry Parkes. As it marks two significant events, one of indigenous significance and the other of more general Australian significance, it could have greater power to unite us than other indigenous-centric dates. 
     cons:   Climate is significantly different to that of the existing Australia Day.
 
+  # Mabo Decision Day
   - date:   3 June
     bg:     FF6D6D
     sig:    Anniversary of the <a href='https://en.wikipedia.org/wiki/Mabo_v_Queensland_(No_2)' link='_blank'>Mabo Decision</a> in 1992.
     pros:   Very important date of indigenous significance. 
     cons:   Mostly just of indigenous significance, also has weather quite different to that of the existing date for Australia Day.
   
+  # Indigenous Federal Franchise Day
   - date:   18 June
     bg:     FF6D6D
     sig:    Anniversary of when, in 1962, indigenous Australians, regardless of their prior military service, gained the legal right to vote in federal elections.
     pros:   An important date for civil rights.
     cons:   While an important date, indigenous Australians did not have fully equal voting rights back then. Compulsory enrolment, for example, did not exist on the federal level. Also it is in winter, so the climate is markedly different to that of the existing Australia Day.
 
+  # Constitution Day
   - date:   9 July
     bg:     29F2FF
     sig:    Constitution Day, the date Queen Victoria gave royal assent to the <a href='https://en.wikipedia.org/wiki/Constitution_of_Australia' link='_blank'>Constitution Act</a>.
     pros:   Federation is an event that few have negative opinions of. It’s a date we can celebrate what we have in common&mdash;a nation, a Constitution, and a history that belongs to all of us. Could also be an opportunity to increase awareness of the Constitution, given that many Australians aren't even aware we have a Constitution to begin with, let alone that a referendum is required for any amendment to it to be made.
     cons:   Almost the middle of winter, so climate is as different to that of the existing Australia Day as it can get.
 
+  # Wattle Day
   - date:   1 September
     bg:     FFFF38
     sig:    <a href='https://en.wikipedia.org/wiki/Wattle_day' link='_blank'><font color='#222288'>Wattle Day</font></a>.
     pros:   First day of spring; an existing holiday.
     cons:   Coldness of winter is usually still present, so its climate is still markedly different to that of the existing Australia Day.
 
+  # Westminster Adopt Day
   - date:   9 October
     bg:     29F2FF
     sig:    Date the <a href='https://en.wikipedia.org/wiki/Statute_of_Westminster_Adoption_Act_1942' link='_blank'><font color='#ff2222'>Statute of Westminster Adoption Act 1942</font></a> commenced, although retroactively applied back to 3 September 1939 (the start of WWII).
     pros:   Date, at the very latest, the federal government attained its legislative independence from the UK, although the states may have still been linked to the UK.
     cons:   Was an event that only really occurred as a means of preventing the UK from legally overriding our wartime decisions. Given the circumstances, celebrating this date could be seen as celebrating a war that triggered us to sever this link. Some people with more affection for the UK than most might mourn this date as the day we severed the federal government's legislative ties to the UK. 
 
+  # Tenterfield Oration Day
   - date:   24 October
     bg:     29F2FF
     sig:    Date of the <a href='https://en.wikipedia.org/wiki/Tenterfield_Oration' link='_blank'><font color='#ff2222'>Tenterfield Oration</font></a> in 1889.
     pros:   (Arguably) the date the chain of events that lead to Federation began. Also a day we can celebrate a man that personifies many of the things we cherish as a nation. Such as the ability of someone that came from humble beginnings and even another country to rise to the top position in our country through hard work and determination.
     cons:   Not the first time Federation had been proposed, although it was the time people paid the most attention to.
 
+  # Remembrance Day / Dismissal Day / Kelly Death Day
   - date:   11 November
     bg:     29F2FF
     sig:    Date of the death of <a href='https://en.wikipedia.org/wiki/Ned_Kelly' link='_blank'><font color='#ff2222'>Ned Kelly</font></a>, a notable figure in Australia’s history; <a href='https://en.wikipedia.org/wiki/Remembrance_Day' link='_blank'><font color='#ff2222'>Remembrance Day</font></a>; and the date in 1975 that our Constitution triumphed over <a href='https://en.wikipedia.org/wiki/1975_Australian_constitutional_crisis' link='_blank'><font color='#ff2222'>its greatest ever test</font></a>.
     pros:   Celebrates the power of our Constitution and its ability to triumph over adversity. Also allows people the day off to fully commemorate Remembrance Day.
     cons:   Celebrating on a date of respectful and quiet commemoration of the sacrifice of our veterans (Remembrance Day) could be seen as offensive. Also potentially offensive to Labor Party and Gough Whitlam supporters and those with positive views of Ned Kelly to celebrate this date. I'm an admirer of Gough Whitlam too, but I do not find celebrating/commemorating the date offensive, at least not on that basis. 
 
+  # Eureka Stockade Day
   - date:   3 December
     bg:     3465A4
     colour: FFFFFF
