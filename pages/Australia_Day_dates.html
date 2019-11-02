@@ -32,6 +32,18 @@
 		<td valign=middle bgcolor="#{{ row.bg }}"><font color="#{% if row.colour %}{{ row.colour }}{% else %}000000{% endif %}">{{ row.cons }}</font></td>
 	</tr>
 	{% endfor %}
+	<tr>
+		<td colspan=4>
+			<b>Legend</b>:
+			<ol>
+				<li>Those days with a <span style="background-color: #29F2FF; padding: 5px;">cyan</span> background are those of general constitutional significance.</li>
+				<li>The <span style="background-color: #5EB91E; padding: 5px;">green</span> background is for the day that is presently used as Australia Day, 26 January.</li>
+				<li>The <span style="background-color: #3465A4; color:white; padding: 5px;">blue</span> background is for days of general democratic significance.</li>
+				<li>The <span style="background-color: #FF6D6D; padding: 5px;">red</span> background is for days of indigenous significance.</li>
+				<li>The <span style="background-color: #FFFF38; padding: 5px;">yellow</span> background is for other days.</li>
+			</ol>
+		</td>
+	</tr>
 </table>
 </body>
 </html>
