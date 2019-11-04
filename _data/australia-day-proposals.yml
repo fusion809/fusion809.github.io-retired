@@ -53,7 +53,7 @@ body:
   # National Sorry Day
   - date:   26 May
     bg:     FF6D6D
-    colour: fafafa
+    colour: 000000
     sig:    <a href='https://en.wikipedia.org/wiki/National_Sorry_Day' link='_blank'>Sorry Day</a>, the date that in 1998 PM John Howard apologized to indigenous Australians for the government’s historic mistreatment of them, specifically the Stolen Generations. 
     pros:   An important date of reconciliation.
     cons:   It is a day that is predominantly of significance to a particular demographic of Australians, hence could be argued as unsuitable as Australia Day, which is meant to be a day of celebration for everyone. Climate may also be an issue.
@@ -90,7 +90,7 @@ body:
   - date:   1 September
     bg:     FFFF38
     sig:    <a href='https://en.wikipedia.org/wiki/Wattle_day' link='_blank'><font color='#222288'>Wattle Day</font></a>.
-    pros:   First day of spring; an existing holiday.
+    pros:   First day of spring; an existing date of Australian significance.
     cons:   Coldness of winter is usually still present, so its climate is still markedly different to that of the existing Australia Day.
 
   # Westminster Adopt Day
