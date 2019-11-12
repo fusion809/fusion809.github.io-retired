@@ -1,4 +1,4 @@
-<table cellspacing="0">
+<table cellspacing="0" style="border: 1px;">
 	<colgroup width="110"></colgroup>
 	<tr>
 		<td style="background-color: #55308D; font-weight: bold;"><font color="#FFFFFF">Date</font></td>
@@ -8,7 +8,7 @@
 	</tr>
 	{% for row in site.data.australia-day-proposals.body %}
 	<tr>
-		<td height="79" valign=middle style="background-color: #{{ row.bg }};" sdval="43466" sdnum="3081;0;D MMM">{% if row.colour %}<font color="#{{ row.colour }}">{% else %}<font color="#000000">{% endif %}{{ row.date }}</font></td>
+		<td valign=middle style="background-color: #{{ row.bg }};">{% if row.colour %}<font color="#{{ row.colour }}">{% else %}<font color="#000000">{% endif %}{{ row.date }}</font></td>
 		<td valign=middle style="background-color: #{{ row.bg }};">{% if row.colour %}<font color="#{{ row.colour }}">{% else %}<font color="#000000">{% endif %}{{ row.sig }}</font></td>
 		<td valign=middle style="background-color: #{{ row.bg }};">{% if row.colour %}<font color="#{{ row.colour }}">{% else %}<font color="#000000">{% endif %}{{ row.sig }}</font></td>
 		<td valign=middle style="background-color: #{{ row.bg }};">{% if row.colour %}<font color="#{{ row.colour }}">{% else %}<font color="#000000">{% endif %}{{ row.cons }}</font></td>
