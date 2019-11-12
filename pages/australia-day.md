@@ -8,7 +8,7 @@ title:            Possible dates for Australia Day
 ---
 
 <table cellspacing="0">
-	<colgroup width="110"></colgroup>
+	<colgroup width="110"/>
 	<tr>
 		<td style="background-color: #55308D; font-weight: bold;"><font color="#FFFFFF">Date</font></td>
 		<td style="background-color: #55308D; font-weight: bold;"><font color="#FFFFFF">Significance</font></td>
