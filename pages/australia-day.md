@@ -2,7 +2,7 @@
 layout:           page4
 date:             2019-11-02 17:12:00 +1000
 last_modified_at: 2019-11-02 17:12:00 +1000
-redirect_from:    /australia_day/
+redirect_from:    /politics/australia_day/
 permalink:        /australia-day/
 title:            Possible dates for Australia Day
 ---
