@@ -1,17 +1,17 @@
 <table cellspacing="0">
 	<colgroup width="110"></colgroup>
 	<tr>
-		<td style="background-color: #55308D" style="font-weight: bold;"><font color="#FFFFFF">Date</font></td>
-		<td style="background-color: #55308D" style="font-weight: bold;"><font color="#FFFFFF">Significance</font></td>
-		<td style="background-color: #55308D" style="font-weight: bold;"><font color="#FFFFFF">Pros as Australia Day</font></td>
-		<td style="background-color: #55308D" style="font-weight: bold;"><font color="#FFFFFF">Cons as Australia Day</font></td>
+		<td style="background-color: #55308D; font-weight: bold;"><font color="#FFFFFF">Date</font></td>
+		<td style="background-color: #55308D; font-weight: bold;"><font color="#FFFFFF">Significance</font></td>
+		<td style="background-color: #55308D; font-weight: bold;"><font color="#FFFFFF">Pros as Australia Day</font></td>
+		<td style="background-color: #55308D; font-weight: bold;"><font color="#FFFFFF">Cons as Australia Day</font></td>
 	</tr>
 	{% for row in site.data.australia-day-proposals.body %}
 	<tr>
-		<td height="79" valign=middle style="background-color: #{{ row.bg }}" sdval="43466" sdnum="3081;0;D MMM"><font color="#{% if row.colour %}{{ row.colour }}{% else %}000000{% endif %}">{{ row.date }}</font></td>
-		<td valign=middle style="background-color: #{{ row.bg }}"><font color="#{% if row.colour %}{{ row.colour }}{% else %}000000{% endif %}">{{ row.sig }}</font></td>
-		<td valign=middle style="background-color: #{{ row.bg }}"><font color="#{% if row.colour %}{{ row.colour }}{% else %}000000{% endif %}">{{ row.pros }}</font></td>
-		<td valign=middle style="background-color: #{{ row.bg }}"><font color="#{% if row.colour %}{{ row.colour }}{% else %}000000{% endif %}">{{ row.cons }}</font></td>
+		<td height="79" valign=middle style="background-color: #{{ row.bg }};" sdval="43466" sdnum="3081;0;D MMM"><font color="#{% if row.colour %}{{ row.colour }}{% else %}000000{% endif %}">{{ row.date }}</font></td>
+		<td valign=middle style="background-color: #{{ row.bg }};"><font color="#{% if row.colour %}{{ row.colour }}{% else %}000000{% endif %}">{{ row.sig }}</font></td>
+		<td valign=middle style="background-color: #{{ row.bg }};"><font color="#{% if row.colour %}{{ row.colour }}{% else %}000000{% endif %}">{{ row.pros }}</font></td>
+		<td valign=middle style="background-color: #{{ row.bg }};"><font color="#{% if row.colour %}{{ row.colour }}{% else %}000000{% endif %}">{{ row.cons }}</font></td>
 	</tr>
 	{% endfor %}
 	<tr>
