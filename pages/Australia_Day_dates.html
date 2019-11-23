@@ -1,23 +1,23 @@
 <table cellspacing="0" style="border: 1px;">
 	<colgroup width="110"></colgroup>
 	<tr>
-		<td style="background-color: #55308D; font-weight: bold; color: #FFFFFF;">Date</td>
-		<td style="background-color: #55308D; font-weight: bold; color: #FFFFFF">Significance</td>
-		<td style="background-color: #55308D; font-weight: bold; color: #FFFFFF">Pros as Australia Day</td>
-		<td style="background-color: #55308D; font-weight: bold; color: #FFFFFF">Cons as Australia Day</td>
+		<td style="background-color: #55308D; font-weight: bold; color: #FFFFFF; border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000;">Date</td>
+		<td style="background-color: #55308D; font-weight: bold; color: #FFFFFF; border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000;">Significance</td>
+		<td style="background-color: #55308D; font-weight: bold; color: #FFFFFF; border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000">Pros as Australia Day</td>
+		<td style="background-color: #55308D; font-weight: bold; color: #FFFFFF; border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000">Cons as Australia Day</td>
 	</tr>
 	{% for row in site.data.australia-day-proposals.body %}
 	<tr>
-		<td valign=middle bgcolor="#{{ row.bg }}" {% if row.colour %}style="color: #{{ row.colour }}"{% else %}style="color: #000000"{% endif %}>
+		<td valign=middle bgcolor="#{{ row.bg }}" {% if row.colour %}style="color: #{{ row.colour }}; border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000"{% else %}style="color: #000000; border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000"{% endif %}>
 			{{ row.date }}
 		</td>
-		<td valign=middle bgcolor="#{{ row.bg }}" {% if row.colour %}style="color: #{{ row.colour }}"{% else %}style="color: #000000"{% endif %}>
+		<td valign=middle bgcolor="#{{ row.bg }}" {% if row.colour %}style="color: #{{ row.colour }}; border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000"{% else %}style="color: #000000; border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000"{% endif %}>
 			{{ row.sig }}
 		</td>
-		<td valign=middle bgcolor="#{{ row.bg }}" {% if row.colour %}style="color: #{{ row.colour }}"{% else %}style="color: #000000"{% endif %}>
+		<td valign=middle bgcolor="#{{ row.bg }}" {% if row.colour %}style="color: #{{ row.colour }}; border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000"{% else %}style="color: #000000; border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000"{% endif %}>
 			{{ row.pros }}
 		</td>
-		<td valign=middle bgcolor="#{{ row.bg }}" {% if row.colour %}style="color: #{{ row.colour }}"{% else %}style="color: #000000"{% endif %}>
+		<td valign=middle bgcolor="#{{ row.bg }}" {% if row.colour %}style="color: #{{ row.colour }}; border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000"{% else %}style="color: #000000; border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000;"{% endif %}>
 			{{ row.cons }}
 		</td>
 	</tr>

@@ -2,9 +2,9 @@ body:
   # Federation Day
   - date:   1 January
     bg:     29F2FF
-    sig:    Date of <a href='https://en.wikipedia.org/wiki/Federation' link='_blank'><font color='#ff3333'>Federation</font></a>.
+    sig:    Date of <a href='https://en.wikipedia.org/wiki/Federation' link='_blank'><font color='#339933'>Federation</font></a>.
     pros:   Birth of the nation, perhaps our single most important date. Climate is also similar to that of the existing Australia Day, so may cause fewer people to dislike the change.
-    cons:   Also <a href="https://en.wikipedia.org/wiki/New_Year's_Day" link='_blank'><font color='#ff3333'>New Year’s Day</font></a>, an existing holiday that is likely to overshadow the fact it’s Federation Day. Many people are also intoxicated on this day from the previous night’s festivities, so this might also happen the celebration of the day. 
+    cons:   Also <a href="https://en.wikipedia.org/wiki/New_Year's_Day" link='_blank'><font color='#339933'>New Year’s Day</font></a>, an existing holiday that is likely to overshadow the fact it’s Federation Day. Many people are also intoxicated on this day from the previous night’s festivities, so this might also happen the celebration of the day. 
 
   # Fed Day adjacent
   - date:   19 January
@@ -82,7 +82,7 @@ body:
   # Constitution Day
   - date:   9 July
     bg:     29F2FF
-    sig:    Constitution Day, the date Queen Victoria gave royal assent to the <a href='https://en.wikipedia.org/wiki/Constitution_of_Australia' link='_blank'>Constitution Act</a>.
+    sig:    Constitution Day, the date Queen Victoria gave royal assent to the <a href='https://en.wikipedia.org/wiki/Constitution_of_Australia' link='_blank'><font color="557700">Constitution Act</font></a>.
     pros:   Federation is an event that few have negative opinions of. It’s a date we can celebrate what we have in common&mdash;a nation, a Constitution, and a history that belongs to all of us. Could also be an opportunity to increase awareness of the Constitution, given that many Australians aren't even aware we have a Constitution to begin with, let alone that a referendum is required for any amendment to it to be made.
     cons:   Almost the middle of winter, so climate is as different to that of the existing Australia Day as it can get.
 
@@ -96,21 +96,21 @@ body:
   # Westminster Adopt Day
   - date:   9 October
     bg:     29F2FF
-    sig:    Date the <a href='https://en.wikipedia.org/wiki/Statute_of_Westminster_Adoption_Act_1942' link='_blank'><font color='#ff2222'>Statute of Westminster Adoption Act 1942</font></a> commenced, although retroactively applied back to 3 September 1939 (the start of WWII).
+    sig:    Date the <a href='https://en.wikipedia.org/wiki/Statute_of_Westminster_Adoption_Act_1942' link='_blank'><font color='#557700'>Statute of Westminster Adoption Act 1942</font></a> commenced, although retroactively applied back to 3 September 1939 (the start of WWII).
     pros:   Date, at the very latest, the federal government attained its legislative independence from the UK, although the states may have still been linked to the UK.
     cons:   Was an event that only really occurred as a means of preventing the UK from legally overriding our wartime decisions. Given the circumstances, celebrating this date could be seen as celebrating a war that triggered us to sever this link. Some people with more affection for the UK than most might mourn this date as the day we severed the federal government's legislative ties to the UK. 
 
   # Tenterfield Oration Day
   - date:   24 October
     bg:     29F2FF
-    sig:    Date of the <a href='https://en.wikipedia.org/wiki/Tenterfield_Oration' link='_blank'><font color='#ff2222'>Tenterfield Oration</font></a> in 1889.
+    sig:    Date of the <a href='https://en.wikipedia.org/wiki/Tenterfield_Oration' link='_blank'><font color='#557700'>Tenterfield Oration</font></a> in 1889.
     pros:   (Arguably) the date the chain of events that lead to Federation began. Also a day we can celebrate a man that personifies many of the things we cherish as a nation. Such as the ability of someone that came from humble beginnings and even another country to rise to the top position in our country through hard work and determination.
     cons:   Not the first time Federation had been proposed, although it was the time people paid the most attention to.
 
   # Remembrance Day / Dismissal Day / Kelly Death Day
   - date:   11 November
     bg:     29F2FF
-    sig:    Date of the death of <a href='https://en.wikipedia.org/wiki/Ned_Kelly' link='_blank'><font color='#ff2222'>Ned Kelly</font></a>, a notable figure in Australia’s history; <a href='https://en.wikipedia.org/wiki/Remembrance_Day' link='_blank'><font color='#ff2222'>Remembrance Day</font></a>; and the date in 1975 that our Constitution triumphed over <a href='https://en.wikipedia.org/wiki/1975_Australian_constitutional_crisis' link='_blank'><font color='#ff2222'>its greatest ever test</font></a>.
+    sig:    Date of the death of <a href='https://en.wikipedia.org/wiki/Ned_Kelly' link='_blank'><font color='#557700'>Ned Kelly</font></a>, a notable figure in Australia’s history; <a href='https://en.wikipedia.org/wiki/Remembrance_Day' link='_blank'><font color='#557700'>Remembrance Day</font></a>; and the date in 1975 that our Constitution triumphed over <a href='https://en.wikipedia.org/wiki/1975_Australian_constitutional_crisis' link='_blank'><font color='#557700'>its greatest ever test</font></a>.
     pros:   Celebrates the power of our Constitution and its ability to triumph over adversity. Also allows people the day off to fully commemorate Remembrance Day.
     cons:   Celebrating on a date of respectful and quiet commemoration of the sacrifice of our veterans (Remembrance Day) could be seen as offensive. Also potentially offensive to Labor Party and Gough Whitlam supporters and those with positive views of Ned Kelly to celebrate this date. I'm an admirer of Gough Whitlam too, but I do not find celebrating/commemorating the date offensive, at least not on that basis. 
 
