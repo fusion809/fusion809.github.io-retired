@@ -3,10 +3,10 @@ Appointment method
 
 I want the head of state to have reason for upholding the will of the people more than the will of the Parliament, so I think a directly elected head of state is the way to go. I want this accountability to the people because that way the head of state will be incentivized to call an early election if the Government too happily breaks its pre-election promises (per the [head of state powers](#Head-of-state-powers) section).
 
-<h2 style="background-color: white; border:none;">Requirements for head of state</h2>
+<h2 style="background-color: white; border:none;" id="requirements-for-head-of-state">Requirements for the head of state</h2>
 The head of state will need to meet the requirements to be a parliamentarian, e.g. not be a dual citizen, and they will also need to have no significant links to political parties and politicians (e.g. if they have a family member they have little to do with that is a politician they will not necessarily be disqualified), nor can they have any ties with big business. 
 
-<h2 style="background-color: white; border: none;">Nomination</h2>
+<h2 style="background-color: white; border: none;" id="nomination">Nomination</h2>
 Unless a new election is called abnormally early (e.g. due to impeachment), each candidate _must_ be nominated by three months before the election. Before I proceed to detail the nomination mechanisms, any petitioned used in the head of state nominated process must meet the following conditions:
 
 1. it must not have started circulating any more than 3 years ago;
@@ -24,5 +24,5 @@ If a single petition is handed into them with signatures from 50%+1 of eligible 
 <li>By a petition that has received signatures from at least 10% of eligible voters from across the country in the past 3 years.</li>
 </ol>
 
-<h2 style="background-color: white; border: none;">Elections</h2>
+<h2 style="background-color: white; border: none;" id="elections">Elections</h2>
 Head of state elections would be conducted simultaneously to House of Representatives (HoR) elections and the maximum term length will be the same as that of the HoR (presently three years). The simultaneous elections are to serve multiple purposes: to minimize cost, maximize turnout, minimize inconvenience, and to maximize accountability for the use of reserve powers over the Parliament. 
