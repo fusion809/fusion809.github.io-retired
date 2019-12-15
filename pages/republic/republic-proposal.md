@@ -2,7 +2,7 @@
 layout:           page2
 title:            "Australian republic proposal"
 date:             2019-05-11 13:44:37 +1000
-last_modified_at: 2019-12-15 14:30:00 +1000
+last_modified_at: 2019-12-16 05:06:00 +1000
 permalink:        /politics/republic-proposal/
 redirect_from:
                 - /repub/
