@@ -7,6 +7,8 @@ Reserve powers of such a head of state:
 
     - The Government failing to meet its constitutional obligations, like securing supply.
 
+    - A successful vote of no confidence has been levelled against the government in the House of Representatives (HoR).
+
     - The Government breaking its pre-election promises in a deliberate and wilful way. Not being able to fulfil their promises due to their bills not being approved by the Parliament is not valid grounds. If they do not even attempt to introduce the bills they promised within a reasonable time frame (although, if an emergency occurs, such as war, they'll have more time to), despite warnings from the head of state, or if they start doing things they promised they would not do (e.g. dismantling Medicare, educational services, _etc._), then that is valid grounds for the Parliament to be dissolved.
 
     - Evidence of mass corruption in the Parliament, or Government.
@@ -15,9 +17,7 @@ Reserve powers of such a head of state:
 
 * They can dismiss the Government and install a caretaker Government, if any only if, there is strong evidence of mass corruption in the Government or the government wilfully and deliberately broke pre-election promises without a valid excuse.
 
-* They can refuse to dissolve the House of Representatives (HoR), if they are not satisfied by the reasons the ministers have given them for why it should be dissolved early.
-
-* They can dissolve the HoR if there's been a successful vote of no confidence. This can be used at their discretion, if they are confident that the new Prime Minister (PM) will be able to command the confidence of the HoR. 
+* They can refuse to dissolve the HoR, if they are not satisfied by the reasons the ministers have given them for why it should be dissolved early.
 
 * They can dismiss ministers of state, including the PM, along with MPs and senators, if they have been convicted of corruption or misbehaviour or if they have wilfully broken pre-election promises. If there is evidence of corruption or misconduct, but they have not been convicted yet, the head of state will be able to temporarily dismiss them, pending the completion of the investigation, from their ministerial positions, but not their seats in the Parliament. 
 
