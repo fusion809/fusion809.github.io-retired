@@ -9,7 +9,7 @@ The head of state will need to meet the requirements to be a parliamentarian, e.
 <h2 style="background-color: white; border: none;" id="nomination">Nomination</h2>
 Unless a new election is called abnormally early (e.g. due to impeachment), each candidate _must_ be nominated by three months before the election. Before I proceed to detail the nomination mechanisms, any petitioned used in the head of state nominated process must meet the following conditions:
 
-1. it must not have started circulating any more than 3 years ago;
+1. it must not have started circulating any more than 5 years ago;
 2. it must only nominated one person; and
 3. it must be signed by the nominated person, with this signature indicating their agreement to run in the head of state election if nominated and serve as head of state if elected for the full term length. If they drop out of the race, or they resign from the post of head of state (if they are elected, of course), then they must either pay a fine (which will be dependent on how much their dropping out or resignation is likely to cost the taxpayer) or present an acceptable reason for their dropping out or resignation to the Commonwealth Parliament.
 

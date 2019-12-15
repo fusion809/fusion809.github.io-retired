@@ -1,7 +1,7 @@
 {% include wp.html link="Bill of rights" %}
 ===============
 
-A bill of rights to be introduced into the federal Constitution. Such a Constitution would safeguard:
+A bill of rights should be passed as a regular Act of the Commonwealth Parliament after going through multiple parliamentary committees to ensure it was well-drafted, then if no significant changes seem necessary after 10 years of its enactment, a referendum should be held to entrench it into the Constitution. Such an Act should safeguard:
 
 * Freedom of speech&mdash;only limits will be on libel (purposeful destruction of someone's reputation using false allegations; burden of proof on the falsity of the claims will be on the plaintiff), speech that endangers citizens (e.g. yelling fire in a crowded theatre, as it can lead to people being trampled) or national security (e.g. revealing military secrets).
 * Freedom of expression&mdash;to prevent any possible banning of symbols like the swastika, hammer and sickle, or even Nazi salutes, regardless of how we feel about them. 
@@ -15,6 +15,8 @@ A bill of rights to be introduced into the federal Constitution. Such a Constitu
 * Right to life. Capital punishment is already illegal nationwide, but we should probably prevent it from ever being legalized. 
 * Right to equal treatment before the law and in the workplace (where practical), regardless of race, criminal record, gender identity, sexual orientation, political beliefs, _etc._ Although, the emphasis there is *where practical*, e.g. if you are applying for an acting job and the character you are auditioning for is a person of the opposite gender, a different race, _etc._ it is reasonable for you to be refused the part for this reason. Likewise, if you are applying for a teaching position and you have a conviction for paedophilic acts, it is reasonable to deny this application, out of concern for the safety of the children you would be teaching. 
 * Access to the essentials of life, like housing, clean water, food and healthcare. 
+
+It would be ideal if the state parliaments would refer to the Commonwealth Parliament under section 51(xxxvii) of the Constitution the power to apply this bill of rights to them as well.
 
 Many of those in the last bullet point above could be provided without too much cost to the system, like food can be provided by food thrown out by supermarkets and restaurants that are not past their expiry date. Likewise, there are many houses in Australia that are unoccupied, if the government bought them, and kept multiple homeless people in each, but screened them for infectious disease, infestations (e.g. scabies), smoking habits, criminal records, _etc._, to ensure they do not pose any risk of any kind to anyone else in there, they could do this in an affordable manner. Naturally, they will be required to keep the common areas and where they sleep clean and the house will be inspected for any health hazards (e.g. unhygienic conditions, mould, _etc._). Privacy in the bathroom would also be safeguarded, as it is a basic right.
 

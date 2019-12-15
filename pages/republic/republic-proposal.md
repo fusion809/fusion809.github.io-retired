@@ -2,7 +2,7 @@
 layout:           page2
 title:            "Australian republic proposal"
 date:             2019-05-11 13:44:37 +1000
-last_modified_at: 2019-11-23 19:12:00 +1000
+last_modified_at: 2019-12-15 10:44:00 +1000
 permalink:        /politics/republic-proposal/
 redirect_from:
                 - /repub/
@@ -20,8 +20,6 @@ redirect_from:
 {% include_relative 03-removal-mechanism.md %}
 
 {% include_relative 04-citizen-initiated-referenda.md %}
-
-{% include_relative 05-electorate-meetings.md %}
 
 {% include_relative 06-electoral-method.md %}
 
