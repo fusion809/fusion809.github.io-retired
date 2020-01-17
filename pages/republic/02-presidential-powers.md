@@ -1,37 +1,4 @@
 Head of state powers
 ====================
 
-Reserve powers of such a head of state:
-
-* The ability to dissolve the Parliament (either fully or in part) and call a new election (which must be held within a month of this dissolution) in the event of:
-
-    - The Government failing to meet its constitutional obligations, like securing supply.
-
-    - A successful vote of no confidence has been levelled against the government in the House of Representatives (HoR).
-
-    - The Government breaking its pre-election promises in a deliberate and wilful way. Not being able to fulfil their promises due to their bills not being approved by the Parliament is not valid grounds. If they do not even attempt to introduce the bills they promised within a reasonable time frame (although, if an emergency occurs, such as war, they'll have more time to), despite warnings from the head of state, or if they start doing things they promised they would not do (e.g. dismantling Medicare, educational services, _etc._), then that is valid grounds for the Parliament to be dissolved.
-
-    - Evidence of mass corruption in the Parliament, or Government.
-
-    In any of these events, the head of state will have the right to turn any pending appropriation bills that are desperately needed into temporary law, that can be, if they so desire, reversed by the new Parliament once it is formed and convened for the first time. If, and only if, an emergency occurs that requires urgent legislation, the head of state will also have the power to draft a bill, and&mdash;if after the Constitutional Council (see later for what the Council is) has examined it for faults (as there is not a full Parliament to do so, after all) and ruled it valid&mdash;the ministers of state vote in favour of it, it can be written into temporary law. This law will be reviewed by the new Parliament on its first sitting; if they agree with the law and vote in favour of it, it will formally become an Act of Parliament, making it no longer temporary. 
-
-* They can dismiss the Government and install a caretaker Government, if any only if, there is strong evidence of mass corruption in the Government or the government wilfully and deliberately broke pre-election promises without a valid excuse.
-
-* They can refuse to dissolve the HoR, if they are not satisfied by the reasons the ministers have given them for why it should be dissolved early.
-
-* They can dismiss ministers of state, including the PM, along with MPs and senators, if they have been convicted of corruption or misbehaviour or if they have wilfully broken pre-election promises. If there is evidence of corruption or misconduct, but they have not been convicted yet, the head of state will be able to temporarily dismiss them, from their ministerial positions, pending the completion of the investigation, but not their seats in the Parliament. 
-
-Each of these powers will require the approval of the *Constitutional Council* (a majority vote in favour), which will consist of six constitutional law experts (that hold doctorates in constitutional law) elected by a three-quarter majority vote in both houses of Parliament. Each member will be nominated by a consensus reached by the Attorney-General (AG), Shadow AG (SAG), and an attorney representing the third largest party in the Commonwealth Parliament (A3L; preferably an attorney that has a seat in the Commonwealth Parliament) and before they are put before the Parliament for confirmation they will, before being officially nominated, be first asked if they're interested in the position and if they are, they will be investigated by the AFP and Federal ICAC for:
-
-* corruption;
-* corruptibility, e.g. being in severe debt, or being indebted to known criminals, or having a drug addiction, _etc._;
-* allegiance (including in the form of citizenship) to foreign countries;
-* connections with political parties and politicians, as like the head of state they are meant to be impartial;
-* connections with the head of state; and
-* connections with big business, as they can have a special interest in how the country's government is running.
-
-If any strong evidence of any of these things (henceforth known as the six disqualifiers) is found they will be disqualified and another person will need to be nominated for the vacant Council position. Naturally, if it is a simple matter that they have a family member that is a former politician, they will not be disqualified, but if they have a close family member or friend that is a politician they will be disqualified, to ensure they do not use their position in the Council to benefit their family or friends. 
-
-After every head of state election, the AFP and Federal ICAC will need to investigate every member of the Constitutional Council for evidence of any of the six disqualifiers. 
-
-***Note**: the head of state will not, aside from in a strictly ceremonial fashion (required by law to follow the advice of the ministers), give assent to legislation, or have the ability to appoint any officials, or be commander-in-chief of the armed forces, or have any additional executive powers. These powers will be firmly vested in the ministers of state and the Parliament. Presently, under the monarchy, the Governor-General (GG), by convention, almost always follows the advice of ministers of state when they exercise their executive powers, but there is no guarantee a future head of state will follow this convention if we transfer this power and convention to them, so it is prudent to limit what power they do have.*
+The head of state will have the same powers as the Governor-General, except with their reserve powers codified.
