@@ -1,12 +1,12 @@
 ---
 layout:           page2
-date:             2020-01-18 16:07:26 +1000
-last_modified_at: 2020-01-18 16:07:26 +1000
+date:             2020-01-18 22:28:26 +1000
+last_modified_at: 2020-01-18 22:28:26 +1000
 permalink:        /ausrepublic
 title:            "AusRepublic: my case for an Australian republic"
 ---
 
-Ever since the continent of Australia was colonized by the British in the late 18th century, Australia&mdash;including its former colonies, the Commonwealth of Australia and the states&mdash;have been under the crown of a foreign monarch. Many people falsely claim that in 1901, Australia gained its independence from the British Empire, but we were still very much part of the Empire until the Second World War, when the [*Statute of Westminster Adoption Act 1942*](https://www.foundingdocs.gov.au/item-did-25.html) was enacted by the Curtin Government. Even after this date and until the passing of the [*Australia Acts 1986*](https://www.foundingdocs.gov.au/item-did-32.html), the parliaments of the states were still subject to the lawmaking power of the United Kingdom (UK) Parliament, the monarch still acted on the advice of the UK Government in appointing state governors, and court decisions made with respect to state matters were still subject to appeal by the {% include wp.html link="Judicial Committee of the UK Privy Council" art="Judicial_Committee_of_the_Privy_Council" puncr=".<sup>1</sup>" %}
+Ever since the continent of Australia was colonized by the British in the late 18th century, Australia&mdash;including its former colonies, the Commonwealth of Australia and the states&mdash;have been under the crown of a foreign monarch. Many people falsely claim that in 1901, Australia gained its independence from the British Empire, but we were still very much part of the Empire until the Second World War, when the [*Statute of Westminster Adoption Act 1942*](https://www.foundingdocs.gov.au/item-did-25.html) was enacted by the Curtin Government. Even after this date and until the passing of the [*Australia Acts 1986*](https://www.foundingdocs.gov.au/item-did-32.html), the parliaments of the states were still subject to the lawmaking power of the United Kingdom (UK) Parliament, the monarch still acted on the advice of the UK Government in appointing state governors, and court decisions made with respect to state matters were still subject to appeal by the {% include wp.html link="Judicial Committee of the UK Privy Council" art="Judicial_Committee_of_the_Privy_Council" puncr=".<sup><a href='#ref1' link='_blank'>1</a></sup>" %}
 
 Since then, while not subject to the lawmaking power of the UK Parliament, nor the advisory power of the UK Government in the appointing of our viceroys, nor to appeals to the Judicial Committee of the Privy Council (except through [section 74 of the Constitution](http://www6.austlii.edu.au/cgi-bin/viewdoc/au/legis/cth/consol_act/coaca430/s74.html), which allows the High Court to grant appeals to the Privy Council on *inter se* matters, although the High Court has indicated their intention to never grant that), we have still been under their monarch, and not truly independent as a result. 
 
@@ -40,9 +40,25 @@ Many parliamentary republics exist out there that have an apolitical head of sta
 
 If you look at Ireland post-republic and compare it to Ireland pre-republic you will likely find that post-republic Ireland is markedly more prosperous and stable than its pre-republic counterpart. It actually ranks higher on measures of democracy than Australia, like the Democracy Index. It is exactly the type of republic most Australians want too, a Westminster-style republic with a directly elected head of state. 
 
+**Argument 4**: if it ain't broke, don't fix it.
+
+**Response 4**: this is an argument for laziness and mediocrity. This might be a controversial view, but I believe Australians deserve the best possible Constitution, not one that is just barely functional. Our Constitution is anachronistic and has many flaws, including:
+
+* The appointment procedure for the federal court judges ([section 72](http://www5.austlii.edu.au/au/legis/cth/consol_act/coaca430/s72.html)). Presently, the executive government has sole prerogative over the appointment of federal court judges, hence allowing them to appoint biased judges that will always rule in their favour.
+* The 'races' power in [section 51(xxvi)](http://www5.austlii.edu.au/au/legis/cth/consol_act/coaca430/s51.html), which allows the Commonwealth Parliament to enact racist laws.
+* The prohibition against public servants running for positions in the Commonwealth Parliament, per [section 44(iv)](http://www5.austlii.edu.au/au/legis/cth/consol_act/coaca430/s44.html). I can understand why public servants are not allowed to also *be* parliamentarians, but it does seem unfair that they have to quit their jobs just to run, especially since it is not exactly guaranteed that they will get in.
+* The arcane language of the Constitution. Surely, such a fundamental document that all Australian citizens own, in a sense, as their consent is required for its amendment, should be accessible and easily understandable to all Australians, not just those with legal training.
+* The archaic and uninspiring language of its [Preamble](http://classic.austlii.edu.au/au/legis/cth/consol_act/coaca430/preamble.html).
+* Spelling errors. Any English teacher worth their salt would mark it down if it were an assignment, due to its inconsistent spelling (e.g. it spells the -ize suffix and variants on it inconsistently, sometimes it spells it with an s, other times with a z). Surely, the Australian Constitution should be written in consistent Australian English.
+* The fact that it requires or forces malapportionment in the Commonwealth Parliament. The Senate is deliberately malapportioned, as per [section 7](http://www5.austlii.edu.au/au/legis/cth/consol_act/coaca430/s7.html) every original state (which every current state is) is required to receive the same number of senators, even though the states have different populations. Consequently, a voter in Tasmania's vote is almost fourteen times stronger than a New South Wales voter's vote, as there are almost fourteen times more voters in New South Wales than in Tasmania, yet they both get the same number of senators.{% include inline-ref.html no="2" %} The House of Representatives is meant to be properly apportioned but by virtue of [section 24](http://www5.austlii.edu.au/au/legis/cth/consol_act/coaca430/s24.html) (which requires that every original state gets at least 5 MPs, regardless of population) and [29](http://www5.austlii.edu.au/au/legis/cth/consol_act/coaca430/s29.html) (which requires that electorates cannot cross state borders) of the Constitution, it is not. Due to this, and other issues, the least populated division, the Division of Solomon in the Northern Territory, has less than 70,000 enrolled voters,{% include inline-ref.html no="3" %} while the Division of Cowper in New South Wales has almost 125,000.{% include inline-ref.html no="4" %}
+
+
 References
 ==========
 
 <ol>
-<li>{% include ref.html url="https://www.smh.com.au/national/the-hidden-hand-of-her-majesty-20070210-gdpg2j.html" date="10 February 2007" accessdate="17 January 2020" website="smh.com.au" publisher="The Sydney Morning Herald" title="The hidden hand of her majesty" %}</li>
+<li id="ref1">{% include ref.html url="https://www.smh.com.au/national/the-hidden-hand-of-her-majesty-20070210-gdpg2j.html" date="10 February 2007" accessdate="17 January 2020" website="smh.com.au" publisher="The Sydney Morning Herald" title="The hidden hand of her majesty" %}</li>
+<li id="ref2">{% include ref.html title="Enrolment activity by state and enrolment type - December 2019" url="https://aec.gov.au/Enrolling_to_vote/Enrolment_stats/type/2019/12.htm" date="14 January 2020" accessdate="18 January 2020" website="aec.gov.au" publisher="Australian Electoral Commission" %}</li>
+<li id="ref3">{% include ref.html title="Solomon, NT" url="https://results.aec.gov.au/24310/Website/HouseDivisionPage-24310-307.htm" date="4 June 2019" accessdate="18 January 2020" website="aec.gov.au" publisher="Australian Electoral Commission" %}</li>
+<li id="ref4">{% include ref.html title="Cowper, NSW" url="https://results.aec.gov.au/24310/Website/HouseDivisionPage-24310-113.htm" date="7 June 2019" accessdate="18 January 2020" website="aec.gov.au" publisher="Australian Electoral Commission" %}</li>
 </ol>
