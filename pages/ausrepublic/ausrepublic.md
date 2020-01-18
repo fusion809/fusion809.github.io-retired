@@ -1,7 +1,7 @@
 ---
 layout:           page2
-date:             2020-01-18 15:27:26 +1000
-last_modified_at: 2020-01-18 15:27:26 +1000
+date:             2020-01-18 16:07:26 +1000
+last_modified_at: 2020-01-18 16:07:26 +1000
 permalink:        /ausrepublic
 title:            "AusRepublic: my case for an Australian republic"
 ---
@@ -38,7 +38,7 @@ Many parliamentary republics exist out there that have an apolitical head of sta
 
 **Response 3**: the identity of our head of state is irrelevant as to whether we become a dictatorship. Some of the most stable and true democracies in the world are republics, such as Switzerland, likewise some countries have become dictatorships while being constitutional monarchies, such as Fiji during their 1987 coups (the later of which lead to them establishing a republic), Fascist Italy, the Empire of Japan during World War II and Thailand in 2014. Under the monarchy, we have been slipping on our rankings of democratic functioning and transparency for the past decade or so, and authoritarian and rights-infringing laws have been passed despite it (e.g. anti-encryption laws, laws that penalize whistleblowers and journalists alike). 
 
-If you look at Ireland post-republic and compare it to Ireland pre-republic you will likely find that post-republic Ireland is markedly more prosperous and stable than its pre-republic counterpart. It actually ranks higher on measures of democracy than Australia, like the Democracy Index. Likewise, post-republic India has performed far better in every possible way than pre-republic India, including in terms of democratic functioning. Neither have ever had a coup d'état or dictatorship either. Both India and Ireland are roughly the same type of republic we would have if we established a republic here, namely a Westminster-style republic.
+If you look at Ireland post-republic and compare it to Ireland pre-republic you will likely find that post-republic Ireland is markedly more prosperous and stable than its pre-republic counterpart. It actually ranks higher on measures of democracy than Australia, like the Democracy Index. It is exactly the type of republic most Australians want too, a Westminster-style republic with a directly elected head of state. 
 
 References
 ==========
