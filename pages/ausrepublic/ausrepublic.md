@@ -1,7 +1,7 @@
 ---
 layout:           page2
-date:             2020-01-18 22:28:26 +1000
-last_modified_at: 2020-01-18 22:28:26 +1000
+date:             2020-01-19 02:55:26 +1000
+last_modified_at: 2020-01-19 02:55:26 +1000
 permalink:        /ausrepublic
 title:            "AusRepublic: my case for an Australian republic"
 ---
@@ -44,14 +44,20 @@ If you look at Ireland post-republic and compare it to Ireland pre-republic you 
 
 **Response 4**: this is an argument for laziness and mediocrity. This might be a controversial view, but I believe Australians deserve the best possible Constitution, not one that is just barely functional. Our Constitution is anachronistic and has many flaws, including:
 
-* The appointment procedure for the federal court judges ([section 72](http://www5.austlii.edu.au/au/legis/cth/consol_act/coaca430/s72.html)). Presently, the executive government has sole prerogative over the appointment of federal court judges, hence allowing them to appoint biased judges that will always rule in their favour.
-* The 'races' power in [section 51(xxvi)](http://www5.austlii.edu.au/au/legis/cth/consol_act/coaca430/s51.html), which allows the Commonwealth Parliament to enact racist laws.
-* The prohibition against public servants running for positions in the Commonwealth Parliament, per [section 44(iv)](http://www5.austlii.edu.au/au/legis/cth/consol_act/coaca430/s44.html). I can understand why public servants are not allowed to also *be* parliamentarians, but it does seem unfair that they have to quit their jobs just to run, especially since it is not exactly guaranteed that they will get in.
-* The arcane language of the Constitution. Surely, such a fundamental document that all Australian citizens own, in a sense, as their consent is required for its amendment, should be accessible and easily understandable to all Australians, not just those with legal training.
-* The archaic and uninspiring language of its [Preamble](http://classic.austlii.edu.au/au/legis/cth/consol_act/coaca430/preamble.html).
-* Spelling errors. Any English teacher worth their salt would mark it down if it were an assignment, due to its inconsistent spelling (e.g. it spells the -ize suffix and variants on it inconsistently, sometimes it spells it with an s, other times with a z). Surely, the Australian Constitution should be written in consistent Australian English.
-* The fact that it requires or forces malapportionment in the Commonwealth Parliament. The Senate is deliberately malapportioned, as per [section 7](http://www5.austlii.edu.au/au/legis/cth/consol_act/coaca430/s7.html) every original state (which every current state is) is required to receive the same number of senators, even though the states have different populations. Consequently, a voter in Tasmania's vote is almost fourteen times stronger than a New South Wales voter's vote, as there are almost fourteen times more voters in New South Wales than in Tasmania, yet they both get the same number of senators.{% include inline-ref.html no="2" %} The House of Representatives is meant to be properly apportioned but by virtue of [section 24](http://www5.austlii.edu.au/au/legis/cth/consol_act/coaca430/s24.html) (which requires that every original state gets at least 5 MPs, regardless of population) and [29](http://www5.austlii.edu.au/au/legis/cth/consol_act/coaca430/s29.html) (which requires that electorates cannot cross state borders) of the Constitution, it is not. Due to this, and other issues, the least populated division, the Division of Solomon in the Northern Territory, has less than 70,000 enrolled voters,{% include inline-ref.html no="3" %} while the Division of Cowper in New South Wales has almost 125,000.{% include inline-ref.html no="4" %}
+<ul>
+<li>The appointment procedure for the federal court judges (<a href='http://www5.austlii.edu.au/au/legis/cth/consol_act/coaca430/s72.html' link='_blank'>section 72</a>). Presently, the executive government has sole prerogative over the appointment of federal court judges, hence allowing them to appoint biased judges that will always rule in their favour.</li>
+<li>The 'races' power in <a href='http://www5.austlii.edu.au/au/legis/cth/consol_act/coaca430/s51.html' link='_blank'>section 51(xxvi)</a>, which allows the Commonwealth Parliament to enact racist laws.</li>
+<li>The prohibition against public servants running for positions in the Commonwealth Parliament, per <a href='http://www5.austlii.edu.au/au/legis/cth/consol_act/coaca430/s44.html' link='_blank'>section 44(iv)</a>. I can understand why public servants are not allowed to also *be* parliamentarians, but it does seem unfair that they have to quit their jobs just to run, especially since it is not exactly guaranteed that they will get in.</li>
+<li>The arcane language of the Constitution. Surely, such a fundamental document that all Australian citizens own, in a sense, as their consent is required for its amendment, should be accessible and easily understandable to all Australians, not just those with legal training.</li>
+<li>The archaic and uninspiring language of its <a href='http://classic.austlii.edu.au/au/legis/cth/consol_act/coaca430/preamble.html' link='_blank'>Preamble</a>.</li>
+<li>Spelling errors. Any English teacher worth their salt would mark it down if it were an assignment, due to its inconsistent spelling (e.g. it spells the -ize suffix and variants on it inconsistently&mdash;sometimes it spells it with an s, other times with a z). Surely, the Australian Constitution should be written consistently in Australian English.</li>
+<li>The fact that it requires or forces malapportionment in the Commonwealth Parliament.<br/><br/>
 
+The Senate is deliberately malapportioned, as per <a href='http://www5.austlii.edu.au/au/legis/cth/consol_act/coaca430/s7.html' link='_blank'>section 7</a> every original state (which every current state is) is required to receive the same number of senators, even though the states have different populations. Consequently, a voter in Tasmania's vote is almost fourteen times stronger than a New South Wales voter's vote, as there are almost fourteen times more voters in New South Wales than in Tasmania, yet they both get the same number of senators.{% include inline-ref.html no="2" %}<br/><br/>
+
+The House of Representatives is meant to be properly apportioned but by virtue of <a href='http://www5.austlii.edu.au/au/legis/cth/consol_act/coaca430/s24.html' link='_blank'>section 24</a> (which requires that every original state gets at least 5 MPs, regardless of population) and <a href='http://www5.austlii.edu.au/au/legis/cth/consol_act/coaca430/s29.html' link='_blank'>29</a> (which requires that electorates cannot cross state borders) of the Constitution, it is not. Due to this, and other issues, the least populated division, the Division of Solomon in the Northern Territory, has less than 70,000 enrolled voters,{% include inline-ref.html no="3" %} while the Division of Cowper in New South Wales has almost 125,000.{% include inline-ref.html no="4" %}
+</li>
+</ul>
 
 References
 ==========
